@@ -3,10 +3,8 @@
 <p align="center">
   <img src="logo.jpg" alt="F0rc3Run Logo" width="160"/>
 </p>
-
-<h1 align="center">🚀 F0rc3Run</h1>
 <p align="center">
-  <b>Fighting for Free Internet Access in Iran and Beyond</b><br>
+  <b>Fighting for Free Internet Access</b><br>
   <a href="https://t.me/F0rc3Run">🇮🇷 کانال تلگرام</a> • <a href="https://github.com/F0rc3Run">🌐 GitHub</a>
 </p>
 
