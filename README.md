@@ -13,7 +13,7 @@
 ## 🌍 About Me | درباره من
 
 **EN:**  
-Hi! I’m **Farnam Abay**, creator of **F0rc3Run**.  
+Hi! I’m **AMF**, creator of **F0rc3Run**.  
 I build free, open-source tools to help everyone — especially Iranians — access uncensored internet.  
 From Telegram bots to VPN scrapers, everything here supports **free internet for all**.
 
