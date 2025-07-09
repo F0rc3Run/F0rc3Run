@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <b>Fighting for Free Internet Access</b><br>
-  <a href="https://t.me/F0rc3Run">🇮🇷 کانال تلگرام</a> • <a href="https://github.com/F0rc3Run">🌐 GitHub</a>
+  <a href="https://t.me/ForceRunVPN">🇮🇷 کانال تلگرام</a> • <a href="https://github.com/F0rc3Run">🌐 GitHub</a>
 </p>
 
 ---
