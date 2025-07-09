@@ -1,7 +1,7 @@
 <!-- README.md for https://github.com/F0rc3Run -->
 
 <p align="center">
-  <img src="logo.png" alt="F0rc3Run Logo" width="160"/>
+  <img src="logo.jpg" alt="F0rc3Run Logo" width="160"/>
 </p>
 
 <h1 align="center">🚀 F0rc3Run</h1>
