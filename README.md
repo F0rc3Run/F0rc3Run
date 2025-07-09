@@ -62,8 +62,7 @@ Get live VPN links via Telegram! Choose protocol, language, and get working serv
 
 ## 📜 License | مجوز
 
-**ForceRun Free Access License (FFAL)**  
-MIT + آزادی برای همه
+**ForceRun Free Access License  /    مجوز دسترسی آزاد فورس‌ران (FFAL)**
 
 📄 [مشاهده لایسنس](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/LICENSE)
 
