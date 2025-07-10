@@ -52,7 +52,7 @@ My mission is to build tools that help people bypass censorship and enjoy secure
 Get a free SSTP VPN server from our active list and enjoy safe, uncensored access.
 </p>
 
-<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/data/sstp_random.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
+<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/sstp_with_country.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
 📥 View SSTP Server
 </a>
 
@@ -73,7 +73,7 @@ Get a free SSTP VPN server from our active list and enjoy safe, uncensored acces
 با استفاده از سرور SSTP موجود در لیست فعال ما، به اینترنت آزاد و ایمن دسترسی پیدا کنید.
 </p>
 
-<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/data/sstp_random.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
+<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/sstp_with_country.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
 📥 مشاهده سرور SSTP
 </a>
 
