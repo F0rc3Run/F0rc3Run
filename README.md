@@ -14,23 +14,32 @@
 
 **EN:**  
 Hi! I’m **AMF**, creator of **F0rc3Run**.  
-I build free, open-source tools to help everyone — especially Iranians — access uncensored internet.  
-From Telegram bots to VPN scrapers, everything here supports **free internet for all**.
+Here, I provide a collection of free and public VPN servers to support open and unrestricted internet access.
+My mission is to build tools that help people bypass censorship and enjoy secure, uncensored connectivity — for everyone, everywhere. **free internet for all**.
 
 **FA:**  
 سلام!
-در اینجا ابزارهای متن‌باز برای دسترسی آزاد به اینترنت توسعه می‌دم — مخصوصاً برای کاربران ایرانی.  
-هدف من کمک به عبور از فیلترینگ و گسترش اینترنت آزاد برای همه‌ست.
+در اینجا مجموعه‌ای از سرورهای رایگان و عمومی برای دسترسی به اینترنت آزاد ارائه می‌دم — با تمرکز ویژه بر کاربران ایرانی.
+هدف من فراهم‌کردن ابزارهایی برای عبور از فیلترینگ و حمایت از حق دسترسی همگانی به اینترنت آزاد و بدون سانسور است.
+
 
 ---
 
-## 🛠 Featured Projects | پروژه‌های مهم
+## 📦 Subscription Links | لینک‌های اشتراک VPN
 
-| 🌐 Project | توضیح |
-|-----------|--------|
-| [sstp-scraper](https://github.com/F0rc3Run/sstp-scraper) | جمع‌آوری خودکار سرورهای SSTP رایگان |
-| [free-vpn-subscription](https://github.com/F0rc3Run/free-vpn-subscription) | ساخت اشتراک VPN برای پروتکل‌های مختلف |
-| [telegram-vpn-bot](https://github.com/F0rc3Run/telegram-vpn-bot) | بات هوشمند تلگرام برای دریافت کانفیگ‌ها |
+لیست زیر شامل سرورهای فیلترشکن سالم و تست‌شده برای استفاده در اپلیکیشن‌های مختلف است.  
+همه فایل‌ها **به‌صورت خودکار هر ۶ ساعت بروزرسانی** می‌شوند و بدون نیاز به تنظیمات خاص قابل استفاده هستند.
+
+| 🌐 Protocol | 📥 Subscription Link | 🧾 Description |
+|------------|----------------------|----------------|
+| 🟨 **Shadowsocks** | [`shadowsocks_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/shadowsocks_all.txt) | سبک و قابل استفاده در تمام دستگاه‌ها |
+| 🟩 **VLESS** | [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/vless_all.txt) | پشتیبانی‌شده در اپ‌های پیشرفته مثل Nekobox |
+| 🟦 **VMess** | [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/vmess_all.txt) | شامل سرورهای VMess سالم و پایدار |
+| 🟥 **Trojan** | [`trojan.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/trojan.txt) | امن و سریع با رمزنگاری قوی |
+
+> 🧠 **راهنما:** لینک را کپی کرده و داخل اپ فیلترشکن خود وارد کنید (مانند Husi, Nekobox, V2rayNG و ...)
+
+> ♻️ همه‌ی لینک‌ها **از منابع عمومی جمع‌آوری** و **تست اتصال** شده‌اند.
 
 ---
 
