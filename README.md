@@ -43,6 +43,53 @@ My mission is to build tools that help people bypass censorship and enjoy secure
 
 ---
 
+---
+
+<h2>🛰️ SSTP VPN Server | سرور SSTP رایگان</h2>
+
+<p>
+<b>EN:</b><br>
+Get a free SSTP VPN server from our active list and enjoy safe, uncensored access.
+</p>
+
+<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/data/sstp_random.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
+📥 View SSTP Server
+</a>
+
+<pre><code><b>Username:</b> vpn
+<b>Password:</b> vpn</code></pre>
+
+<p><b>How to Use:</b></p>
+<ol>
+<li>Open your SSTP VPN client (e.g., <i>Open SSTP Client</i> on Android).</li>
+<li>Copy the <code>host:port</code> from the link above.</li>
+<li>Enter the username and password.</li>
+<li>Connect and browse freely.</li>
+</ol>
+
+<hr>
+
+<p><b>FA:</b><br>
+با استفاده از سرور SSTP موجود در لیست فعال ما، به اینترنت آزاد و ایمن دسترسی پیدا کنید.
+</p>
+
+<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/data/sstp_random.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
+📥 مشاهده سرور SSTP
+</a>
+
+<pre><code><b>نام کاربری:</b> vpn
+<b>رمز عبور:</b> vpn</code></pre>
+
+<p><b>راهنمای استفاده:</b></p>
+<ol>
+<li>اپلیکیشن SSTP VPN (مثل <i>Open SSTP Client</i> برای اندروید) را باز کنید.</li>
+<li>مقدار <code>host:port</code> را از لینک بالا کپی کنید.</li>
+<li>نام کاربری و رمز عبور را وارد نمایید.</li>
+<li>متصل شوید و آزادانه مرور کنید.</li>
+</ol>
+
+---
+
 ## 🤖 Telegram Bot | بات تلگرام
 
 **EN:**  
