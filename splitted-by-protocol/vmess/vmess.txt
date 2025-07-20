@@ -1,1 +1,1 @@
-vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&security=none&sni=soft98.ir&fp=&type=tcp&headerType=http&host=soft98.ir#F0rc3Run
+vmess://6693fcae-4c20-46dc-9033-44be4a148804@104.18.26.164:443?encryption=auto&security=tls&sni=jqpfw.cfiqrk.net&fp=&type=grpc&serviceName=argo#F0rc3Run
