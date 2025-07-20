@@ -36,7 +36,7 @@ My mission is to build tools that help people bypass censorship and enjoy secure
 | ⚡ **VLESS** | [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt) | پشتیبانی‌شده در اپ‌های پیشرفته مثل Nekobox |
 | 🌀 **VMess** | [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/vmess_all.txt) | شامل سرورهای VMess سالم و پایدار |
 | 🔒 **Trojan** | [`trojan.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt) | امن و سریع با رمزنگاری قوی |
-| 🌐 **Mix Country**  | [`Telegram Proxy List`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt) | ترکیب سرورها از چند کشور |
+| 🌐 **Mix Country**  | [` mix List`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt) | ترکیب سرورها از چند کشور |
 
 
 > 🧠 **راهنما:** لینک را کپی کرده و داخل اپ فیلترشکن خود وارد کنید (مانند Husi, Nekobox, V2rayNG و ...)
