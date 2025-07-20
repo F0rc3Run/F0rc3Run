@@ -4,7 +4,7 @@
   <img src="Logo/logo.png" alt="F0rc3Run Logo" width="160"/>
 </p>
 <p align="center">
-  <b>Fighting for Free Internet Access</b><br>
+  <b>✊️ Fighting for Free Internet Access</b></br><br>
   <a href="https://t.me/ForceRunVPN">📢 کانال تلگرام</a> • <a href="https://f0rc3run.github.io/F0rc3Run-panel/">🌐 Web Panel</a>
 </p>
 
@@ -104,7 +104,7 @@ Get live VPN links via Telegram! Choose protocol, language, and get working serv
 
 ---
 
-## ✊ Support Free Internet | حمایت از اینترنت آزاد
+## 🤍 Support Free Internet | حمایت از اینترنت آزاد
 
 **EN:**  
 - ⭐ Star this repo  
@@ -120,9 +120,9 @@ Get live VPN links via Telegram! Choose protocol, language, and get working serv
 
 ## 📜 License | مجوز
 
-**ForceRun Free Access License  /    مجوز دسترسی آزاد فورس‌ران (FFAL)**
+**ForceRun Free Access License</br> (مجوز دسترسی آزاد فورس‌ران)**
 
-📄 [مشاهده لایسنس](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/LICENSE)
+📄 [FFAL](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/LICENSE)
 
 ---
 
