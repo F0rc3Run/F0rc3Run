@@ -30,7 +30,7 @@ My mission is to build tools that help people bypass censorship and enjoy secure
 لیست زیر شامل سرورهای فیلترشکن سالم و تست‌شده برای استفاده در اپلیکیشن‌های مختلف است.  
 همه فایل‌ها **به‌صورت خودکار هر ۶ ساعت بروزرسانی** می‌شوند و بدون نیاز به تنظیمات خاص قابل استفاده هستند.
 
-| 🌐 Protocol | 📥 Subscription Link | 🧾 Description |
+| 📡 Protocol | 📥 Subscription Link | 🧾 Description |
 |------------|----------------------|----------------|
 | 🔐 **Shadowsocks** | [`shadowsocks_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt) | سبک و قابل استفاده در تمام دستگاه‌ها |
 | ⚡ **VLESS** | [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt) | پشتیبانی‌شده در اپ‌های پیشرفته مثل Nekobox |
