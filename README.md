@@ -13,14 +13,14 @@
 ## 🌍 About Me | درباره من
 
 **EN:**  
-Hi! I’m **AMF**, creator of **F0rc3Run**.  
+Hi!  
 Here, I provide a collection of free and public VPN servers to support open and unrestricted internet access.
-My mission is to build tools that help people bypass censorship and enjoy secure, uncensored connectivity — for everyone, everywhere. **free internet for all**.
+My mission is to support unrestricted and secure internet access for everyone, everywhere — empowering people to bypass censorship and connect freely with the world.**free internet for all**.
 
 **FA:**  
 سلام!
-در اینجا مجموعه‌ای از سرورهای رایگان و عمومی برای دسترسی به اینترنت آزاد ارائه می‌دم — با تمرکز ویژه بر کاربران ایرانی.
-هدف من فراهم‌کردن ابزارهایی برای عبور از فیلترینگ و حمایت از حق دسترسی همگانی به اینترنت آزاد و بدون سانسور است
+در اینجا مجموعه‌ای از سرورهای رایگان و عمومی برای دسترسی به اینترنت آزاد ارائه می‌دم.
+هدف من دسترسی آزاد و امن به اینترنت برای همه و توانمندسازی مردم برای عبور از سانسور و ارتباط آزاد با جهان است. من باور دارم که دسترسی آزاد و امن به اینترنت، حق هر انسانیه
 
 
 ---
