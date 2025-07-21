@@ -1,4 +1,4 @@
-// Last updated: 2025-07-21 12:57:21 UTC
+// Last updated: 2025-07-21 18:40:30 UTC
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%B7
 vless://0d0245cd-8412-4a32-b52c-ef810651e630@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=%40Digiv2ray%2C%40Digiv2ray%2C%40Digiv2ray%2C%40Digiv2ray%2C&sni=digi--v2raycncfs.RadioTeHran.oRG#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%B7
 vless://WANCLOUDFA@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=http%2F1.1&type=grpc&serviceName=&sni=yuiopvfrthggfrggf.wertycvnur.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%B7
