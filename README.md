@@ -13,21 +13,23 @@
 ## 🌍 About Me | درباره من
 
 **EN:**  
+
 Hi!  
 Here, I provide a collection of free and public VPN servers to support open and unrestricted internet access.
-My mission is to support unrestricted and secure internet access for everyone, everywhere — empowering people to bypass censorship and connect freely with the world.**free internet for all**.
+My mission is to support unrestricted and secure internet access for everyone, everywhere — empowering people to bypass censorship and connect freely with the world. **free internet for all**.
 
-**FA:**  
-سلام!
-در اینجا مجموعه‌ای از سرورهای رایگان و عمومی برای دسترسی به اینترنت آزاد ارائه می‌دم.
-هدف من دسترسی آزاد و امن به اینترنت برای همه و توانمندسازی مردم برای عبور از سانسور و ارتباط آزاد با جهان است. من باور دارم که دسترسی آزاد و امن به اینترنت، حق هر انسانیه
+**FA**:</br>
+
+سلام!<br/>
+در اینجا مجموعه‌ای از سرورهای رایگان و عمومی برای دسترسی به اینترنت آزاد ارائه می‌دهم.
+هدف من دسترسی آزاد و امن به اینترنت برای همه و توانمندسازی مردم برای عبور از سانسور و ارتباط آزاد با جهان است. من باور دارم که دسترسی آزاد و امن به اینترنت، حق هر انسانی است.
 
 
 ---
 
-## 📦 Subscription Links | لینک‌های اشتراک VPN
+## 📦 Subscription Links | لینک‌های اشتراک
 
-لیست زیر شامل سرورهای فیلترشکن سالم و تست‌شده برای استفاده در اپلیکیشن‌های مختلف است.  
+لیست زیر شامل سرورهای سالم و تست‌شده برای استفاده در اپلیکیشن‌های مختلف است.  
 همه فایل‌ها **به‌صورت خودکار هر ۶ ساعت بروزرسانی** می‌شوند و بدون نیاز به تنظیمات خاص قابل استفاده هستند.
 
 | 📡 Protocol | 📥 Subscription Link | 🧾 Description |
@@ -72,7 +74,9 @@ Get a free SSTP VPN server from our active list and enjoy safe, uncensored acces
 <hr>
 
 <p><b>FA:</b><br>
-با استفاده از سرور SSTP موجود در لیست فعال ما، به اینترنت آزاد و ایمن دسترسی پیدا کنید.
+
+  با استفاده از سرور SSTP موجود در لیست،
+به اینترنت آزاد و ایمن دسترسی پیدا کنید.
 </p>
 
 <a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/sstp-configs/sstp_with_country.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
@@ -93,12 +97,8 @@ Get a free SSTP VPN server from our active list and enjoy safe, uncensored acces
 ---
 
 ## 🤖 Telegram Bot | بات تلگرام
-
-**EN:**  
+ 
 Get live VPN links via Telegram! Choose protocol, language, and get working servers instantly.
-
-**FA:**  
-دریافت سریع سرورهای VPN در تلگرام! انتخاب پروتکل، زبان و دریافت آنی سرورهای سالم.
 
 👉 [@F0rc3Run on Telegram](https://t.me/F0rc3Run)
 
@@ -127,6 +127,6 @@ Get live VPN links via Telegram! Choose protocol, language, and get working serv
 ---
 
 <p align="center">
-  ✊ <b>Internet should be a right — not a privilege</b><br>
-  ✊ <b>اینترنت باید یک حق باشد، نه یک امتیاز</b>
+   <b>Internet should be a right — not a privilege</b><br>
+  🤍 <b>اینترنت باید یک حق باشد، نه یک امتیاز 🤍</b>
 </p>
