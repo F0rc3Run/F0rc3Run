@@ -1,4 +1,4 @@
-// Last updated: 2025-07-21 02:21:24 UTC
+// Last updated: 2025-07-21 06:41:07 UTC
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJhZGQiOiIxOTMuMTg3LjE3NS4xMTEiLCJhaWQiOiIwIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImUzZjdkYjUyLTdkZTUtNDBhOS1hZTFhLTBiNGJjODBiYjliOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyJ9
@@ -30,15 +30,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&secur
 trojan://telegram-id-privatevpns@15.237.91.60:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-privatevpns@13.38.160.98:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-privatevpns@15.188.128.163:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?encryption=none&security=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@163.172.110.153:809#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://5d5c5ec2-d3fb-460d-bd07-23ba76e434a7@194.120.24.125:10431?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://3a999fcf-bbb3-4f47-aeb5-cf2e03eb553c@194.120.24.125:21689?type=grpc&serviceName=&authority=&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-trojan://telegram-id-directvpn@13.36.29.76:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://ab29e340-09bd-4007-a5c4-87af1852cab7@193.233.133.116:26664?security=reality&sni=www.latimes.com&fp=chrome&pbk=swAA7H_TNvCw9davDq_8yae8ttSs06cyxLFOb7hNi1o&sid=f842990894c78f95&spx=%2F%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN&type=tcp&encryption=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.167.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&security=none&type=ws&path=%2Fhttp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
