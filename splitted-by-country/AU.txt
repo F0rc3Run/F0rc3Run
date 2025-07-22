@@ -1,3 +1,2 @@
-// Last updated: 2025-07-21 18:40:30 UTC
-vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@149.28.160.123:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%BA
+// Last updated: 2025-07-22 02:09:20 UTC
 vless://e1f692a1-5f51-4baf-b403-77f367601463@1.1.1.1:9828?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%BA

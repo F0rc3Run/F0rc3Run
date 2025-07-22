@@ -1,13 +1,12 @@
-// Last updated: 2025-07-21 18:40:30 UTC
+// Last updated: 2025-07-22 02:09:20 UTC
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-vless://ItsLegendaryking@legend.zooboming.com:443?security=reality&encryption=none&pbk=LubDoxBMDsjk5KGAURyn2QE1qKlH2K9MQU3SbVSp7Ec&fp=chrome&type=grpc&serviceName=telegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers&sni=tgju.org#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.191.27:2172?security=reality&sni=chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc=@93.152.207.167:443#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
@@ -22,6 +21,7 @@ vless://c85a3429-4a22-4204-b49c-4ec75723665a@65.109.194.104:38639?type=tcp&path=
 vless://5d71b518-9f52-414a-abf2-b806684233be@157.180.82.171:2087?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://f72e4aa8-36c2-4dd6-b19d-dfe6be679e44@online-chat.webboosterpro.co.uk:443?mode=auto&path=%2FNeed_V2ray%3Fed%3D2560&security=reality&encryption=none&pbk=QxGoAQpy2zri2JRkXmPfESKjAMHpsrJPmjbkJuZCz3U&host=global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=www.fastly.com&sid=1eaf5214#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&encryption=none&pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&host=divarcdn.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=ec01ceda#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+vless://15449e06-b519-414a-9e0d-fbb4a0fd2780@speedtest.net.zula.ir.nobitex.ir.shakhle.ir:39001?type=xhttp&mode=stream-up&path=%2F%3Fed%3D80&security=reality&fp=firefox&sni=stackoverflow.com&pbk=7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o&sid=f23547&spx=%2F#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://ea76dee5-d575-48be-be3f-2a8be3df0bdb@45.144.235.59:18380?security=reality&encryption=none&pbk=ftmSPTmVjDeRz8PYj_O9aUi5ToIlFRYhIvi-nFoqQF8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=telewebion.com&sid=6429e7da#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://69e25d5b-309f-429e-ba38-212465c534b0@65.21.2.49:46928?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
