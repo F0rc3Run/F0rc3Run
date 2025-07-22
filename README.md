@@ -36,7 +36,7 @@ My mission is to support unrestricted and secure internet access for everyone, e
 |------------|----------------------|----------------|
 | 🔐 **Shadowsocks** | [`shadowsocks_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt) | سبک و قابل استفاده در تمام دستگاه‌ها |
 | ⚡ **VLESS** | [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt) | پشتیبانی‌شده در اپ‌های پیشرفته مثل Nekobox |
-| 🌀 **VMess** | [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/data/vmess_all.txt) | شامل سرورهای VMess سالم و پایدار |
+| 🌀 **VMess** | [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess/vmess.txt) | شامل سرورهای VMess سالم و پایدار |
 | 🔒 **Trojan** | [`trojan.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt) | امن و سریع با رمزنگاری قوی |
 | 🌐 **Mix Country**  | [` mix List`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt) | ترکیب سرورها از چند کشور |
 
