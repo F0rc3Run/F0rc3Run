@@ -1,4 +1,4 @@
-// Last updated: 2025-07-22 02:09:20 UTC
+// Last updated: 2025-07-22 06:41:02 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@de.multiapvps.ir:4433?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://0b98bb8a-fe65-40a7-9c52-b4649db7c2ad@asia.artunnel57.host:80?security=none&encryption=none&type=ws&headerType=none&path=%252Fvless-ntls&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=tls&type=ws&headerType=none&path=%252Ftrojan-tls&sni=asia.artunnel57.host&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -189,7 +189,6 @@ vless://e6fc4474-7452-4124-86b0-538ef123b4fc@zelling.mhdizeb.cfd:2096?type=tcp&s
 vless://653496aa-d579-4a4b-9ae6-e65200e8d829@fqm.mhdizeb.cfd:2053?mode=gun&security=reality&encryption=none&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&fp=firefox&spx=%2Famomahdi&type=grpc&serviceName=&sni=www.pubg.com&sid=795f7e17#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://e807354d-c97b-4afb-88d0-f6cb3121954a@fqm.mhdizeb.cfd:2053?type=grpc&serviceName=&security=reality&fp=firefox&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&sni=www.pubg.com&sid=795f7e17&spx=%2Famomahdi#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=xjp.caball.link#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://aacbcab-abac-caba-dacb-baababbacccc@127.0.0.1:1080?security=tls&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@site.felinefreedom.site:443?security=reality&encryption=none&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=none.felinefreedom.site&sid=4e69ed37#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@ir8.birdfly.site:2096?path=%2F%40V2ray_vpn_ir&security=tls&encryption=none&host=ger.vwfghin.info&type=ws&sni=ger.vwfghin.info#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@amtnx.black-diamond.online:2096?path=%2F%40V2ray_vpn_ir&security=tls&encryption=none&host=ger.vwfghin.info&type=ws&sni=ger.vwfghin.info#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
