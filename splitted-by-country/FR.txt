@@ -1,4 +1,4 @@
-// Last updated: 2025-07-24 02:09:57 UTC
+// Last updated: 2025-07-24 06:42:20 UTC
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJhZGQiOiIxOTMuMTg3LjE3NS4xMTEiLCJhaWQiOiIwIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImUzZjdkYjUyLTdkZTUtNDBhOS1hZTFhLTBiNGJjODBiYjliOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyJ9
@@ -34,6 +34,7 @@ trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&header
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://5d5c5ec2-d3fb-460d-bd07-23ba76e434a7@194.120.24.125:10431?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://3a999fcf-bbb3-4f47-aeb5-cf2e03eb553c@194.120.24.125:21689?type=grpc&serviceName=&authority=&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-directvpn@13.36.14.125:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&security=none&type=ws&path=%2Fhttp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
@@ -45,6 +46,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.28.202:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.196.98:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.67.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM=@fr.fastsoonlink.com:40034#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.14.125:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMkw5MlJzOEd4ODFFRVZCaFlFSHVP@62.210.88.22:443#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://00c6043f-a2c6-4b15-bd30-344378f0e5da@146.70.158.111:443?security=reality&encryption=none&alpn=h2&pbk=dgepztJbOmZaaP3xQX6K3fozDsrTL7a60w1SjN4jBTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=equal-eyes.org&sid=e120bf2fd2d7453b#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
