@@ -1,3 +1,4 @@
-// Last updated: 2025-07-24 12:56:29 UTC
+// Last updated: 2025-07-24 18:40:30 UTC
+vless://bba23e38-ae2d-48ea-b8b0-ad10b33ba89a@direct.yasharteam.com:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=firefox&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#%23F0rc3Run%20%F0%9F%87%B1%F0%9F%87%B0
 vless://3d61026b-b1b6-4f71-b91f-9771e29eb3e3@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%23F0rc3Run%20%F0%9F%87%B1%F0%9F%87%B0
 vless://d8359f3c-d28f-4fc5-a94f-da4fc11850f5@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=ponisha.ir#%23F0rc3Run%20%F0%9F%87%B1%F0%9F%87%B0
