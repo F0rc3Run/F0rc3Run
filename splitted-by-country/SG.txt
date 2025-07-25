@@ -1,9 +1,5 @@
-// Last updated: 2025-07-25 06:40:13 UTC
+// Last updated: 2025-07-25 12:56:10 UTC
 vless://6cfa308a-3958-44a2-965c-eeb100b5658f@5.223.59.22:35982?security=reality&encryption=none&pbk=KuCHWgz61d32lpMJ3tjd5yEzEh87pA-LqTn0UQQYAAM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=369466#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://7da0657c-1c74-4b3e-b219-bbffa59abeab@jetade.hpcdn.info:80?encryption=none&security=none&type=httpupgrade&host=jetade.hpcdn.info&path=%2F38219%2FhMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://5e44dfe9-c98d-424c-a7b9-39bf15d0cb67@jetafn.hpcdn.info:80?encryption=none&security=none&type=httpupgrade&host=jetafn.hpcdn.info&path=%2F30019%2FhMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://b134d262-fc5e-4ce4-924d-8d57e91b0126@jetade.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetade.hpcdn.info&path=%2F42933%2FwsMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetafn.hpcdn.info&path=%2F16156%2FwsMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+vless://58e5e0f1-1702-430e-8046-59dc971dd035@188.166.191.225:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=epcgame.com#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC

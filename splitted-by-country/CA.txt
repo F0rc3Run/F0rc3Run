@@ -1,10 +1,11 @@
-// Last updated: 2025-07-25 06:40:13 UTC
+// Last updated: 2025-07-25 12:56:10 UTC
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://6ccdb8be-c4f0-4703-b753-b416242d62b5@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://a295f5d8-fbb0-4a71-bef3-a39a6334bfc4@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@n2vpn-helper.projectis.ir:2096?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHd3p5NFcxbnNFbXg=@147.45.177.70:443#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
+vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
+vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
