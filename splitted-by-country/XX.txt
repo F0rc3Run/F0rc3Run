@@ -1,4 +1,4 @@
-// Last updated: 2025-07-26 06:37:10 UTC
+// Last updated: 2025-07-26 12:51:16 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@de.multiapvps.ir:4433?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://0b98bb8a-fe65-40a7-9c52-b4649db7c2ad@asia.artunnel57.host:80?security=none&encryption=none&type=ws&headerType=none&path=%252Fvless-ntls&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=tls&type=ws&headerType=none&path=%252Ftrojan-tls&sni=asia.artunnel57.host&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -67,7 +67,7 @@ vless://e9384521-1e42-4757-9624-73cea820ad50@metrix.anvary.ir:443?mode=gun&secur
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://9208e854-c58f-4d42-9fb4-8d0927b33285@cdn.king4father.shop:8080?encryption=none&security=none&type=ws&path=%2Fcustom-config#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://10e7b4a9-1f80-48e2-b504-4da2c8415746@k.networknim.cam:43829?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-trojan://accabba-baac-baac-bdac-aabcabbcacbc@127.0.0.1:1080?security=tls&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&sni=lllliraniv2rayllll.norooz.shop&alpn=h3%2Ch2&fp=chrome&type=grpc&serviceName=iraniV2ray&mode=multi#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://6c558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=%2F%40iraniV2ray&security=tls&encryption=none&fp=firefox&type=ws&sni=lllliraniv2rayllll.norooz.online#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -231,3 +231,4 @@ vmess://eyJhZGQiOiJhbWluLmthcmthczEuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL&sni=amin.karkas1.ir#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f2#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vmess://eyJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJ2IjoyLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiXC8iLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZmRcdWQ4M2NcdWRkZmQifQ==
+ss://YWVzLTI1Ni1nY206R2p2M3QwV0RZMTdIVWFrdysyRHBlQT09@iepl.huli168.com:17273#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
