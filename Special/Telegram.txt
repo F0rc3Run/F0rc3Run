@@ -10,9 +10,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#F0rc3RunVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM0xwb1U4WC94SG5DRCtjYk5lKzdwMHBLL0puZ0RMTSs1K1JJTHJ4eWZWRlJXL25pS3o1RXUwcld5VmNEaG89@ct.uigame.space:2024#F0rc3RunVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#F0rc3RunVPN 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456?prefix%16%03%01%00%C2%A8%01%01#F0rc3RunVPN 🇮🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#F0rc3RunVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#F0rc3RunVPN 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm8%3D@pl-1.stunnel.cc:8444#F0rc3RunVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm8%3D@pl-1.stunnel.cc:8444#F0rc3RunVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#F0rc3RunVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#F0rc3RunVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aEFveGJ6S0owNHBYa2JSSXVCN0t1TzBkQ2JGY1ZYZ1lGaVlCN0lPektNPQ==@18.185.97.90:2087#F0rc3RunVPN 🇩🇪
@@ -50,7 +51,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#F0rc3RunVPN 🇪🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWHhBVzN1Zk5rcDRlZDR2NTlKcmJYZGltN0c0aVo5YlBzekEwbzlmMkpjPQ==@3.68.104.129:2082#F0rc3RunVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUVdwT3BaTHRQR2djQ2J6dXNQM2dt@77.83.246.74:443#F0rc3RunVPN 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdnlIUGNQS2xkZk1MWFJHbUwwTmta@81.19.141.45:443#F0rc3RunVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUWlUczNLNXBZVTV0VE1HRFdnN05VR29UZ3RIc09Ud3grb05Ib1JMaWg0PQ==@3.68.228.77:2082#F0rc3RunVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08%3D@185.246.153.12:31348#F0rc3RunVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza3.digipedia.shop:443#F0rc3RunVPN 🇬🇧
@@ -181,7 +181,7 @@ vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrK
 vless://467a7c8d-7758-430c-bd1d-d0aab6cc0869@kitab.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=dl8.shopvpremium.ir#F0rc3RunVPN 🇮🇷
 vless://477f5c5d-57e6-4811-ba26-e67f071cae8b@r2.srk-mihan.xyz:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=PwGy2n398PGn4h9GEBrCCk7T06jgYhbE03WVo8gbHW8&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;sni=alexa.com&amp;sid=78c9419570a7565d#F0rc3RunVPN 🇳🇱
 vless://48735946-f706-4873-b9b6-d9f0255475cc@telegrambermuda24.jahanmataleb.ir:443?type=tcp&amp;security=reality&amp;pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&amp;fp=chrome&amp;sni=www.refersion.com&amp;sid=b4&amp;spx=%2F#F0rc3RunVPN 🇩🇪
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#F0rc3RunVPN 🇮🇪
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#F0rc3RunVPN 🇸🇬
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FL4h47GkKWsH8we4z%2FMzUuMTgwLjIyOS4x%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=titantablomanahamrah.ir&amp;fp=randomized&amp;type=ws&amp;sni=TITanTabLOmaNAHaMRaH.IR#F0rc3RunVPN 🇺🇸
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTelegram%40v2rayngzendegimamad&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=titantablomanahamrah.ir&amp;fp=randomized&amp;type=ws&amp;sni=TITanTabLOmaNAHaMRaH.IR#F0rc3RunVPN 🇺🇸
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&amp;path=%2Ftas&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=mahsa.tas-bazi.com&amp;fp=firefox&amp;type=xhttp&amp;sni=mahsa.tas-bazi.com#F0rc3RunVPN 🇺🇸
@@ -221,7 +221,6 @@ vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=%2FTelegram%4
 vless://6ae833da-e51f-48b4-a870-1f1aafe17378@Artemis.sbs:80?encryption=none&amp;headerType=none&amp;type=ws&amp;path=%2F%40Artemis_vpn&amp;host=free-02.artemis-03.sbs#F0rc3RunVPN 🇺🇸
 vless://6be8ca9a-3d2f-4401-f7c5-3b2baf238977@www.iranserver.com:2095?path=%2FTelegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;security=none&amp;encryption=none&amp;host=ip1677.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&amp;type=ws#F0rc3RunVPN 🇮🇷
 vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2Ffi&amp;security=none&amp;encryption=none&amp;host=tsvCY5W4AP61qVbo.net&amp;type=ws#F0rc3RunVPN 🇺🇸
-vless://6cfa308a-3958-44a2-965c-eeb100b5658f@5.223.59.22:35982?security=reality&amp;encryption=none&amp;pbk=KuCHWgz61d32lpMJ3tjd5yEzEh87pA-LqTn0UQQYAAM&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=369466#F0rc3RunVPN 🇸🇬
 vless://6d288402-6ef9-4092-9d52-c528690fb693@en.jpgformat.ir:10108?path=%2FNu8bHy0jlYQqvxns%2FMTIxLjU0LjMwLjE1OQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pmlmyazd-6s6.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pMLMyAZD-6S6.paGeS.DEV#F0rc3RunVPN 🇬🇧
 vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@Artemis.sbs:80?encryption=none&amp;headerType=none&amp;type=ws&amp;path=%2F%40Artemis_vpn&amp;host=free-02.artemis-03.sbs#F0rc3RunVPN 🇺🇸
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#F0rc3RunVPN 🇺🇸
