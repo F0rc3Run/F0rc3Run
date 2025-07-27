@@ -1,5 +1,6 @@
-// Last updated: 2025-07-27 06:38:39 UTC
+// Last updated: 2025-07-27 12:52:35 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza3.digipedia.shop:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@185.138.164.3:2096?type=ws&encryption=none&flow=&path=%2Ftjkqcpws&security=tls&allowInsecure=1#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.119.01:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -8,7 +9,6 @@ vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?mode=gun&security
 vless://694e7135-1a12-4ad0-a53f-b9217746bf9e@82.153.220.10:443?security=reality&sni=srhrforall.org&fp=chrome&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412&type=tcp&flow=xtls-rprx-vision&encryption=none#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=e1afb93bfe75a34b#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -19,26 +19,25 @@ vless://37d20522-5b35-45e8-8742-ace55751c318@144.126.230.48:18080?type=tcp&secur
 vless://22f3cbcc-55b5-4d71-a3ca-9d6f3287aace@144.126.234.182:51697?type=tcp&security=reality&pbk=3KmWh8OPrAr-gBXyVdyS4IaB8DKUTtdIpbv5qvN15RY&fp=firefox&sni=%2A.sourceforge.net&sid=c2abcb19&spx=%2F#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&security=reality&pbk=3mC2lH0qsBuTTzNSC3GtzcJlli2959J4yqZl08G4FCg&fp=firefox&sni=%2A.sourceforge.net&sid=593f3efe&spx=%2F#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdVRCcjRDaERza3lmMkpZcFlRaVBI@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprNXZVQTdjUkJQdkdvNmlFZmpaSVhI@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiIxNDQuMTI2LjIyNC4yMDYiLCJhaWQiOiIwIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjVmNDVlOGQ2LTYyYTktNDQxZC04OWJjLWZjNWVlYWYzZTU2YiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI5MDIwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcifQ==
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvN0RRQTdxYWJmMEVaV3U5UGE0MVVM@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://c22f2805-69b1-4cfa-ded8-d9baac99c232@8.208.10.169:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narco_nett&sni=narcod.numallas.space#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://b28446a5-c6ba-4c53-af62-4a7d067d51fd@luna.postpapet.ir:8443?mode=auto&path=%2Fdashboard%3Fed%3D2560&security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2082?path=%2F&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2052?path=%2F&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=%2F&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=%2F%3F---Join-TELEGRAM-V2XAY&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MUZJQklYZFpaVGFHa2hTQUlQaFds@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMEcyT1dkRnFxZmN6MzRMWXI5aW56@13.87.75.178:7294#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://b80f42bd-3574-4b84-acdd-d84646ef7b04@xen1.web.net-pardaze-iranian.ir:443?security=tls&alpn=http%2F1.1&encryption=none&host=tgju.org&headerType=http&fp=firefox&type=tcp&sni=xen1.web.net-pardaze-iranian.ir#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vmess://eyJhZGQiOiI2Mi42MC4xNTUuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNvZnQ5OC5pciIsImlkIjoiNWU2ZTI2M2UtNmJjNC00NTdkLTg0MjktNzc0NTMzY2U3NDY3IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3In0=
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.198.177:8880?path=%2FTelegram-%40MTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -46,4 +45,5 @@ vless://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?encryption=none&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://bd08e1b7-e20b-414b-abca-f40ed69b5253@78.141.196.65:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://889cd5fb-82b9-4612-819e-cbe33044c38e@104.238.171.160:2053?path=%2F%40v2ryngfree%40v2ryngfree%40v2ryngfree&security=none&encryption=none&host=speedtest.net&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&headerType=none&security=none#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
