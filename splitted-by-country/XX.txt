@@ -1,4 +1,4 @@
-// Last updated: 2025-07-27 12:52:35 UTC
+// Last updated: 2025-07-27 18:36:23 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@de.multiapvps.ir:4433?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://0b98bb8a-fe65-40a7-9c52-b4649db7c2ad@asia.artunnel57.host:80?security=none&encryption=none&type=ws&headerType=none&path=%252Fvless-ntls&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=tls&type=ws&headerType=none&path=%252Ftrojan-tls&sni=asia.artunnel57.host&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -14,7 +14,6 @@ vless://94d8db49-e681-470a-bdd1-688b9823e4ed@A2L.GODGAME.FUN:18789?path=%2FCH_A2
 vless://9301cca8-1121-448d-b8bb-1dd19ad182a9@A2L.GODGAME.FUN:18789?path=%2FCH_A2L&security=none&encryption=none&host=CH_A2L&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://83e1425c-7bf0-4d10-9296-40901f29f35d@nl.dnszone.top:45500?security=none&encryption=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@cf-wkrs-pages-vless-aoy.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -61,8 +60,8 @@ vless://b52a81f3-7167-4064-9d09-d54fccf273bd@85000:?path=%2FHHJ1feCQkdARo4ZzMOCS
 vless://e9384521-1e42-4757-9624-73cea820ad50@metrix.anvary.ir:443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=%40melov2ray&sni=Rus.Melov2ray.Shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://9208e854-c58f-4d42-9fb4-8d0927b33285@cdn.king4father.shop:8080?encryption=none&security=none&type=ws&path=%2Fcustom-config#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://17231ace-1d66-4f19-a865-1989ab8100eb@free.grizzzlyyyy.ir:8461?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://10e7b4a9-1f80-48e2-b504-4da2c8415746@k.networknim.cam:43829?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&sni=lllliraniv2rayllll.norooz.shop&alpn=h3%2Ch2&fp=chrome&type=grpc&serviceName=iraniV2ray&mode=multi#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://6c558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=%2F%40iraniV2ray&security=tls&encryption=none&fp=firefox&type=ws&sni=lllliraniv2rayllll.norooz.online#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -179,6 +178,7 @@ vless://e6fc4474-7452-4124-86b0-538ef123b4fc@zelling.mhdizeb.cfd:2096?type=tcp&s
 vless://653496aa-d579-4a4b-9ae6-e65200e8d829@fqm.mhdizeb.cfd:2053?mode=gun&security=reality&encryption=none&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&fp=firefox&spx=%2Famomahdi&type=grpc&serviceName=&sni=www.pubg.com&sid=795f7e17#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://e807354d-c97b-4afb-88d0-f6cb3121954a@fqm.mhdizeb.cfd:2053?type=grpc&serviceName=&security=reality&fp=firefox&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&sni=www.pubg.com&sid=795f7e17&spx=%2Famomahdi#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=xjp.caball.link#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+trojan://bbcacaa-baac-acba-bcad-acccbbabaabc@127.0.0.1:1080?security=tls&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@site.felinefreedom.site:443?security=reality&encryption=none&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=none.felinefreedom.site&sid=4e69ed37#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@ir8.birdfly.site:2096?path=%2F%40V2ray_vpn_ir&security=tls&encryption=none&host=ger.vwfghin.info&type=ws&sni=ger.vwfghin.info#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@amtnx.black-diamond.online:2096?path=%2F%40V2ray_vpn_ir&security=tls&encryption=none&host=ger.vwfghin.info&type=ws&sni=ger.vwfghin.info#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -208,6 +208,7 @@ vmess://eyJhZGQiOiJ1bmlxdWVuZXQyLmludGVyc3RlbGxhcjIwMjMuc2l0ZSIsImFpZCI6IjAiLCJh
 vless://732f088b-4a6d-4ece-ec42-0f6afaf01313@v2rayfree1join.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://732f088b-4a6d-4ece-ec42-0f6afaf01313@v2rayfree1join.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40v2rayfree1&sni=gr.newv2rayfree1.shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vmess://eyJhZGQiOiJ3YXlubi5tYWtldXAiLCJhaWQiOiIwIiwiaG9zdCI6IndheW5uLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRmZFx1ZDgzY1x1ZGRmZCJ9
+vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://d8b2cbd5-c6ab-4199-83ac-1cb743790e08@all.vpncustomize.website:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://1a4f9baa-b135-45e0-ba40-b11e30545c69@qq.mmd111.sbs:46541?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://77540057-4504-43f7-b229-765f9b7bf35d@situnes.wlftest.xyz:443?type=tcp&security=reality&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&fp=ios&sni=search.itunes.apple.com&sid=ce&spx=%2FWebObjects%2FMZSearchHints.woa%2Fwa%2Fhints%3Fmedia%3Dmusic%26term%3Dgmail&flow=xtls-rprx-vision#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
