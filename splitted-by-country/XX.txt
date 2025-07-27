@@ -1,4 +1,4 @@
-// Last updated: 2025-07-26 18:38:21 UTC
+// Last updated: 2025-07-27 02:25:13 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@de.multiapvps.ir:4433?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://0b98bb8a-fe65-40a7-9c52-b4649db7c2ad@asia.artunnel57.host:80?security=none&encryption=none&type=ws&headerType=none&path=%252Fvless-ntls&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=tls&type=ws&headerType=none&path=%252Ftrojan-tls&sni=asia.artunnel57.host&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -10,9 +10,6 @@ vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@ems.irimcs.org:443?type=grpc&servic
 vless://07af5265-c931-4b5a-a3e1-25de5c5b1fbf@ems.irimcs.org:2053?type=grpc&serviceName=%40Catvpns%40Catvpns%40Catvpns%40Catvpns&security=tls&fp=&alpn=&sni=Ter.Iranasanejesh.org#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://10a1ffcb-ca7a-499a-d2e2-d166d3e074c7@Def.irimcs.org:2053?type=grpc&serviceName=%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns%40CatVpns&security=reality&pbk=r_tJUcl3b84e8a06QHqTbFrMtlS552kklJsdzLoAChk&fp=chrome&sni=dnschecker.org&sid=920967&spx=%2F#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://25d5ece5-8952-4529-98fa-30b09bacd307@ems.irimcs.org:2053?type=grpc&serviceName=%40Catvpns%40Catvpns%40Catvpns%40Catvpns%40Catvpns%40Catvpns%40Catvpns%40Catvpns&security=tls&fp=&alpn=&sni=Ter.Iranasanejesh.org#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@Free.CConfigV2ray.workers.dev:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Free.CConfigV2ray.workers.dev&fp=chrome&type=ws&sni=Free.CConfigV2ray.workers.dev#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@Frees.CConfigV2ray.workers.dev:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Frees.CConfigV2ray.workers.dev&fp=chrome&type=ws&sni=Frees.CConfigV2ray.workers.dev#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://50ced16f-78dd-5499-acf9-a57fe1895728@Free.Cconfigv2rayserv.workers.dev:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=free.cconfigv2rayserv.workers.dev&fp=chrome&type=ws&sni=free.cconfigv2rayserv.workers.dev#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://94d8db49-e681-470a-bdd1-688b9823e4ed@A2L.GODGAME.FUN:18789?path=%2FCH_A2L__PG_A2L&security=none&encryption=none&host=CH_A2L__PG_A2L&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://9301cca8-1121-448d-b8bb-1dd19ad182a9@A2L.GODGAME.FUN:18789?path=%2FCH_A2L&security=none&encryption=none&host=CH_A2L&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -65,8 +62,6 @@ vless://e9384521-1e42-4757-9624-73cea820ad50@metrix.anvary.ir:443?mode=gun&secur
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://9208e854-c58f-4d42-9fb4-8d0927b33285@cdn.king4father.shop:8080?encryption=none&security=none&type=ws&path=%2Fcustom-config#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://10e7b4a9-1f80-48e2-b504-4da2c8415746@k.networknim.cam:43829?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&sni=lllliraniv2rayllll.norooz.shop&alpn=h3%2Ch2&fp=chrome&type=grpc&serviceName=iraniV2ray&mode=multi#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://6c558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=%2F%40iraniV2ray&security=tls&encryption=none&fp=firefox&type=ws&sni=lllliraniv2rayllll.norooz.online#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
