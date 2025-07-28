@@ -1,2 +1,3 @@
-// Last updated: 2025-07-27 18:36:23 UTC
+// Last updated: 2025-07-28 02:22:01 UTC
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%23F0rc3Run%20%F0%9F%87%AD%F0%9F%87%BA
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?security=tls&type=tcp&sni=customer-77-91-72-197.stark-industries.solutions#%23F0rc3Run%20%F0%9F%87%AD%F0%9F%87%BA
