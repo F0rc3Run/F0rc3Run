@@ -1,7 +1,8 @@
-// Last updated: 2025-07-28 12:58:12 UTC
+// Last updated: 2025-07-28 18:41:09 UTC
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://2bc31b80-7870-47e2-b6d7-4358108c0646@0us.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=%2Fjzmdpvws&encryption=none#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@212.68.55.11:18760#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
