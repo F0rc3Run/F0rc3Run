@@ -1,6 +1,5 @@
-// Last updated: 2025-07-29 12:58:21 UTC
+// Last updated: 2025-07-29 18:42:58 UTC
 vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&sni=ip499.savarkaraan.ir#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
-vless://2862679a-23a8-406e-abaf-98375f742914@turkey4.v2shop2.xyz:443?security=&encryption=none&host=analytics.google.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://19c08c07-a3b7-4c26-bcee-d7270f6d3422@185.146.173.9:8080?type=grpc&serviceName=CHANNEL#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://telegram-deli-servers@185.146.173.59:80?path=%2Ftel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers%3Fed%3D2048&security=none&encryption=none&host=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
@@ -13,7 +12,6 @@ vless://d14e62e6-7ae5-4a13-a36a-852c5fd25a3a@185.146.173.58:8080?type=ws&path=%2
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=%2F&security=none&host=www.speedtest.net&headerType=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://DIGiV2RAY@185.146.173.93:2095?type=ws&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://---DIGiV2RAY---@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
-vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&host=De.Parsashonam.CfD.&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://307a0dd2-85cb-4eb9-a79c-5b032284a93a@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://4dd7c398-76ff-47e8-aead-8c8269e37147@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb55@185.146.173.38:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
