@@ -1,4 +1,4 @@
-// Last updated: 2025-07-29 02:27:30 UTC
+// Last updated: 2025-07-29 06:41:23 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?encryption=none&security=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?encryption=none&security=none&type=tcp&headerType=http#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -7,8 +7,6 @@ vless://989c4f14-a0fb-4375-ba5d-082fb7167b70@kitab.ir:443?path=Path%2FTelegram%4
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://daa32d4b-92ce-4901-9fad-28ead37d324b@2.188.227.134:2060?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://5dd18dac-f4f1-480d-baf2-fdbe6165254f@2.188.227.134:2060?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://d5fdc459-436b-459d-beda-b06d70c93af1@a9e506m81d.the-scary-deep-forest-of-my-mind.top:5131?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://d94d7763-07cc-4f27-a8c1-70ef853500d6@ads.easy-dl.ir:2096?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206TTJFNFpHWTJaakk1TXpVMk9EQXhNakV3WXpneU56UTBNR001TkdVeQ==@thr.npvnot.com:10107#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv111.momdping.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://630e3696-10e2-4789-bfe1-7c1289457534@makeitclassic.numberonedrshabi.top:2052?security=none&encryption=none&type=ws&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -102,7 +100,8 @@ vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?security=
 vless://062c145d-30ec-4e48-93d0-36094ef84d10@tt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsImFkZCI6ImlyLnR1bm5lbGVkLnNpdGUiLCJwb3J0IjozMDMwLCJpZCI6IjI0MDg3NGUyLWM4NTAtNDNjZi04MTA0LTk5YmVkMDFlYTc0OSIsImFpZCI6MCwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcifQ==
-vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@185.93.88.155:880?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@nim1.abrarvan.io:9090?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vmess://eyJhZGQiOiJzbmFwcGZvb2QuaXIiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InRyLmZhc3Rvc29zLmNvbSIsImlkIjoiNmQ2NTgzNTItNTcxZi00Y2I2LTkyMDUtZDdjMDIzMzFmYTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hcGkiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InRyLmZhc3Rvc29zLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyJ9
 vless://8@cert.ir:80?path=%2F&security=none&encryption=none&host=ghbi.ir&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv73.momdping.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
