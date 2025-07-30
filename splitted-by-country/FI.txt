@@ -1,11 +1,10 @@
-// Last updated: 2025-07-30 02:11:57 UTC
+// Last updated: 2025-07-30 06:42:34 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@usa.multiapvps.ir:4434?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.191.27:2172?security=reality&sni=chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vmess://eyJ2IjoiMiIsImFkZCI6IjY1LjEwOC4yNTIuNiIsInBvcnQiOiI4MCIsImlkIjoiMmFhYzc3ZGUtYjNlNC00MDE3LTg0NWMtY2ExMzgwZjJlOGQwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcL3RlbGVncmFtLWlkLUBmcmVldm1lc3MiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIn0=
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
@@ -16,7 +15,6 @@ vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=non
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=&serviceName=melov2ray&mode=gun#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=none&pbk=gz7eqMA1Ww39n2KgIUyCLbVE9mOM_pOzhfx9Jr0HSFs&fp=chrome&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
