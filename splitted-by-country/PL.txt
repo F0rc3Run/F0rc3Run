@@ -1,3 +1,5 @@
-// Last updated: 2025-07-31 12:55:22 UTC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%23F0rc3Run%20%F0%9F%87%B5%F0%9F%87%B1
+// Last updated: 2025-07-31 18:42:13 UTC
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d638e#%23F0rc3Run%20%F0%9F%87%B5%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%23F0rc3Run%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&sni=t6.teslacdn2.live&type=tcp&headerType=none&host=t6.teslacdn2.live#%23F0rc3Run%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://f0532122-948c-46cf-a392-15cc8233d1c0@145.239.237.92:443?security=tls&sni=t1.teslacdn2.live&type=tcp&headerType=none&host=t1.teslacdn2.live#%23F0rc3Run%20%F0%9F%87%B5%F0%9F%87%B1
