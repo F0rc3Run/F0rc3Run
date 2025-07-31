@@ -1,3 +1,2 @@
-// Last updated: 2025-07-31 02:10:19 UTC
-trojan://bpb-trojan@86.38.214.132:443?allowInsecure=1&sni=bpb.my79801.com&ws=1&wspath=%2Ftr%3Fed%3D2560#%23F0rc3Run%20%F0%9F%87%B1%F0%9F%87%B9
+// Last updated: 2025-07-31 06:40:04 UTC
 vless://3f7e0b9a-0288-4040-b386-5d7805b24f2c@mtn.reallyrich.space:443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=random&type=grpc&serviceName=mtn.reallyrich.space&sni=sv.reallyrich.space#%23F0rc3Run%20%F0%9F%87%B1%F0%9F%87%B9

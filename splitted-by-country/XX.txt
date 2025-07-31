@@ -1,4 +1,4 @@
-// Last updated: 2025-07-31 02:10:19 UTC
+// Last updated: 2025-07-31 06:40:04 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@de.multiapvps.ir:4433?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://94d8db49-e681-470a-bdd1-688b9823e4ed@A2L.GODGAME.FUN:18789?path=%2FCH_A2L__PG_A2L&security=none&encryption=none&host=CH_A2L__PG_A2L&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://9301cca8-1121-448d-b8bb-1dd19ad182a9@A2L.GODGAME.FUN:18789?path=%2FCH_A2L&security=none&encryption=none&host=CH_A2L&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -64,6 +64,7 @@ vless://V2RAXX---@V2RAXX-channel.cataba.ir:2053?path=%2F%40V2RAXX%2F%40V2RAXX%2F
 vless://88d08ed7-091a-4aa9-bea5-5b830d8e1db8@fOxRAY.666gAmE.BUzz:2087?path=%2F&security=tls&encryption=none&host=iIsBv2RaYli.666GaMe.bUzz&fp=safari&type=ws&sni=iIsBv2RaYli.666GaMe.bUzz#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://22f1eb0f-fa76-40dd-a6b3-9bde95efd8db@fOxrAy.MaKuP.tOp:2096?mode=gun&security=tls&encryption=none&fp=safari&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://d6200861-3330-47a2-b822-06e4761ffe74@all.v-2rayngvpn.cfd:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn&sni=Loop.v2rayvpn2.sbs#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://c924c16b-27f8-43f7-8394-c28b875bde30@chanel.goldenteam2.shop:22304?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://34dc43d7-ee19-4536-bb37-aa56178cbab4@chanel.goldenteam2.shop:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
