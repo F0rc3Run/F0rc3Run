@@ -1,8 +1,8 @@
-// Last updated: 2025-08-02 02:08:35 UTC
+// Last updated: 2025-08-02 06:39:21 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
+trojan://telegram-id-directvpn@3.97.46.206:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=%2F&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=joinchannel.sameasyou.sbs#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://466346a8-84ec-4f9b-8fc9-f1ccb079dd67@n2vpn-helper.projectis.ir:2083?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
@@ -23,4 +23,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%23F0rc3Run%20%F0%9F%87%
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IlwvbGlua3Z3cyIsInRscyI6InRscyIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
-vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
