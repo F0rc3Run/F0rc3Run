@@ -1,8 +1,11 @@
-// Last updated: 2025-08-02 12:56:08 UTC
+// Last updated: 2025-08-02 18:39:34 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@usa.multiapvps.ir:4434?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcTF5NnpFQW1jZkdvQkIwZFJCYlY3@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://h%71%562%72%61y@65.108.208.201:10443?security=&encryption=none&headerType=none%3D%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN&mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=%2F&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&path=%2F&host=zula.ir&headerType=http#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=random&type=tcp&sni=app.chandplus.com#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
@@ -15,7 +18,7 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjY1LjEwOC4yNTIuNiIsInBvcnQiOiI4MCIsImlkIjoiMmFhYzc3
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d038293f-e9ca-4d2c-83a1-5a172407aa02@Fservice.teampluss.ir:2155?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:2053?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+vless://b47cac74-0fe9-4138-a8a0-0a039ae84621@ng.grizzzlyyyy.ir:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://69bc0de5-1edc-4028-9aca-ad9280149268@46.62.160.130:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
@@ -25,7 +28,6 @@ vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?encryption=none
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=&serviceName=melov2ray&mode=gun#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=&serviceName=melov2ray&mode=gun#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-vless://e361b727-97a0-4a0b-897e-1acad106e55c@65.109.190.232:443?security=none&type=tcp&headerType=http&path=%2F&host=cloudflare.com#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc=@93.152.207.167:443#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
