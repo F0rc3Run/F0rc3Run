@@ -1,6 +1,5 @@
-// Last updated: 2025-08-01 18:44:38 UTC
+// Last updated: 2025-08-02 02:08:35 UTC
 vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&sni=ip499.savarkaraan.ir#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
-trojan://hg4en63uUu@192.109.200.88:55585?security=reality&pbk=FheChTgPbkHcIWUEjfxJz5-oumhq69lty6FSuEYBmyw&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=ios&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&sni=yahoo.com&sid=244c20a1437a39#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://%74ele%67ra%6d-id-%41rV%32ra%79@185.146.173.77:80?type=grpc&serviceName=Telegram#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://----%44%49GIV%32RA%59---@185.146.173.32:2095?type=grpc&serviceName=CHANNEL#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
@@ -18,7 +17,6 @@ vless://d14e62e6-7ae5-4a13-a36a-852c5fd25a3a@185.146.173.58:8080?type=ws&path=%2
 vless://telegram-id-ArV2ray@185.146.173.158:8080?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed&security=none&encryption=none&host=2.V2ray.kb.soft98.ir.www.farsroid.com.deb.debian.org.bahrane.iR.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.48.126.115:8443?security=reality&encryption=none&pbk=slDQ8ADjK94ymKi6DYgy8wzquWdR6xQdQd-YRcMa9g4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vmess://eyJhZGQiOiIxNzIuMjMyLjE0OC41NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZWNlNzdjNTItMzMwZS00ODA1LWI4ZjUtNzA0NTYzZjEzYWM4IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg0NDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSJ9
 vless://2df663d1-f5be-4f4d-a2a9-fd7082b13ab8@185.146.173.237:443?mode=gun&security=tls&encryption=none&alpn=http%2F1.1&authority=&fp=firefox&type=grpc&serviceName=&sni=xn--ihbea7s2hshd.pinocchio1.ir.#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
@@ -27,6 +25,7 @@ vless://DIGIV2raY@185.146.173.68:2095?type=ws&host=wWw.vArZeSh3.Com.QUENTIN.1.1.
 vless://DIGIV2rAY@185.146.173.93:2095?type=ws&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://DIGIV2RAY@185.146.173.93:2095?type=ws&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://DIGiV2RAY@185.146.173.93:2095?type=ws&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
+vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://---DIGiV2RAY---@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://fcb6a88f-54ec-4d0e-ad76-e55e5679812d@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://1af3cbfc-b807-4158-9104-d555c048484e@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
@@ -47,7 +46,7 @@ vless://Parsashonam-290@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam
 vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://Parsashonam-292@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
-vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
+vless://Parsashonam-294@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.196.156.122:809#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@13.48.26.23:443?security=reality&encryption=none&pbk=ZupmU0Um3S4mdzBkGMFjBa76n_h1i6P6i3LMYk5Iex0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://Parsashonam-284@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
