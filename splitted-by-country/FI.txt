@@ -1,4 +1,4 @@
-// Last updated: 2025-08-03 02:29:19 UTC
+// Last updated: 2025-08-03 06:40:31 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@usa.multiapvps.ir:4434?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcTF5NnpFQW1jZkdvQkIwZFJCYlY3@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
@@ -39,12 +39,10 @@ vless://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiI5NS4yMTcuMjIyLjE0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTVjZTRiOC02NmFkLTQ0ODAtYjBiMC00MDJmNGUyYWIyMzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE3NTM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUifQ==
 vmess://eyJhZGQiOiI2NS4xMDkuMTMzLjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUifQ==
 trojan://cba32ac1-abbb-4371-ba50-19eb5c38748c@135.181.253.237:443?security=tls&headerType=none&type=tcp&sni=xvqn.de#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@65.109.198.157:53627?type=ws&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.242.205:12925?type=ws&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
-vless://ed7822b0-a358-432e-b794-ae48d0e3ba4e@65.109.217.64:14070?type=ws&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://joinshotoV2rayNGFreee@65.108.247.56:80?mode=auto&path=%2F&security=none&encryption=none&host=tatal.global.ssl.fastly.net&type=xhttp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a68a6e60-5f70-4972-efc7-e1a3120db501@65.109.194.104:38639?type=tcp&path=%2F&host=notion.so&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://7847e923-2424-4e4f-d365-0064c33a00a9@65.109.194.104:38639?type=tcp&path=%2F&host=notion.so&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE

@@ -1,4 +1,4 @@
-// Last updated: 2025-08-03 02:29:19 UTC
+// Last updated: 2025-08-03 06:40:31 UTC
 vless://a84f0ac2-0a3d-4ad4-bd9e-9b9ed0f7a603@130.185.122.139:16380?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=fcCCo3amb6xSdqw_NPVERN8TF-Noy4DRHLNFM9ee4DQ&sid=7821497e5d&spx=%2F&type=xhttp&path=%2FGrizzlyVPN&mode=auto#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
 vless://9987a847-5e57-440c-890e-33fd179af6ff@130.185.122.252:28964?encryption=none&security=reality&sni=www.bing.com&fp=chrome&pbk=aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs&sid=5405&spx=%2F&type=xhttp&path=%2Fgrizzlyvpn&mode=auto#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?security=reality&encryption=none&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=4048A3da#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
@@ -8,5 +8,4 @@ vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?security=re
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.10:808#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=%2F&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
-vless://92e1ef2b-c1f6-4198-abc7-a930cb498d30@v2shop-ger.bing-net.com:3035?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
 vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:3215?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%AA
