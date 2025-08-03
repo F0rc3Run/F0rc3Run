@@ -1,4 +1,3 @@
-// Last updated: 2025-08-03 06:40:31 UTC
-trojan://tunnel-astrovpn_official_ee@ee-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=ee-1.stunnel.cc#%23F0rc3Run%20%F0%9F%87%AA%F0%9F%87%AA
+// Last updated: 2025-08-03 12:58:30 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#%23F0rc3Run%20%F0%9F%87%AA%F0%9F%87%AA
 vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?security=reality&encryption=none&pbk=xAACwVeGPMm3pUceuZR5r7KIx1tSHzoFrXS08DhfKAw&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=d325de61#%23F0rc3Run%20%F0%9F%87%AA%F0%9F%87%AA
