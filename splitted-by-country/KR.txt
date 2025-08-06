@@ -1,4 +1,5 @@
-// Last updated: 2025-08-06 13:01:33 UTC
+// Last updated: 2025-08-06 18:43:36 UTC
 vless://5177172c-125a-47fa-bccd-3778b459a75e@210.103.54.208:50000?type=ws&encryption=none&flow=&host=subvless.trevely.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=subvless.trevely.us.kg#%23F0rc3Run%20%F0%9F%87%B0%F0%9F%87%B7
 vless://5177172c-125a-47fa-bccd-3778b459a75e@218.149.105.97:50000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=subvless.trevely.us.kg&type=ws&sni=subvless.trevely.us.kg#%23F0rc3Run%20%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.76:15098#%23F0rc3Run%20%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@54.180.229.125:443#%23F0rc3Run%20%F0%9F%87%B0%F0%9F%87%B7

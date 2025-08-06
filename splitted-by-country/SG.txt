@@ -1,5 +1,4 @@
-// Last updated: 2025-08-06 13:01:33 UTC
-vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+// Last updated: 2025-08-06 18:43:36 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TVVWZUtDQm1nd0pPakd0c2JRMkpG@68.183.226.95:52042#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
@@ -15,3 +14,5 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.23.157:443#%23F0rc3Run%20%F0%9F%87%
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.250.149:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.255.128.51:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+trojan://NISHIKUITAN111@45.8.211.242:443?allowInsecure=1#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
