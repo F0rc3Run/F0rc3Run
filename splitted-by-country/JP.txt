@@ -1,5 +1,4 @@
-// Last updated: 2025-08-08 12:59:29 UTC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@54.238.207.188:8319#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
+// Last updated: 2025-08-08 18:39:24 UTC
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiI0Ny43OS44OC4xMTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWRiODM4ZDAtZWNkMi00YjczLWE3ZjgtNWFmNmI0MDFkODMzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MzcxMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1In0=
@@ -9,9 +8,9 @@ vless://2d4aa928-f135-477a-9afc-e8cc9f8cf282@cdnndsszakanalaslitest.possiblesayt
 vless://e0438944-5909-41dd-be1c-6b10355817b6@cdnndsszakanalaslitest.possiblesayt.xyz.:8880?type=ws&path=%2F&host=cdnndsszakanalaslitest.possiblesayt.xyz.&security=none#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiIyMjMuMTM1LjE1Ni4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzFiZjJmNmQtYTExMS00YjBmLWJkZTgtZWNlNjUyZmRlZTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA1MjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@194.105.89.58:40003#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@54.238.207.188:8319#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@54.168.136.231:443?type=tcp&sni=4-193-105-141.nhost.00cdn.com&allowInsecure=1#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGR0h3dEM2Y2p3MXpTU2lSYkVnNVQ0@sakura.outlinekeys.net:1235#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSU5TcGROWUdVZkxNenNvTEQzVzVE@sakura.outlinekeys.net:1235#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaEd6OVVBcDQ3QXQwUEtiRDRMbzVB@sakura.outlinekeys.net:1235#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVXNuam1XejBCaHoyN2FGaDY4V0hy@sakura.outlinekeys.net:1235#%23F0rc3Run%20%F0%9F%87%AF%F0%9F%87%B5
