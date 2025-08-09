@@ -1,6 +1,4 @@
-// Last updated: 2025-08-08 18:39:24 UTC
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://4d3e15b4-edf9-490a-8657-c89c873fc657@8.208.19.69:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+// Last updated: 2025-08-09 02:03:25 UTC
 vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiaG9zdCI6IndlYnNoZWNhbmlyMi5zeW1vZGkubWwiLCJpZCI6ImUxYjkzMTI2LTRkYjktNGZlMy1kMzRjLTljYjcyMTlkNmY0YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvQmVuVEVOQ09sIiwicG9ydCI6IjIwOTYiLCJzY3kiOiJhdXRvIiwic25pIjoid2Vic2hlY2FuaXIyLnN5bW9kaS5tbCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyJ9
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.119.01:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -12,8 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#%23F
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-trojan://telegram-id-directvpn@3.10.161.141:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e02208b6-2626-49ef-8b93-0d80ed33f4ac@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -31,13 +27,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidjJmaFZBSm9LZGhJQmRJV3NWcUlt@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS21BbENTdWlYd09QdnUxTk9zcGRE@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:2082?path=%2F%3F---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://9b45c8ec-d207-451f-ac30-79c361dc9098@c.nl.cdn.maviks.ru:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-de.maviks.ru&sni=cdn-de.maviks.ru&fp=chrome#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvN0RRQTdxYWJmMEVaV3U5UGE0MVVM@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://telegram-id-privatevpns@35.177.223.124:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://telegram-id-privatevpns@13.43.8.32:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://4d3e15b4-edf9-490a-8657-c89c873fc657@8.208.19.69:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4d3e15b4-edf9-490a-8657-c89c873fc657@8.208.19.69:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narco_nett&sni=nard.numallas.top#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://c22f2805-69b1-4cfa-ded8-d9baac99c232@8.208.10.169:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://c22f2805-69b1-4cfa-ded8-d9baac99c232@8.208.10.169:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narco_nett&sni=narcod.numallas.space#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -51,7 +47,6 @@ vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:16032?security=none&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eHc5dkhpR09jNFE2QnBRWW1udnNC@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUkpBZnVUS2syYk9ST1hwQjRZOHVJ@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMEcyT1dkRnFxZmN6MzRMWXI5aW56@13.87.75.178:7294#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://d9bd2578-dc93-40cc-87ab-69a915a0baad@83.147.18.191:4653?mode=stream-up&path=%2Fapi%2Fstream&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+16777216%2C+%22scMaxConcurrentPosts%22%3A+1024%2C+%22scMinPostsIntervalMs%22%3A+1%2C+%22xPaddingBytes%22%3A+%22200-2000%22%2C+%22noGRPCHeader%22%3A+true%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=firefox&type=xhttp&sni=tgju.org&sid=a1b2c3d4e5f67890#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -63,6 +58,7 @@ vless://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?encryption=none&se
 vless://bd08e1b7-e20b-414b-abca-f40ed69b5253@78.141.196.65:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://889cd5fb-82b9-4612-819e-cbe33044c38e@104.238.171.160:2053?path=%2F%40v2ryngfree%40v2ryngfree%40v2ryngfree&security=none&encryption=none&host=speedtest.net&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80?path=%2F%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%3Fed%3D2048&security=none&encryption=none&host=psi.misvn.ir&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://916c9035-b5d2-4afa-a00a-93c44324db48@8.208.26.224:2087?type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=xnxv2ray.mioRay.cfd#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e27d074b-c210-4ab3-9c26-29f8fbb84bfd@8.208.26.224:2087?type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=xnxv2ray.mioRay.cfd#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7

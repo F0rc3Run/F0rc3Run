@@ -1,9 +1,9 @@
-// Last updated: 2025-08-08 18:39:24 UTC
+// Last updated: 2025-08-09 02:03:25 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3hiZjR2UnlBOElZPQ==@167.71.195.230:56399#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TVVWZUtDQm1nd0pPakd0c2JRMkpG@68.183.226.95:52042#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.188.250:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
@@ -16,5 +16,5 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.23.157:443#%23F0rc3Run%20%F0%9F%87%
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.250.149:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.255.128.51:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443?note=--Telegram--%40NetifyVPN----Telegram--%40NetifyVPN----Telegram--%40NetifyVPN----Telegram--%40NetifyVPN--&allowInsecure=1#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiIxMy4yNTAuMzEuMTQwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyYmM3N2MzMS1mZTUxLTRjMWYtOTJiMy1kYWU3Yjc3NjM2Y2IiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjIwMDg2LCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyJ9

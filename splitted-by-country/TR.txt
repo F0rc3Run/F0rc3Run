@@ -1,5 +1,5 @@
-// Last updated: 2025-08-08 18:39:24 UTC
-vless://7592129b-1600-4829-85b9-101694be72b9@77.83.245.113:3060?security=reality&encryption=none&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=tcp&sni=refersion.com&sid=ecd8d10c1518fb7b#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
+// Last updated: 2025-08-09 02:03:25 UTC
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=%2Fjzmdpvws#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?security=none&encryption=none&type=ws&host=vpnsal&path=%2F#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
@@ -10,7 +10,6 @@ vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&allo
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@212.68.55.11:18760#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&security=reality&encryption=none&pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&fp=firefox&type=grpc&serviceName=&sni=www.discord.com#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://5da34674-9d4c-42c1-bdd1-0a9a2973ea8e@45.136.5.246:8080?mode=gun&security=reality&encryption=none&pbk=vJJOKAgWp7-GkEPeclV6PbyDn-Z2h1WZlyCY4y1xG3s&fp=chrome&spx=%2F&type=grpc&serviceName=cactusfree&sni=journalofbigdata.springeropen.com&sid=3d2f#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
