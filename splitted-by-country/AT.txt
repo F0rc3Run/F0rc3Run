@@ -1,4 +1,4 @@
-// Last updated: 2025-08-09 06:40:22 UTC
+// Last updated: 2025-08-09 12:53:06 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
 vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
 vless://0f6c0aa0-7f37-44fe-b33f-ef9753f7ee9e@45.138.74.173:20601?type=grpc&serviceName=Telegram%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci&security=reality&pbk=1ZyXEGSzQC_WAGlhnEV6SgDmHqCxXZSAYGryUHHkAQg&fp=chrome&sni=Gstatic.com&sid=d2e9ce1d&spx=%2F#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
@@ -9,3 +9,4 @@ vless://0d596f59-c03e-4870-b49f-3ad5bf2961c7@45.138.74.173:20601?type=grpc&servi
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiJmMzhhNTUwMC03N2RlLTQzODQtODZmNS01NGQ3YWI1ZGUyYzgiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjkifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZHN3eGV0VmM2QWhJcHMxOHJ0WWJt@95.163.176.37:8506#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTkFzc3FmTlI4aGh2bTlyU1NKdmhx@151.236.11.221:8443#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9

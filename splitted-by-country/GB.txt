@@ -1,17 +1,15 @@
-// Last updated: 2025-08-09 06:40:22 UTC
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.72.41:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+// Last updated: 2025-08-09 12:53:06 UTC
+vless://062b34e8-7156-41f7-a5b7-9387f80ee05b@panel.dayhostpro.com:20392?security=reality&encryption=none&pbk=RX19l5efFYFcVPaYhOnB8jlhfZ1SJNGZzfohQFjWwhE&host=www.reiss.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.reiss.com&sid=cd00e976#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiaG9zdCI6IndlYnNoZWNhbmlyMi5zeW1vZGkubWwiLCJpZCI6ImUxYjkzMTI2LTRkYjktNGZlMy1kMzRjLTljYjcyMTlkNmY0YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvQmVuVEVOQ09sIiwicG9ydCI6IjIwOTYiLCJzY3kiOiJhdXRvIiwic25pIjoid2Vic2hlY2FuaXIyLnN5bW9kaS5tbCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyJ9
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.119.01:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.214.48:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e02208b6-2626-49ef-8b93-0d80ed33f4ac@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -22,11 +20,11 @@ vless://97a3b0e9-f44f-4dad-96af-40a14b3ae680@143.110.169.66:26329?type=tcp&secur
 vless://37d20522-5b35-45e8-8742-ace55751c318@144.126.230.48:18080?type=tcp&security=reality&pbk=EZv-eocX6ChBfnvvCAEeiYiP5nBuqKfyQKGinfPEv2Q&fp=firefox&sni=%2A.sourceforge.net&sid=5f429700&spx=%2F#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://22f3cbcc-55b5-4d71-a3ca-9d6f3287aace@144.126.234.182:51697?type=tcp&security=reality&pbk=3KmWh8OPrAr-gBXyVdyS4IaB8DKUTtdIpbv5qvN15RY&fp=firefox&sni=%2A.sourceforge.net&sid=c2abcb19&spx=%2F#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&security=reality&pbk=3mC2lH0qsBuTTzNSC3GtzcJlli2959J4yqZl08G4FCg&fp=firefox&sni=%2A.sourceforge.net&sid=593f3efe&spx=%2F#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNU1VT3ZGeDM2UkxVWklwVzgxY0sy@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZ3ZyVE9MNHBqUjBYcUdYUTZtTmFh@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiT1loSVVkZ0VPTDVXN2FCS2VWNXRt@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidjJmaFZBSm9LZGhJQmRJV3NWcUlt@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS21BbENTdWlYd09QdnUxTk9zcGRE@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTzcxc0xCYjdweGxHR0tLY0xpOXdC@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:2082?path=%2F%3F---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB---Join-TELEGRAM-%40FarshidHUB&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -47,7 +45,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ3R3ZhVmgxNG9yNndEVXpIQ3dy@51.142.185.195
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:16032?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUkpBZnVUS2syYk9ST1hwQjRZOHVJ@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMEcyT1dkRnFxZmN6MzRMWXI5aW56@13.87.75.178:7294#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
