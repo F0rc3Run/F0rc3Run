@@ -1,4 +1,4 @@
-// Last updated: 2025-08-09 12:53:06 UTC
+// Last updated: 2025-08-09 18:38:54 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@de.multiapvps.ir:4433?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza3.digipedia.shop:443#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://a5d4d379-6977-42cc-a506-ccafdf21f726@all8.toolsetbar.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+200000%2C+%22scMaxConcurrentPosts%22%3A+6%2C+%22scMinPostsIntervalMs%22%3A+100%2C+%22xPaddingBytes%22%3A+%22200-600%22%2C+%22noGRPCHeader%22%3A+true%7D&host=vips1.global.ssl.fastly.net&type=xhttp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -73,7 +73,8 @@ vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&
 vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=%2F&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@de-vip.digitalldns.net:8080?type=tcp&headerType=http&host=fast.com&path=%2F&mux=8#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://c78067fe-4e53-4dd5-8346-b9b11f42581d@all.funlifea.shop:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://adbb9c54-a35b-494b-9a4d-dec54b0e1f7a@vl30.rnd.biz.id:443?path=%2F%3Fed&security=tls&encryption=none&fp=safari&type=ws&sni=vl30.rnd.biz.id#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@t3.teslacdn2.live:443?security=tls&headerType=none&type=tcp&sni=t3.teslacdn2.live#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://fe25fd7f-d035-4448-baaa-a67237a03cb7@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=%2F#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@Filter5050.nabxcsjghjs2004.shop:27940?type=grpc&serviceName=&security=reality&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=%2F#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -146,7 +147,6 @@ vless://0f3baa1b-58fa-4cc2-a3d7-d834bb8d970c@in1rfsblhhoh.azborn.ir:443?type=ws&
 vless://9208e854-c58f-4d42-9fb4-8d0927b33285@cdn.king4father.shop:8080?encryption=none&security=none&type=ws&path=%2Fcustom-config#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://17231ace-1d66-4f19-a865-1989ab8100eb@free.grizzzlyyyy.ir:8461?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://10e7b4a9-1f80-48e2-b504-4da2c8415746@k.networknim.cam:43829?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-trojan://acbcaba-aacb-abac-cabd-bcbcaaabbcac@127.0.0.1:1080?security=tls&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@dest.realtechshop.top:666?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://---WLFVPN---@WLF-V-P-N-ID2.dnsfree.one:443?type=tcp&security=reality&headerType=none&fp=firefox&sni=www.yahoo.com&flow=xtls-rprx-vision&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -164,6 +164,7 @@ vless://19d13bed-b8c5-4443-920e-12f833fed576@join.VPNCUSTOMIZE.com:80?path=%2Fxm
 vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://2303c25e-0359-4772-d730-fbf2d34bc9c2@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40iTV2RAY&sni=tm.iTV2RAY.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -188,7 +189,6 @@ vless://d303a12a-6734-4dec-9b18-de367c66d5d5@panel.biatochannelv271g.shop:21594?
 vless://bc5d99b6-f362-41c3-8e12-439b9b71b031@panel.biatochannelv271g.shop:8443?security=reality&encryption=none&pbk=GB78WXzBAEAW26gG881YHFzzial5UdRQVn_i3xifpRc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=greenpepper.ir&sid=0b6f8a96#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://3d18bdb6-9e63-46e7-a2c9-025f7fa10309@LIGHTNING6.tm.12speedtest.store:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning6.ir&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://e25f4fca-638c-4d53-aa7a-be116631e041@Lan.limoovp11.sbs:18467?security=none&encryption=none&host=Discord.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://c78067fe-4e53-4dd5-8346-b9b11f42581d@all.funlifea.shop:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://5e3527b9-e220-4049-8caf-ebb2dca593f4@all.funlifea.shop:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://12c39772-94bd-49f5-b0ae-ca7b45eeb583@all.funlifea.shop:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://d1c39c87-0ce1-497f-ba7a-59672b005a49@all.funlifea.shop:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -289,7 +289,6 @@ vless://fe04082c-3ed6-40fc-ac9e-f11487996e39@LIGHTNING6-joinbed.filj.top:8880?pa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@www.outline.network.ak1909.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://56733cf9-f08d-43d9-8157-8e8ddbd0c06f@freeiranwebvip.ddns.net:80?path=%2Fgraphql&security=none&encryption=none&host=v20.smartyticket.click&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://42d197f0-99ac-4837-9493-6bc416f951b9@mci.dgi000.store:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=mah2.hAsmailKorea.storE#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
-vless://adbb9c54-a35b-494b-9a4d-dec54b0e1f7a@vl30.rnd.biz.id:443?path=%2F%3Fed&security=tls&encryption=none&fp=safari&type=ws&sni=vl30.rnd.biz.id#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://channel-rezaw_server@v.Reza-punisher-shopv2n.fun:20906?mode=gun&security=reality&encryption=none&pbk=tCzRx3x5LfPe6xlYL9wYuJBNl4ERMkwiK01v4PhJEHY&fp=chrome&spx=%2F&type=grpc&serviceName=%40rezaw_server#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://channel-rezaw_server@v.Reza-punisher-shopv2n.fun:59519?security=reality&encryption=none&pbk=eFiSJk2KrONFWr2w3qXVNda1DVAlVrT5opUGFoOKj1M&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=42f1e4b6#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@dash.svgspeedtest.net:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -326,6 +325,7 @@ vless://e6fc4474-7452-4124-86b0-538ef123b4fc@zelling.mhdizeb.cfd:2096?type=tcp&s
 vless://653496aa-d579-4a4b-9ae6-e65200e8d829@fqm.mhdizeb.cfd:2053?mode=gun&security=reality&encryption=none&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&fp=firefox&spx=%2Famomahdi&type=grpc&serviceName=&sni=www.pubg.com&sid=795f7e17#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://e807354d-c97b-4afb-88d0-f6cb3121954a@fqm.mhdizeb.cfd:2053?type=grpc&serviceName=&security=reality&fp=firefox&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&sni=www.pubg.com&sid=795f7e17&spx=%2Famomahdi#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=xjp.caball.link#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://7c05bfbb-2884-4b6e-a523-0b7f5bbd07f4@v2rex.sanaei1.milxbywkaiwnx.xyz:3333?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@site.felinefreedom.site:443?security=reality&encryption=none&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=none.felinefreedom.site&sid=4e69ed37#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@ir8.birdfly.site:2096?path=%2F%40V2ray_vpn_ir&security=tls&encryption=none&host=ger.vwfghin.info&type=ws&sni=ger.vwfghin.info#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@amtnx.black-diamond.online:2096?path=%2F%40V2ray_vpn_ir&security=tls&encryption=none&host=ger.vwfghin.info&type=ws&sni=ger.vwfghin.info#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
