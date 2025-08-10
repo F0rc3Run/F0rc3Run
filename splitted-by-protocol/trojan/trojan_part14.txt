@@ -1,0 +1,2 @@
+trojan://vpn@109.120.132.80:2025?type=ws&path=/&security=none#F0rc3Run
+trojan://Aimer@38.207.190.141:587/?type=tcp&security=tls&sni=🔒#F0rc3Run
