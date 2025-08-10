@@ -1,9 +1,8 @@
-// Last updated: 2025-08-10 06:39:42 UTC
+// Last updated: 2025-08-10 12:53:21 UTC
 vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?security=none&encryption=none&type=ws&host=vpnsal&path=%2F#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://b0f68b4d-1062-4560-96ea-042b03d9a44f@78.135.80.142:657?mode=gun&security=reality&encryption=none&pbk=4V9rR_oU_XHHMv4r_J7KjUazB99W6FEIKUJdXersxXI&fp=chrome&type=grpc&serviceName=Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw&sni=game-center.ir#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=%2Fjzmdpvws&encryption=none#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
