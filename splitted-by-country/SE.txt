@@ -1,4 +1,4 @@
-// Last updated: 2025-08-10 18:38:32 UTC
+// Last updated: 2025-08-11 02:15:19 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@promo9v.bystrivpn.ru:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://%74ele%67ra%6d-id-%41rV%32ra%79@185.146.173.77:80?type=grpc&serviceName=Telegram#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
@@ -63,6 +63,7 @@ trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&head
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=4.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.www.zula.ir.vu.cloudflare.com.mashtimJi.iR.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://telegram-id-ArV2ray@185.146.173.158:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.Zula.ir.cloudflare.com.mehpow.IR.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=6.v.v.V-_-_-V2ray-_-_-V.v.v.vg.www.speedtest.net.uv.Zula.ir.cloudflare.com.mehpOw.iR.&type=ws#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
+trojan://telegram-id-privatevpns@13.49.93.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://eb85e5f3-f19f-4841-bdcd-87aceb389501@70.34.194.125:8080?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=1HIEMKNkDd5N02BnSheVrSBaVgg3l-cxCwfnHZEb0SA&sid=fddc508e45b26c91&type=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://Parsashonam-285@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
 vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AA
