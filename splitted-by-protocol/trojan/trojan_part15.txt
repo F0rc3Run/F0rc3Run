@@ -1,0 +1,14 @@
+trojan://ttfang@103.106.230.186:81?allowInsecure=1&sni=🔒#F0rc3Run
+trojan://ttfang@103.106.230.186:81?type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#F0rc3Run
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23008?allowInsecure=0&sni=sni.eos-suzhou-4.cmecloud.cn#F0rc3Run
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23008/?type=tcp&security=tls&sni=🔒#F0rc3Run
+trojan://vpn@109.120.132.80:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#F0rc3Run
+trojan://vpn@109.120.132.80:2025?type=ws&path=/&security=none#F0rc3Run
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23020?allowInsecure=0&sni=168.yuanul.com#F0rc3Run
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23020/?type=tcp&security=tls&sni=🔒#F0rc3Run
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443?security=tls&sni=myvps.lol#F0rc3Run
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443?security=tls&sni=myvps.lol#F0rc3Run
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443?security=tls&sni=🔒#F0rc3Run
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443/?type=tcp&security=tls&sni=myvps.lol#F0rc3Run
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443?security=tls&sni=myvps.lol#F0rc3Run
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443/?type=tcp&security=tls&sni=🔒#F0rc3Run
