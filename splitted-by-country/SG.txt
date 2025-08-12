@@ -1,8 +1,8 @@
-// Last updated: 2025-08-12 02:04:07 UTC
+// Last updated: 2025-08-12 06:41:43 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3hiZjR2UnlBOElZPQ==@167.71.195.230:56399#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TVVWZUtDQm1nd0pPakd0c2JRMkpG@68.183.226.95:52042#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206L1VkL1Q4aG4wbS9Balc4Ukl1T21Qc1ozTlNWQm13MzEyVFkyLyt5YXhsRT0=@165.154.199.10:47180#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2dKN3dMZEtYNEZZeUY1Zm00R1N2RFozeXpIeThHanJvNUs2V0wvUCtRPQ==@167.71.195.230:17292#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
@@ -10,7 +10,6 @@ trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.188.250:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTgxNTExYy1iZWNiLTRiNTMtOGE4OS01N2NkM2M5N2IzMjg=@45.76.180.205:31368#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://05316cd9-74e2-444a-bc54-c4eb07e01b83@nbg1sanja.mmad.news:443?encryption=none&security=tls&sni=nbg1sanja.mmad.news&fp=random&type=httpupgrade&host=nbg1sanja.mmad.news&path=%2F51007%2FhMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://ee258409-6a4c-4ffd-867f-1284275425f6@fsn1sanja.mmad.news:443?encryption=none&security=tls&sni=fsn1sanja.mmad.news&fp=random&type=httpupgrade&host=fsn1sanja.mmad.news&path=%2F16984%2FhMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://71b95f9d-37cc-4fa4-9c4b-fdac659d86c8@nbg1sanja.mmad.news:443?encryption=none&security=tls&sni=nbg1sanja.mmad.news&fp=random&type=ws&host=nbg1sanja.mmad.news&path=%2F47862%2FwsMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://93b112c4-b24a-4c3a-a9d0-777e9945fb3c@fsn1sanja.mmad.news:443?encryption=none&security=tls&sni=fsn1sanja.mmad.news&fp=random&type=ws&host=fsn1sanja.mmad.news&path=%2F44994%2FwsMMad#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC

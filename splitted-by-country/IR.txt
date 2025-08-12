@@ -1,4 +1,4 @@
-// Last updated: 2025-08-12 02:04:07 UTC
+// Last updated: 2025-08-12 06:41:43 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?encryption=none&security=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://50626ca4-ecd4-491e-b8b1-6f92420e67cc@45.94.215.252:1001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -18,6 +18,7 @@ vless://41592df4-7e02-4d22-b111-16555f03b704@hashtad2.moilezamani.ir:8080?path=%
 vless://ad482dbf-8b1e-45ed-ad01-d9348fbf51cc@185.239.2.101:12002?security=reality&encryption=none&pbk=wKh_qTcfwcqcHSdTLjRrdJVN-qCCCwacxZ6O6TMJY2o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://4825edb4-0fde-4d48-892d-ddac2e1e13bb@www.parspack.com:8880?type=httpupgrade&path=%2FSHHPROXY%3Fed%3D2048%3DTelegram#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?type=tcp&headerType=http&host=fast.com&path=%2F&mux=8#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
