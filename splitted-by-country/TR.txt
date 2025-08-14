@@ -1,12 +1,12 @@
-// Last updated: 2025-08-14 12:58:34 UTC
+// Last updated: 2025-08-14 18:53:37 UTC
 vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?security=none&encryption=none&type=ws&host=vpnsal&path=%2F#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
-vless://b0f68b4d-1062-4560-96ea-042b03d9a44f@78.135.80.142:657?mode=gun&security=reality&encryption=none&pbk=4V9rR_oU_XHHMv4r_J7KjUazB99W6FEIKUJdXersxXI&fp=chrome&type=grpc&serviceName=Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw&sni=game-center.ir#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZFlZT1N1RHVWcHRvSVE5Z29Od093@62.133.63.21:65262#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
-vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
+vless://b0f68b4d-1062-4560-96ea-042b03d9a44f@78.135.80.142:657?mode=gun&security=reality&encryption=none&pbk=4V9rR_oU_XHHMv4r_J7KjUazB99W6FEIKUJdXersxXI&fp=chrome&type=grpc&serviceName=Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw&sni=game-center.ir#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=%2Fjzmdpvws&encryption=none#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
+vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk=@77.83.245.171:443#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@212.68.55.11:18760#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
@@ -14,5 +14,5 @@ vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&security=
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@45.89.52.66:9054#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
+vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&headerType=none&fp=chrome&spx=%2FCOPE_AZ_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://5da34674-9d4c-42c1-bdd1-0a9a2973ea8e@45.136.5.246:8080?mode=gun&security=reality&encryption=none&pbk=vJJOKAgWp7-GkEPeclV6PbyDn-Z2h1WZlyCY4y1xG3s&fp=chrome&spx=%2F&type=grpc&serviceName=cactusfree&sni=journalofbigdata.springeropen.com&sid=3d2f#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
