@@ -1,4 +1,4 @@
-// Last updated: 2025-08-13 18:48:03 UTC
+// Last updated: 2025-08-14 02:10:10 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
 vless://39f9a4f4-f2c6-4aea-b6ce-0c6a3e410051@23.227.38.32:2053?security=tls&encryption=none&type=ws&host=mojito.djjw8292n.ir&path=%2Fhomepage%3Fed%3D2560&sni=mojito.djjw8292n.ir&fp=chrome#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
@@ -13,12 +13,8 @@ vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=
 vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@n2vpn-helper.projectis.ir:2096?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:807#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&encryption=none&pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4662ad#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://turboo-server@canada.turboo-server.com:10538?mode=gun&security=reality&encryption=none&pbk=lTkMprNNGET2C1Mxr9YH_MUopv4zttTN8pCa-GwNBwU&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram%3A%40turboo_server%2C%40turboo_server&sni=discordapp.com&sid=eeb0316389#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=none&encryption=none&host=v10.events.data.microsoft.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
