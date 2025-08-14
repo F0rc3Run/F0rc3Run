@@ -1,11 +1,10 @@
-// Last updated: 2025-08-14 02:10:10 UTC
+// Last updated: 2025-08-14 06:42:15 UTC
 ss://YWVzLTI1Ni1nY206eEFyZVM2TjlCbnRPT1BraGhZL0xJMkJLQ09hOXB6bkZDTWJIVXk1dUVXbz0=@165.22.99.146:51873#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TVVWZUtDQm1nd0pPakd0c2JRMkpG@68.183.226.95:52042#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.188.250:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTgxNTExYy1iZWNiLTRiNTMtOGE4OS01N2NkM2M5N2IzMjg=@45.76.180.205:31368#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
@@ -15,6 +14,4 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=&encryptio
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443?security=tls&sni=rAyAn-11.LeIlA.DpDnS.OrG&fp=chrome&type=ws&path=%2F%40Rayan_Config&host=rayan-11.leila.dpdns.org&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.29:8880?security=&sni=hk.laoyoutiao.link&allowInsecure=1&type=ws&path=%2FTelegramU0001F1E8U0001F1F3&host=hk.laoyoutiao.link&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.49.89:443#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiI0Ny44NC42Mi4xIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkMmEwYmNkNy1lMzJkLTRiNzEtOTFhOS01ZmQ3MDQzYjcwMjUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjIwMDg2LCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyJ9
