@@ -1,3 +1,3 @@
 vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&sni=🔒#F0rc3Run
-vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&sni=v2ray.codefyinc.com&fp=&type=ws&path=/vmessws&host=v2ray.codefyinc.com#F0rc3Run
 vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&fp=&type=ws&host=speedtest.net#F0rc3Run
+vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&sni=v2ray.codefyinc.com&fp=&type=ws&path=/vmessws&host=v2ray.codefyinc.com#F0rc3Run
