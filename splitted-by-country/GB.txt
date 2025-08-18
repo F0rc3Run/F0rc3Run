@@ -1,10 +1,11 @@
-// Last updated: 2025-08-18 02:13:38 UTC
+// Last updated: 2025-08-18 06:43:31 UTC
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880?path=%2FTelegram%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://8ccf9188-925e-4287-efd2-04002478ddb5@8.208.10.169:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiaG9zdCI6IndlYnNoZWNhbmlyMi5zeW1vZGkubWwiLCJpZCI6ImUxYjkzMTI2LTRkYjktNGZlMy1kMzRjLTljYjcyMTlkNmY0YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvQmVuVEVOQ09sIiwicG9ydCI6IjIwOTYiLCJzY3kiOiJhdXRvIiwic25pIjoid2Vic2hlY2FuaXIyLnN5bW9kaS5tbCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyJ9
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.119.01:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMEZQa25JdG9BMWZrUVJma3k2bVF2@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -23,6 +24,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMjJyQlJLZndQWXlVTm1oRU5hUFE0@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NXpOSlBnQlE3OWZacVlydlZSZjR4@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QXRIZUxPZFhrMEJGMnhCejlndDg1@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTM3dFRUxaMFdzSzByc0x6bDgxMVA2@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMEZQa25JdG9BMWZrUVJma3k2bVF2@78.129.140.11:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -34,7 +36,6 @@ vless://4d3e15b4-edf9-490a-8657-c89c873fc657@8.208.19.69:2053?mode=gun&security=
 vless://4d3e15b4-edf9-490a-8657-c89c873fc657@8.208.19.69:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narco_nett&sni=nard.numallas.top#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://c22f2805-69b1-4cfa-ded8-d9baac99c232@8.208.10.169:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://c22f2805-69b1-4cfa-ded8-d9baac99c232@8.208.10.169:2053?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narco_nett&sni=narcod.numallas.space#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://8ccf9188-925e-4287-efd2-04002478ddb5@8.208.10.169:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://8ccf9188-925e-4287-efd2-04002478ddb5@8.208.10.169:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narcod_ping&sni=narcod.numallas.space#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narcod_ping&sni=narcod.numallas.space#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
