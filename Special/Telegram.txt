@@ -6,6 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cm5wTjY2amhpazlaZjBFYVdZVUJB@46.4.162.31:10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#F0rc3RunVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystrivpn.ru:443#F0rc3RunVPN 🇦🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Z01oRzlQYTFnTzRKbVVzV0VnRzhERExRL2ZGNTVTS1ZPUEtEeGVubVZVPQ==@3.78.251.215:2082#F0rc3RunVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.171:53626#F0rc3RunVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#F0rc3RunVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUFFWUEpFV1h4TWtrZEU4MkFXN3FFajdqeFFyWnhxRlVqM3poZUxqRkFydnRtdXpVWE5wOUpVd3pYR0QxeUpFSGNEeUg0MUhmUE5vMzd2SFd1TEJwM2d1aVJTdVVaNnY=@94.131.22.134:40565#F0rc3RunVPN 🇬🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#F0rc3RunVPN 🇮🇳
@@ -39,7 +40,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwWnZ3UDE3Tmx6Mno2anNZblZnWmdm@45.138.74.160:7261#F0rc3RunVPN 🇦🇹
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#F0rc3RunVPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#F0rc3RunVPN 🇺🇸
-ss://YWVzLTI1Ni1nY206NEF4SVFXUXpuZlRHSGg4MFo3OFdYTlBJT0U1dDVQY1dwK2JKVGRWNFg2VT0@167.172.73.185:59844#F0rc3RunVPN 🇸🇬
 ss://YourBugHost#F0rc3RunVPN 🏳️
 ss://bughost/path_server)#F0rc3RunVPN 🏳️
 trojan://04dce2ad-97b3-445a-b26b-dc1b9a58914f@asia.artunnel57.host:443?security=tls&amp;type=tcp&amp;sni=asia.artunnel57.host#F0rc3RunVPN 🏳️
@@ -199,7 +199,7 @@ vless://477f5c5d-57e6-4811-ba26-e67f071cae8b@r2.srk-mihan.xyz:443?mode=gun&amp;s
 vless://48735946-f706-4873-b9b6-d9f0255475cc@telegrambermuda24.jahanmataleb.ir:443?type=tcp&amp;security=reality&amp;pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&amp;fp=chrome&amp;sni=www.refersion.com&amp;sid=b4&amp;spx=%2F#F0rc3RunVPN 🇩🇪
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&amp;encryption=none&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#F0rc3RunVPN 🇺🇸
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=d3b13f31#F0rc3RunVPN 🇹🇷
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#F0rc3RunVPN 🇸🇪
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#F0rc3RunVPN 🇺🇸
 vless://4c54aa59-3f7a-4257-bad6-5f2def2d9fb8@157.173.195.208:8081?security=reality&amp;encryption=none&amp;pbk=maeBz8hpeApypC47VuYULiB8zupTv1HxlPpRJ5QsOUI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=9d41#F0rc3RunVPN 🇺🇸
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FL4h47GkKWsH8we4z%2FMzUuMTgwLjIyOS4x%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=titantablomanahamrah.ir&amp;fp=randomized&amp;type=ws&amp;sni=TITanTabLOmaNAHaMRaH.IR#F0rc3RunVPN 🇺🇸
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTelegram%40v2rayngzendegimamad&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=titantablomanahamrah.ir&amp;fp=randomized&amp;type=ws&amp;sni=TITanTabLOmaNAHaMRaH.IR#F0rc3RunVPN 🇺🇸
