@@ -1,5 +1,4 @@
-// Last updated: 2025-08-19 12:52:24 UTC
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+// Last updated: 2025-08-19 18:52:54 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
@@ -13,3 +12,4 @@ vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=reality&p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.139.0.110:8319#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVE5NTFZCYkxNNUR5WWpKM0FEb0hH@167.71.221.255:44120#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
