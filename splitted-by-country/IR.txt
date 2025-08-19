@@ -1,4 +1,4 @@
-// Last updated: 2025-08-19 06:40:32 UTC
+// Last updated: 2025-08-19 12:52:24 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?encryption=none&security=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -79,6 +79,8 @@ vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=%2Ftelegram--
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://7cfee10a-57f2-4eb7-a176-b4faebd45c83@qp.vqpv.top:2052?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://06cf5b5d-93d2-493a-9ae6-3687f564a4b2@Nim.cloud-safa.ir:2146?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://06cf5b5d-93d2-493a-9ae6-3687f564a4b2@Nim.cloud-safa.ir:2147?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@89.235.117.104:8001?security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://7d866a58-8da9-4af9-bed5-abc64c9ba15d@37.202.239.38:11336?security=none&encryption=none&host=cloudflare.com%2FTELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN%3Fed%3D2048&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFpcjUuYXJzaS1tYW1hZC5zYnMiLCJpZCI6ImQ3ZjliZDg0LTNkMWQtNGI0YS1kMmI4LTVhZThiNDJlNzZhYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvQXJzYWxhblRhdUJvdCIsInBvcnQiOiIyMDk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyJ9
@@ -118,7 +120,6 @@ vless://9da21010-6025-430a-9ce9-6096673d86d1@X3.snaapppfree.com:1360?security=no
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.shahinstore1.com:443?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://e9cae639-8a68-4038-9145-458df42ba577@vipvpn2022.esnpenel.com:2020?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://8ac8ed29-e250-41a4-b1ff-31ce32eb2f12@tunnel-germany-1.fastservice.cam:4001?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://b2a9f183-b554-473b-a336-1864b86f9fd6@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://03cc6a8a-73fe-4e81-8bba-f66b145575ea@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
