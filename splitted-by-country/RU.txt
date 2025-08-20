@@ -1,4 +1,4 @@
-// Last updated: 2025-08-19 18:52:54 UTC
+// Last updated: 2025-08-20 13:31:35 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=spb1.fromblancwithlove.com#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://3c631fef-c28c-4dfe-aacc-9e67ace7d5b3@213.183.41.63:443?mode=gun&security=reality&encryption=none&pbk=9tNnOU3bIHtyZfWaPv1J1ns78jDfzCdh6dRLjhQGlX8&fp=chrome&spx=%2F&type=grpc&serviceName=free&sni=skyroom.online&sid=1f#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
@@ -8,7 +8,6 @@ vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&pat
 trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&alpn=http%2F1.1&fp=chrome&type=ws&host=teo.history-paint.art&path=%2Fwss24142%3Fed%3D2048#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?encryption=none&security=reality&sni=www.speedtest.net&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c&spx=%2F&type=grpc#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
-vless://0a947205-01a0-4634-8e78-daf200d02def@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz@194.34.239.105:18760#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?security=reality&encryption=none&pbk=3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=366e5433f6196a6f#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
@@ -16,5 +15,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@212.193.27.52:
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.233.21.29:8880?security=&fp=chrome&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40MxlShare+%40WangCai2+%2F%3Fed%3D2560&host=hk.laoyoutiao.link&encryption=none#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 ss://YWVzLTI1Ni1nY206NGloMkVLUVMwaVlOTXdJVm1xK0xNbDBqdlgwSFE4WmZFS0E3WGN4eXVKUT0=@95.163.221.233:41596#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
+ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@185.22.154.19:29910#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ==@92.223.109.205:51348#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
