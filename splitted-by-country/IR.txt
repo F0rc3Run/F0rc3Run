@@ -1,10 +1,9 @@
-// Last updated: 2025-08-20 13:31:35 UTC
+// Last updated: 2025-08-20 18:52:18 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?encryption=none&security=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://da86fa0e-7d99-4ef4-bffc-cc7d114748ef@193.3.182.246:443?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv111.momdping.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@2.fasttrade.blog:40665?security=none&encryption=none&type=ws&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?security=none&encryption=none&type=tcp&host=soft98.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -17,6 +16,7 @@ vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=%2Fws%3Fed%3D
 vless://bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320@212.23.214.148:47534?type=tcp&headerType=http&host=telewebion.com&path=%2F%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bf86e56d-869e-4967-f675-d832cf5ec63e@212.16.68.63:1003?type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@croatia.netblocksir.ir:6556?security=none&type=tcp&headerType=http&path=%2F&host=api.wheather.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?path=%2F&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://0ad87446-7e54-40cd-a3ac-b451fdde515c@panel-finland-2.subcenter.net:2002?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -62,7 +62,6 @@ vmess://eyJhZGQiOiJzMi5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vmess://eyJhZGQiOiIxODUuOTQuOTYuMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJlelpib1g1Ri5kaXZhcmNkbi5jb20iLCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjE3NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcifQ==
 vmess://eyJhZGQiOiIzNy4zMi4yMy4xMjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDEyYmM4ODItNDNjNy00MTVlLTg3YzUtMmE3ZmRjODM3MWMwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93ZWJzb2NrZXRcLyIsInBvcnQiOiI0NDMiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcifQ==
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=%2F&security=none&host=www.speedtest.net&headerType=http#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://97dce074-7db1-4d59-99ca-0ef8311e2425@s19.speedyconnect.pro:443?path=%2Fdownloader%2F10005%3Fed%3D2048&security=tls&encryption=none&host=s19.speedyconnect.pro&type=ws&sni=s19.speedyconnect.pro#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://1e67033a-d197-4891-ffa0-f31be082314d@31.14.114.90:58256?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -104,8 +103,6 @@ vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-adm
 vless://950961e0-a930-41c4-b8be-696139a0cca6@dow.spslean.pw:36505?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://2476b968-3130-44f5-81e9-97a9701cffd9@mail.irankio.com:8443?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://01860891-2645-420f-a494-a653d960f58d@2.189.117.105:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://f63d5dc7-1234-4df3-90fe-55ae1b200002@2.183.121.31:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=YourPublicKey&sid=12345678&type=tcp&flow=xtls-rprx-vision#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://271fe692-5e0c-4d89-ec60-8afa3b78efd4@81.30.98.122:8080?type=http&path=%2F&host=wWw.google.cOm%2CSpeedTest.NET%2Cteslascope.com%2Cbonviveur.es&security=reality&pbk=9rQjZQEE-PpIqLVBoP1uAvr7gSWKTAHFic1CVVlfqXM&fp=firefox&sni=Www.SPeedTesT.NEt&sid=90928c15&spx=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://5e643328-05a4-4e79-a89c-d98e0929113b@server2.morgon2.top:22242?encryption=none&security=none&type=ws&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vmess://eyJhZGQiOiIxODUuMTQzLjIzNC4xMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJidWd1azIubWxnb2xkZW4uc2l0ZSIsImlkIjoiYzRjNTJhMzYtYmY5Yi00MjE5LWI1ODctYTExYzU4ZTdmYzMxIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJidWd1azIubWxnb2xkZW4uc2l0ZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyJ9
