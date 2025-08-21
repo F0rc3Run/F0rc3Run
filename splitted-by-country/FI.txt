@@ -1,4 +1,4 @@
-// Last updated: 2025-08-21 01:58:30 UTC
+// Last updated: 2025-08-21 06:46:19 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@usa.multiapvps.ir:4434?encryption=none&security=reality&sni=docker.com&fp=firefox&pbk=LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M1RkenNIb3NQUWpHQWFMbW85bEdR@83.147.216.70:64519#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://682e220c-0db8-4c47-8c7a-f719639a4b4a@65.109.241.111:14327?type=tcp&path=%2F&host=zula.ir&headerType=http#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
@@ -30,6 +30,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vmess://eyJhZGQiOiI2NS4xMDkuMTMzLjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUifQ==
 trojan://cba32ac1-abbb-4371-ba50-19eb5c38748c@135.181.253.237:443?security=tls&headerType=none&type=tcp&sni=xvqn.de#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
+vless://379403d7-5070-4f37-bfe2-9855931191d8@65.109.196.242:15889?security=none&type=tcp&host=speedtest.net&headerType=http#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://9d717e24-b4b5-4fa5-8b3b-22ed9b30bf65@95.217.27.14:13560?type=ws&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a68a6e60-5f70-4972-efc7-e1a3120db501@65.109.194.104:38639?type=tcp&path=%2F&host=notion.so&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
 vless://7847e923-2424-4e4f-d365-0064c33a00a9@65.109.194.104:38639?type=tcp&path=%2F&host=notion.so&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%AE
