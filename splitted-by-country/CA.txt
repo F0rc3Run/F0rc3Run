@@ -1,4 +1,4 @@
-// Last updated: 2025-08-21 06:46:19 UTC
+// Last updated: 2025-08-21 12:53:26 UTC
 vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
@@ -12,7 +12,6 @@ vless://a295f5d8-fbb0-4a71-bef3-a39a6334bfc4@n2vpn-helper.projectis.ir:2053?path
 vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@n2vpn-helper.projectis.ir:2096?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:807#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
@@ -21,5 +20,5 @@ vless://turboo-server@canada.turboo-server.com:10538?mode=gun&security=reality&e
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@23.227.60.254:8880?security=&sni=Telegram-channel-WangCai2&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560fp%3Dchrome&host=yg.bantony199.top&encryption=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6IjE1LjIzNS44My4yMjciLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJob3N0IjoibWFua2FkbXUuY29tIiwicGF0aCI6IlwvbGlua3Z3cyIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IlwvbGlua3Z3cyIsInRscyI6InRscyIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
