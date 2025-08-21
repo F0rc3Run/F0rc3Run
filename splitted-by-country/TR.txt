@@ -1,5 +1,6 @@
-// Last updated: 2025-08-20 18:52:18 UTC
+// Last updated: 2025-08-21 01:58:30 UTC
 vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?security=none&encryption=none&type=ws&host=vpnsal&path=%2F#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
+vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
@@ -10,6 +11,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@212.68.55.11:18760#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&security=reality&encryption=none&pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&fp=firefox&type=grpc&serviceName=&sni=www.discord.com#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir#%23F0rc3Run%20%F0%9F%87%B9%F0%9F%87%B7
