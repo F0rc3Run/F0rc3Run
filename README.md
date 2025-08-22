@@ -63,7 +63,7 @@ Password: vpn
 Get VPN links instantly via Telegram.  
 Choose protocol and language, and receive working servers in real-time.  
 
-👉 [@F0rc3Run on Telegram](https://t.me/F0rc3Run)
+👉 [@F0rc3Run on Telegram](https://t.me/F0rc3Runbot)
 
 ---
 
