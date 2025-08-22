@@ -4,129 +4,79 @@
   <img src="Logo/logo.png" alt="F0rc3Run Logo" width="160"/>
 </p>
 <p align="center">
-  <b>✊️ Fighting for Free Internet Access</b></br><br>
-  <a href="https://t.me/ForceRunVPN">📢 کانال تلگرام</a> • <a href="https://f0rc3run.github.io/F0rc3Run-panel/">🌐 Web Panel</a>
+  <a href="https://t.me/ForceRunVPN">📢 Telegram Channel</a> • <a href="https://f0rc3run.github.io/F0rc3Run-panel/">🌐 Web Panel</a>
 </p>
 
 ---
 
-## 🌍 About Me | درباره من
+# Free VPN Servers – VMess, VLESS, Shadowsocks, Trojan, SSTP
 
-**EN:**  
+This repository provides **free VPN servers** for unrestricted internet access.  
+All links are collected from public sources, tested automatically, and updated every 6 hours.  
 
-Hi!  
-Here, I provide a collection of free and public VPN servers to support open and unrestricted internet access.
-My mission is to support unrestricted and secure internet access for everyone, everywhere — empowering people to bypass censorship and connect freely with the world. **free internet for all**.
-
-**FA**:</br>
-
-درود!<br/>
-در اینجا مجموعه‌ای از سرورهای رایگان و عمومی برای دسترسی به اینترنت آزاد ارائه می‌دهم.
-هدف من دسترسی آزاد و امن به اینترنت برای همه و عبور از سانسور و ارتباط آزاد با جهان است. من باور دارم که دسترسی آزاد و امن به اینترنت، حق هر انسانی است.
-
+Use these free VPN configurations in apps such as **Husi, Nekobox, V2rayNG, Clash, Shadowrocket** and more.  
+Stay connected securely and bypass censorship with the latest protocols.
 
 ---
 
-## 📦 Subscription Links | لینک‌های اشتراک
+## 🔑 Subscription Links (Auto-Updated)
 
-لیست زیر شامل سرورهای سالم و تست‌شده برای استفاده در اپلیکیشن‌های مختلف است.  
-همه فایل‌ها **به‌صورت خودکار هر ۶ ساعت بروزرسانی** می‌شوند و بدون نیاز به تنظیمات خاص قابل استفاده هستند.
+Copy the links below into your VPN client to import working servers.
 
-| 📡 Protocol | 📥 Subscription Link | 🧾 Description |
-|------------|----------------------|----------------|
-| 🔐 **Shadowsocks** | [`shadowsocks_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt) | سبک و قابل استفاده در تمام دستگاه‌ها |
-| ⚡ **VLESS** | [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt) | پشتیبانی‌شده در اپ‌های پیشرفته مثل Nekobox |
-| 🌀 **VMess** | [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess/vmess.txt) | شامل سرورهای VMess سالم و پایدار |
-| 🔒 **Trojan** | [`trojan.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt) | امن و سریع با رمزنگاری قوی |
-| 🌐 **Mix Country**  | [` mix List`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt) | ترکیب سرورها از چند کشور |
+- **Shadowsocks:**  
+  [`shadowsocks_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt)
 
+- **VLESS:**  
+  [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt)
 
-> 🧠 **راهنما:** لینک را کپی کرده و داخل اپ فیلترشکن خود وارد کنید (مانند Husi, Nekobox, V2rayNG و ...)
+- **VMess:**  
+  [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess/vmess.txt)
 
-> ♻️ همه‌ی لینک‌ها **از منابع عمومی جمع‌آوری** و **تست اتصال** شده‌اند.
+- **Trojan:**  
+  [`trojan.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt)
 
----
-
----
-
-<h2>🛰️ SSTP VPN Server | سرور SSTP رایگان</h2>
-
-<p>
-<b>EN:</b><br>
-Get a free SSTP VPN server from our active list and enjoy safe, uncensored access.
-</p>
-
-<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/sstp-configs/sstp_with_country.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
-📥 View SSTP Server
-</a>
-
-<pre><code><b>Username:</b> vpn
-<b>Password:</b> vpn</code></pre>
-
-<p><b>How to Use:</b></p>
-<ol>
-<li>Open your SSTP VPN client (e.g., <i>Open SSTP Client</i> on Android).</li>
-<li>Copy the <code>host:port</code> from the link above.</li>
-<li>Enter the username and password.</li>
-<li>Connect and browse freely.</li>
-</ol>
-
-<hr>
-
-<p><b>FA:</b><br>
-
-  با استفاده از سرور SSTP موجود در لیست،
-به اینترنت آزاد و ایمن دسترسی پیدا کنید.
-</p>
-
-<a href="https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/sstp-configs/sstp_with_country.txt" target="_blank" style="display:inline-block; padding:10px 20px; background:#2da44e; color:white; border-radius:6px; text-decoration:none; font-weight:bold; font-family:sans-serif;">
-📥 مشاهده سرور SSTP
-</a>
-
-<pre><code><b>نام کاربری:</b> vpn
-<b>رمز عبور:</b> vpn</code></pre>
-
-<p><b>راهنمای استفاده:</b></p>
-<ol>
-<li>اپلیکیشن SSTP VPN (مثل <i>Open SSTP Client</i> برای اندروید) را باز کنید.</li>
-<li>مقدار <code>host:port</code> را از لینک بالا کپی کنید.</li>
-<li>نام کاربری و رمز عبور را وارد نمایید.</li>
-<li>متصل شوید و آزادانه مرور کنید.</li>
-</ol>
+- **Mixed Countries:**  
+  [`mix_list.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt)
 
 ---
 
-## 🤖 Telegram Bot | بات تلگرام
- 
-Get live VPN links via Telegram! Choose protocol, language, and get working servers instantly.
+## 🛰️ Free SSTP VPN Servers
+
+Download and use free **SSTP VPN servers** from our active list.
+
+👉 [SSTP Server List](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/sstp-configs/sstp_with_country.txt)
+
+Username: vpn 
+Password: vpn
+
+### How to Use:
+1. Install an SSTP VPN client (e.g., *Open SSTP Client* on Android).  
+2. Copy the `host:port` from the list above.  
+3. Enter username and password.  
+4. Connect and enjoy secure browsing.  
+
+---
+
+## 🤖 Telegram Bot
+
+Get VPN links instantly via Telegram.  
+Choose protocol and language, and receive working servers in real-time.  
 
 👉 [@F0rc3Run on Telegram](https://t.me/F0rc3Run)
 
 ---
 
-## 🤍 Support Free Internet | حمایت از اینترنت آزاد
+## ⭐ Support Free Internet
 
-**EN:**  
-- ⭐ Star this repo  
-- 📢 Share with friends  
-- 🧑‍💻 Contribute to open internet tools
-
-**FA:**  
-- ⭐ پروژه‌ها رو ستاره‌دار کن  
-- 📢 با دوستانت به‌اشتراک بذار  
-- 🧑‍💻 به توسعه ابزارهای اینترنت آزاد کمک کن
+- Give this repo a **Star**  
+- Share with friends  
+- Contribute to open-source internet freedom tools  
 
 ---
 
-## 📜 License | مجوز
+## 📜 License
 
-**ForceRun Free Access License</br> (مجوز دسترسی آزاد فورس‌ران)**
-
-📄 [FFAL](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/LICENSE)
+**ForceRun Free Access License (FFAL)**  
+📄 [View License](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/LICENSE)
 
 ---
-
-<p align="center">
-   <b>Internet should be a right — not a privilege</b><br>
-  🤍 <b>اینترنت باید یک حق باشد، نه یک امتیاز 🤍</b>
-</p>
