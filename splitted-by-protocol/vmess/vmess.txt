@@ -1,1 +1,4 @@
 vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&sni=🔒#F0rc3Run
+vmess://7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9@91.99.185.216:20086?encryption=auto&path=/&security=none&type=ws#F0rc3Run
+vmess://7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9@91.99.185.216:20086?encryption=auto&security=none&type=ws#F0rc3Run
+vmess://7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9@91.99.185.216:20086?encryption=auto&path=🔒#F0rc3Run
