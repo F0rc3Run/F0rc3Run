@@ -11,11 +11,11 @@
 
 # Free VPN Servers – VMess, VLESS, Shadowsocks, Trojan, SSTP
 
-This repository provides **free VPN servers** for unrestricted internet access.  
-All links are collected from public sources, tested automatically, and updated every 6 hours.  
+Get access to free VPN servers for unrestricted and secure internet browsing.  
+Links are gathered from public sources, automatically tested, and refreshed every 6 hours.  
 
-Use these free VPN configurations in apps such as **Husi, Nekobox, V2rayNG, Clash, Shadowrocket** and more.  
-Stay connected securely and bypass censorship with the latest protocols.
+Enjoy stable and fast connections using protocols such as **VMess, VLESS, Shadowsocks, Trojan, and SSTP**.  
+Works with popular apps including **Husi, Nekobox, V2rayNG, Clash, Shadowrocket** and many others.
 
 ---
 
@@ -47,6 +47,7 @@ Download and use free **SSTP VPN servers** from our active list.
 👉 [SSTP Server List](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/sstp-configs/sstp_with_country.txt)
 
 Username: vpn 
+
 Password: vpn
 
 ### How to Use:
