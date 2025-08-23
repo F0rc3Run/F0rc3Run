@@ -1,8 +1,7 @@
-// Last updated: 2025-08-23 12:45:49 UTC
+// Last updated: 2025-08-23 18:33:37 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?encryption=none&security=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?type=tcp&headerType=http&host=speedtest.net&path=%2F%3Fed%3D2048&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv111.momdping.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@2.fasttrade.blog:40665?security=none&encryption=none&type=ws&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?security=none&encryption=none&type=tcp&host=soft98.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -14,6 +13,7 @@ vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?type=tcp&header
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320@212.23.214.148:47534?type=tcp&headerType=http&host=telewebion.com&path=%2F%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
+vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?path=%2F&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://0ad87446-7e54-40cd-a3ac-b451fdde515c@panel-finland-2.subcenter.net:2002?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://Telegram%40FNET00%40Am20094@188.121.126.69:8081?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -26,7 +26,6 @@ vless://824fd081-bca0-48b4-9133-d6b0b47f41f7@37.32.11.207:777?security=none&encr
 vless://ff98843d-1249-4269-8b67-318880ea8e03@46.102.132.116:47312?security=none&encryption=none&host=aionet.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac6db4ff-9c6e-4d88-b578-43435f1f8d98@62.60.132.138:8096?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://5b5c6557-d611-4c6f-a43b-a2c48c0b541d@46.102.136.69:57803?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://0b3d1510-31a1-4a6f-ba85-336388e3adac@13.irShecan.com:47491?security=&encryption=none&host=head.irshecan.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -97,8 +96,6 @@ vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-adm
 vless://950961e0-a930-41c4-b8be-696139a0cca6@dow.spslean.pw:36505?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://2476b968-3130-44f5-81e9-97a9701cffd9@mail.irankio.com:8443?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://a306aa7f-86b5-4c52-a305-35b5795e684f@91.240.95.47:40611?type=tcp&security=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F&security=&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://271fe692-5e0c-4d89-ec60-8afa3b78efd4@81.30.98.122:8080?type=http&path=%2F&host=wWw.google.cOm%2CSpeedTest.NET%2Cteslascope.com%2Cbonviveur.es&security=reality&pbk=9rQjZQEE-PpIqLVBoP1uAvr7gSWKTAHFic1CVVlfqXM&fp=firefox&sni=Www.SPeedTesT.NEt&sid=90928c15&spx=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://63639f55-e32a-4d5b-b85d-388af84ddc94@cdn4.azkhaktakhane.ir:4040?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://5e643328-05a4-4e79-a89c-d98e0929113b@server2.morgon2.top:22242?encryption=none&security=none&type=ws&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7

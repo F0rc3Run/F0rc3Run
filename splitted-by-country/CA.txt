@@ -1,4 +1,4 @@
-// Last updated: 2025-08-23 12:45:49 UTC
+// Last updated: 2025-08-23 18:33:37 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiIjRjByYzNSdW4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
 vless://39f9a4f4-f2c6-4aea-b6ce-0c6a3e410051@23.227.38.32:2053?security=tls&encryption=none&type=ws&host=mojito.djjw8292n.ir&path=%2Fhomepage%3Fed%3D2560&sni=mojito.djjw8292n.ir&fp=chrome#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
@@ -17,5 +17,4 @@ vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=&encrypt
 vless://turboo-server@canada.turboo-server.com:10538?mode=gun&security=reality&encryption=none&pbk=lTkMprNNGET2C1Mxr9YH_MUopv4zttTN8pCa-GwNBwU&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram%3A%40turboo_server%2C%40turboo_server&sni=discordapp.com&sid=eeb0316389#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6IlwvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
