@@ -1,4 +1,5 @@
-// Last updated: 2025-08-24 02:01:14 UTC
+// Last updated: 2025-08-24 06:34:41 UTC
+vless://5196d429-6e39-43ae-a8de-de1629af4d96@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
@@ -9,5 +10,4 @@ vless://bdb50d95-fcd3-451c-9473-466b4529af2c@91.242.241.45:8443?security=reality
 vless://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=%2F&flow=xtls-rprx-vision#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=%2F&flow=xtls-rprx-vision#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.139.0.110:8319#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptd3N3cEZ3VEZwekVaQ1ByTTRGNzhq@139.59.229.53:12610#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#%23F0rc3Run%20%F0%9F%87%B8%F0%9F%87%AC
