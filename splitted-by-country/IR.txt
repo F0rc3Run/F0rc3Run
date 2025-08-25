@@ -1,9 +1,8 @@
-// Last updated: 2025-08-25 01:53:38 UTC
+// Last updated: 2025-08-25 06:40:54 UTC
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?encryption=none&security=none&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://31b1473d-31bf-48fb-9b35-b12d459125e6@s3.vip.ip9s.ir:37916?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv111.momdping.com#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@2.fasttrade.blog:40665?security=none&encryption=none&type=ws&path=%2F#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?security=none&encryption=none&type=tcp&host=soft98.ir&path=%2F&headerType=http#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
@@ -121,7 +120,6 @@ vless://062c145d-30ec-4e48-93d0-36094ef84d10@tt1.hennessypro.site:4001?security=
 vless://3261a195-57f6-4a78-b4e6-a239d75dfc67@tt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://db3aa917-1354-42a8-a421-3467d74124dd@tt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://ba775821-d47b-4669-8ff0-91edf718a162@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://0f2e0501-5a4f-45b7-bd5e-209169cd34f9@37.152.173.139:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
 vless://8@cert.ir:80?path=%2F&security=none&encryption=none&host=ghbi.ir&type=ws#%23F0rc3Run%20%F0%9F%87%AE%F0%9F%87%B7
