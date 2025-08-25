@@ -1,4 +1,5 @@
-// Last updated: 2025-08-25 12:50:44 UTC
+// Last updated: 2025-08-25 18:47:29 UTC
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=%40UCIRANIR%40UCIRANIR%40Silver_v2ray#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -32,8 +33,10 @@ vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&security
 vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narcod_ping&sni=narcod.numallas.space#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ3R3ZhVmgxNG9yNndEVXpIQ3dy@51.142.185.195:48359#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://eb577431-3b16-4a8f-953b-7bcfb573b025@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fkskoxmws&security=tls&encryption=none&host=638901446244340634.dezful-prx-dnraabg.info&type=ws&sni=638901446244340634.dezful-prx-dnraabg.info#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUVVacGZya0pCNTJnR3VqdERoeU1z@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVNPeTBEVGRZRHIzVFB6c0VoMXA1@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdnFKN3hyYm5FcGQ3SEVzYldDODd3@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://2fd1b67f-bc9e-4a66-a4c3-73599997d001@85.239.60.43:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE&sni=google.com#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMEcyT1dkRnFxZmN6MzRMWXI5aW56@13.87.75.178:7294#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -48,8 +51,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#%23
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://c40cf4b2-c6c6-4d7d-a385-4d95008c0079@eng13.netliberated.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.halfords.com#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80?path=%2F%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%40SvnProBot%3Fed%3D2048&security=none&encryption=none&host=psi.misvn.ir&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@ns2.root.info.tr:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ns2.root.info.tr#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&security=none&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://916c9035-b5d2-4afa-a00a-93c44324db48@8.208.26.224:2087?type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=xnxv2ray.mioRay.cfd#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e27d074b-c210-4ab3-9c26-29f8fbb84bfd@8.208.26.224:2087?type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=xnxv2ray.mioRay.cfd#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://5809653f-f6b7-4cbe-af23-8ff632d3de27@8.208.26.224:2087?type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=xnxv2ray.mioRay.cfd#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
