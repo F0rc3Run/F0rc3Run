@@ -1,4 +1,4 @@
-// Last updated: 2025-08-25 06:40:54 UTC
+// Last updated: 2025-08-25 12:50:44 UTC
 ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
 vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&encryption=none&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=200f99e321#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
@@ -8,3 +8,4 @@ vless://0ea54997-1e8a-44dd-8745-46c4bf72fc24@45.138.74.173:20601?type=grpc&servi
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiI2ZGRmMzA0OS1hY2VhLTQ3YTMtODk5Yy04NjJlNmU5ZDVkMGYiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjkifQ==
 vless://0d596f59-c03e-4870-b49f-3ad5bf2961c7@45.138.74.173:20601?type=grpc&serviceName=Telegram%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci&security=reality&pbk=ZH1_5h_vv3I_699rhujKLHtIOb3_r8DzjXSXz7lRtjM&fp=chrome&sni=Gstatic.com&sid=c6a9d7f3&spx=%2F#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiJmMzhhNTUwMC03N2RlLTQzODQtODZmNS01NGQ3YWI1ZGUyYzgiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6IiNGMHJjM1J1biBcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjkifQ==
+ss://YWVzLTI1Ni1nY206M2Y0MGJmM2QtMmYxZS00ZjQzLWJmNTQtZTVmZTc0MmEzYjRl@77.110.110.240:443#%23F0rc3Run%20%F0%9F%87%A6%F0%9F%87%B9
