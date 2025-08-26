@@ -1,3 +1,2 @@
-// Last updated: 2025-08-26 06:34:01 UTC
+// Last updated: 2025-08-26 12:48:29 UTC
 trojan://telegram-id-privatevpns@15.236.173.146:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
