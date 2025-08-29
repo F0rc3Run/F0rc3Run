@@ -1,10 +1,6 @@
-// Last updated: 2025-08-29 12:49:19 UTC
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://4ca604af-1cfb-40d5-807a-083bf97432ba@51.75.162.3:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+// Last updated: 2025-08-29 18:31:56 UTC
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e02208b6-2626-49ef-8b93-0d80ed33f4ac@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -37,8 +33,6 @@ vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ3R3ZhVmgxNG9yNndEVXpIQ3dy@51.142.185.195:48359#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdnFKN3hyYm5FcGQ3SEVzYldDODd3@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WE1LcEpKQXpyREtDRENOaGEzZDh0@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRdHA4TzBua21xbHJvRFpRM2s4Vk9J@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVcWxJandRdlBKbVBUc1c4OUtYcUNa@89.185.84.185:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
@@ -48,7 +42,6 @@ vless://3d72057d-54c5-4d51-ade5-a872c1032b75@45.76.136.227:4403?type=grpc&servic
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@51.75.162.3:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@89.116.46.3:8880?security=&sni=Telegram-channel-WangCai2&allowInsecure=1&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&host=bitget1.asdasd.click&encryption=none#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.16:2095?security=&type=ws&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560&host=fuckingcloudflare.2-5e8.workers.dev&encryption=none#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1LjE4MC4zMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTg1OTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyJ9
 vless://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?encryption=none&security=tls&sni=app.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=wow-online.ir&path=%2F#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
