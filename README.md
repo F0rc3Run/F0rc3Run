@@ -21,23 +21,38 @@ Works with popular apps including **Husi, Nekobox, V2rayNG, Clash, Shadowrocket*
 
 ## 🔑 Subscription Links (Auto-Updated)
 
-Copy the links below into your VPN client to import working servers.
+🏁[`splitted-by-country`](https://github.com/F0rc3Run/F0rc3Run/tree/main/splitted-by-country)
 
-- **Shadowsocks:**  
-  [`shadowsocks_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt)
+🌐[`splitted-by-protocol`](https://github.com/F0rc3Run/F0rc3Run/tree/main/splitted-by-protocol)
 
-- **VLESS:**  
-  [`vless_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt)
+💯[`Best-Results`](https://github.com/F0rc3Run/F0rc3Run/tree/main/Best-Results)
 
-- **VMess:**  
-  [`vmess_all.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess/vmess.txt)
+Copy the links below into your VPN client to import working servers👇👇
 
-- **Trojan:**  
-  [`trojan.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt)
-
-- **Mixed Countries:**  
-  [`mix_list.txt`](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt)
-
+🚀 High Speed: 
+```txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/fast_servers.txt
+```
+Shadowsocks: 
+```txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt
+```
+VLESS: 
+```txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt
+```
+VMess: 
+```txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess/vmess.txt
+```
+Trojan: 
+```txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt
+```
+Mixed Countries: 
+```txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt
+```
 ---
 
 ## 🛰️ Free SSTP VPN Servers
