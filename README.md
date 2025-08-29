@@ -82,9 +82,9 @@ Choose protocol and language, and receive working servers in real-time.
 
 ---
 
-## 🤍 Support Free Internet
+## 🤍 Support us
 
-- Give this repo a **Star**  
+- Give this repo a **⭐️**  
 - Share with friends  
 - Contribute to open-source internet freedom tools  
 
