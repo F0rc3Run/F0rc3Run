@@ -1,3 +1,4 @@
-vmess://606ece17-7279-4a43-b879-f8502103de8f@vall.codefyinc.com:8443?encryption=auto&security=tls&sni=🔒#F0rc3Run
 vmess://606ece17-7279-4a43-b879-f8502103de8f@vall.codefyinc.com:443?encryption=auto&security=tls&sni=🔒#F0rc3Run
 vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&sni=🔒#F0rc3Run
+vmess://606ece17-7279-4a43-b879-f8502103de8f@vall.codefyinc.com:8443?encryption=auto&security=tls&sni=🔒#F0rc3Run
+vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&security=none&sni=soft98.ir&fp=&type=tcp&headerType=http&host=soft98.ir#F0rc3Run
