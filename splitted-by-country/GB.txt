@@ -1,7 +1,6 @@
-// Last updated: 2025-08-30 01:51:40 UTC
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://6c68aece-c31f-4d8b-9e1a-87c2e8d40281@83.147.18.179:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&sid=5bef46444e87&spx=%2F&type=tcp&headerType=http&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
-vless://02dd7c4a-8fe7-cfae-6324-7be0670b2fc8@45.88.8.147:80?path=%2FIVApi%2FNL%2F0&security=none&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+// Last updated: 2025-08-30 06:31:17 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
+vless://ffdce9d4-ffcb-402c-bb74-0f98504f3f32@85.239.60.43:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE&sni=google.com#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 vless://e02208b6-2626-49ef-8b93-0d80ed33f4ac@51.195.169.100:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8&sid=01417ce2#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#%23F0rc3Run%20%F0%9F%87%AC%F0%9F%87%A7
