@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt
 
 ## 🛰️ Free SSTP VPN Servers
 
-Download and use free **SSTP VPN servers** from our active list.
+Use free **SSTP VPN servers** from this active list:
 
 👉 [SSTP Server List](https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/sstp-configs/sstp_with_country.txt)
 
