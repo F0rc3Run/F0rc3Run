@@ -1,4 +1,5 @@
-// Last updated: 2025-09-01 06:40:23 UTC
+// Last updated: 2025-09-01 12:50:46 UTC
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.161:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AD%F0%9F%87%B0
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%AD%F0%9F%87%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#%23F0rc3Run%20%F0%9F%87%AD%F0%9F%87%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8319#%23F0rc3Run%20%F0%9F%87%AD%F0%9F%87%B0
