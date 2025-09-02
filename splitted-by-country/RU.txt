@@ -1,4 +1,4 @@
-// Last updated: 2025-09-02 01:48:16 UTC
+// Last updated: 2025-09-02 06:37:12 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://ee67c9fd-0dc1-4fca-ad59-4dfac221a9f2@ru-nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://ce9751a0-fee7-402a-a887-bdc5f7bd1093@ru-0017.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
@@ -25,4 +25,3 @@ vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?security=real
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ==@92.223.109.205:51348#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
-vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%23F0rc3Run%20%F0%9F%87%B7%F0%9F%87%BA
