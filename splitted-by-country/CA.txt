@@ -1,4 +1,4 @@
-// Last updated: 2025-09-03 06:32:57 UTC
+// Last updated: 2025-09-03 12:46:30 UTC
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=%2F&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=joinchannel.sameasyou.sbs#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
@@ -11,6 +11,4 @@ trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnex
 vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d&type=tcp&headerType=none#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IlwvbGlua3Z3cyIsInRscyI6InRscyIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
-vmess://eyJ2IjoiMiIsImFkZCI6IjE1LjIzNS44My4yMjciLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJob3N0IjoibWFua2FkbXUuY29tIiwicGF0aCI6IlwvbGlua3Z3cyIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
 vless://2e0c27f2-0960-4a65-8b86-91847fd80b04@android-config.gstatic.cyberscaler.net:443?mode=stream-up&path=%2Fs2%2Foz%2Fimages%2Fnotifications%2Fnt8.png&security=reality&encryption=none&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&fp=chrome&spx=%2Fs2%2Foz%2Fimages%2Fnotifications%2Fnt8.png&type=xhttp&sni=ssl.gstatic.com&sid=e3a97c5b21#%23F0rc3Run%20%F0%9F%87%A8%F0%9F%87%A6
