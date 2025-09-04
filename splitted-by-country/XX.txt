@@ -1,4 +1,4 @@
-// Last updated: 2025-09-04 06:37:13 UTC
+// Last updated: 2025-09-04 12:48:51 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza3.digipedia.shop:443#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://0d8f3c7f-1cc3-3a50-6715-0c08e1d289b2@emergency.powerspace.ir:8680?security=&encryption=none&host=speedtest.net%2Czula.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://ae052459-18ac-40d2-8319-9a49061a31d7@uae.artunnel57.host:443?security=xtls&encryption=none&type=tcp&sni=uae.artunnel57.host&flow=xtls-rprx-direct#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
@@ -14,6 +14,8 @@ trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=asia.artunnel57.host#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vmess://eyJhZGQiOiJoZGZ5OHN1Yi5mb3JpcmFuLm5sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoZGZ5OHN1Yi5mb3JpcmFuLm5sIiwiaWQiOiJhNjI5MjA5MC1hZmUxLTQ2NDAtOTdhNy00ZjFkMWQ4NzdjZjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0F2OGN6b3JJbFlpY1U2RDM0OWJyV1V3NmEiLCJwb3J0IjoiODAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRmZFx1ZDgzY1x1ZGRmZCJ9
 vless://5ee58902-ad14-419d-88dc-d2a74f2c1482@telegram.cloudsnapbot.tech:2053?type=grpc&security=reality&mode=gun&serviceName=%2CTelegram%3A%40CloudSnapBot&fp=random&sni=Appleid.cdn-apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2027?security=reality&type=grpc&headerType=&serviceName=t.me%2FentryNET&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&sid=#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
+vless://baaccba-acab-cbaa-bcda-cabbbacccbaa@127.0.0.1:1080?security=tls&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=root.configforvpn.fun&fp=chrome&type=ws&sni=root.configforvpn.fun#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 vmess://eyJhZGQiOiJpcHMuY29uZmlnZm9ydnBuLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoicm9vdC5jb25maWdmb3J2cG4uZnVuIiwiaWQiOiJkYTI4Yzg1ZS1lNzFiLTQ1NTQtYTlmYy0xNjJiYzk0YzdjYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRmZFx1ZDgzY1x1ZGRmZCJ9
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD

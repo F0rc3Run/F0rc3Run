@@ -1,6 +1,5 @@
-// Last updated: 2025-09-04 06:37:13 UTC
+// Last updated: 2025-09-04 12:48:51 UTC
 vmess://eyJhZGQiOiI4OS4xMTYuMzguMjAzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiMzJlNDk1MzktZjU2OS00MDNkLWI0YjYtYTg5NzhjMDQwZDVkIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjM0NTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyJ9
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=%2Fqnbufdws&security=tls&encryption=none&type=ws%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?security=none&encryption=none&headerType=none&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@allll.primenet3.shop:3041?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.refersion.com&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14&spx=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
@@ -8,6 +7,7 @@ vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&securit
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&type=ws#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-directvpn@15.236.195.29:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@5.135.21.191:8880?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc&sid=8b62ab46#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://e02208b6-2626-49ef-8b93-0d80ed33f4ac@5.135.21.191:8880?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc&sid=8b62ab46#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0NqYlpsdGxyZGx4QXlteUI5MWlS@62.210.88.22:443#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
@@ -26,7 +26,6 @@ vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaGMzUzJpUXFCa25Gckw2SWVjQXAy@213.111.128.57:443#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://a8749fa0-2f18-4ccd-a6d0-81c996e0fefa@Mopli.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-trojan://telegram-id-privatevpns@15.188.171.132:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-privatevpns@13.36.249.38:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-privatevpns@13.38.239.27:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-privatevpns@13.39.55.68:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
@@ -50,7 +49,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&secur
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&security=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-trojan://telegram-id-v2rayvpnchannel@15.188.171.132:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-v2rayvpnchannel@13.36.249.38:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-v2rayvpnchannel@13.38.239.27:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-v2rayvpnchannel@13.39.55.68:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
@@ -58,7 +56,6 @@ trojan://telegram-id-v2rayvpnchannel@52.47.133.190:22223?security=tls&alpn=http%
 trojan://telegram-id-v2rayvpnchannel@15.237.140.56:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-v2rayvpnchannel@35.180.246.122:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-v2rayvpnchannel@13.37.161.126:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.171.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.249.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.239.27:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.55.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
@@ -68,8 +65,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.246.122:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.161.126:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=&encryption=none&type=grpc#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJhZGQiOiI4OS4xMTYuMzguMjAzIiwiYWlkIjoiMCIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiMzJlNDk1MzktZjU2OS00MDNkLWI0YjYtYTg5NzhjMDQwZDVkIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjM0NTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiI0YwcmMzUnVuIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyJ9
 vless://00c6043f-a2c6-4b15-bd30-344378f0e5da@146.70.158.111:443?security=reality&encryption=none&alpn=h2&pbk=dgepztJbOmZaaP3xQX6K3fozDsrTL7a60w1SjN4jBTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=equal-eyes.org&sid=e120bf2fd2d7453b#%23F0rc3Run%20%F0%9F%87%AB%F0%9F%87%B7
