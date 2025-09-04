@@ -1,4 +1,4 @@
-// Last updated: 2025-09-04 12:48:51 UTC
+// Last updated: 2025-09-04 18:39:58 UTC
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 vless://d300ae15-2ba2-4f91-b1b0-b4510912e4cc@104.18.26.90:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&fp=randomized&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&type=ws&path=%2F%3Fed%3D2560&host=sib.sibzamini.dpdns.org&packetEncoding=xudp&encryption=none#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
@@ -125,7 +125,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?type=tcp&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?path=%2F&security=tls&encryption=none&host=hetzner-9.cfuk.name.ng&type=ws&sni=hetzner-9.cfuk.name.ng#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=2GlZ1uJiXs.ToOkAvP7x02.InFo&fp=chrome&type=ws&sni=2GlZ1uJiXs.ToOkAvP7x02.InFo#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:443?security=tls&sni=oRdEr.fortGIFT.ir&alpn=http%2F1.1&fp=randomized&type=ws&path=%2FB7tnDeiaEFHTS0Li&host=order.fortgift.ir&encryption=none#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@www.speedtest.net:8080?security=&type=ws&path=%2FsSUjDivtRLx305Hr&host=order.fortgift.ir&encryption=none#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=&type=ws&path=%2Fz5lsHF5zQrd1rJDr&host=order.fortgift.ir&encryption=none#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%B8
