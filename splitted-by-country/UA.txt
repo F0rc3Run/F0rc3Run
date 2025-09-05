@@ -1,2 +1,2 @@
-// Last updated: 2025-09-04 18:39:58 UTC
+// Last updated: 2025-09-05 01:50:55 UTC
 vless://3a26be3c-ac0c-4180-a123-1d3772f21b9f@grpc1.caseshop.website:443?type=grpc&serviceName=grpc&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=grpc1.caseshop.website#%23F0rc3Run%20%F0%9F%87%BA%F0%9F%87%A6
