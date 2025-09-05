@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results
 ```
 Shadowsocks: 
 ```txt
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/Shadowsocks.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/shadowsocks.txt
 ```
 VLESS: 
 ```txt
