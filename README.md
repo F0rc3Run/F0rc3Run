@@ -31,23 +31,23 @@ Copy the links below into your VPN client to import working servers👇👇
 
 🚀 Sorted by Speed: 
 ```txt
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/fast_servers.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt
 ```
 Shadowsocks: 
 ```txt
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/ss/ss.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/Shadowsocks.txt
 ```
 VLESS: 
 ```txt
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless/vless_part1.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless.txt
 ```
 VMess: 
 ```txt
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess/vmess.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess.txt
 ```
 Trojan: 
 ```txt
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan.txt
 ```
 Mixed: 
 ```txt
