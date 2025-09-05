@@ -29,7 +29,7 @@ Works with popular apps including **Husi, Nekobox, V2rayNG, Clash, Shadowrocket*
 
 Copy the links below into your VPN client to import working servers👇👇
 
-🚀 High Speed: 
+🚀 Sort by Speed: 
 ```txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/fast_servers.txt
 ```
@@ -49,7 +49,7 @@ Trojan:
 ```txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan/trojan_part1.txt
 ```
-Mixed Countries: 
+Mixed: 
 ```txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt
 ```
