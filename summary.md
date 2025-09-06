@@ -1,70 +1,69 @@
-```json
-{
-  "total_servers": 2821,
-  "alive_servers": 2821,
-  "protocols": {
-    "trojan": 109,
-    "shadowsocks": 741,
-    "vmess": 210,
-    "vless": 1761
-  },
-  "countries": {
-    "Unknown": 89,
-    "US": 791,
-    "CA": 56,
-    "GB": 142,
-    "PR": 2,
-    "NL": 601,
-    "DE": 402,
-    "ES": 6,
-    "EC": 2,
-    "FR": 260,
-    "AT": 40,
-    "CZ": 10,
-    "CH": 17,
-    "MX": 2,
-    "NO": 9,
-    "BR": 5,
-    "PL": 16,
-    "FI": 72,
-    "PT": 3,
-    "IS": 9,
-    "AR": 3,
-    "RU": 45,
-    "CO": 1,
-    "JP": 7,
-    "IT": 11,
-    "RO": 4,
-    "TW": 7,
-    "AE": 1,
-    "LV": 8,
-    "PE": 1,
-    "PY": 3,
-    "SE": 15,
-    "KR": 3,
-    "IN": 34,
-    "SG": 17,
-    "HK": 8,
-    "MY": 9,
-    "AM": 8,
-    "TR": 22,
-    "ID": 3,
-    "GR": 5,
-    "VN": 13,
-    "BG": 3,
-    "LU": 6,
-    "EE": 5,
-    "AL": 2,
-    "SK": 1,
-    "CY": 2,
-    "LI": 5,
-    "BE": 3,
-    "IL": 10,
-    "DK": 13,
-    "HU": 3,
-    "KZ": 2,
-    "MT": 2,
-    "BO": 2
-  }
-}
-```
+### 🎌 آخرین به‌روزرسانی: 2025-09-06 08:52:26 (UTC)
+### ✨ تعداد کل سرورهای فعال: 186
+
+#### 🇺🇸 United States
+**66 Server | Protocols: SHADOWSOCKS (2), TROJAN (3), VMESS (61)**
+
+#### 🇩🇪 Germany
+**34 Server | Protocols: VMESS (34)**
+
+#### 🇫🇷 France
+**17 Server | Protocols: VMESS (17)**
+
+#### 🇬🇧 United Kingdom
+**10 Server | Protocols: VMESS (10)**
+
+#### 🇨🇦 Canada
+**8 Server | Protocols: VMESS (8)**
+
+#### 🇳🇱 The Netherlands
+**7 Server | Protocols: SHADOWSOCKS (1), VMESS (6)**
+
+#### 🇲🇾 Malaysia
+**5 Server | Protocols: VMESS (5)**
+
+#### 🇸🇬 Singapore
+**5 Server | Protocols: VMESS (5)**
+
+#### 🇹🇼 Taiwan
+**4 Server | Protocols: VMESS (4)**
+
+#### 🇒🇒 Unknown
+**4 Server | Protocols: VMESS (4)**
+
+#### 🇮🇳 India
+**4 Server | Protocols: VMESS (4)**
+
+#### 🇭🇰 Hong Kong
+**4 Server | Protocols: VMESS (4)**
+
+#### 🇱🇻 Latvia
+**4 Server | Protocols: VMESS (4)**
+
+#### 🇰🇷 South Korea
+**3 Server | Protocols: VMESS (3)**
+
+#### 🇷🇴 Romania
+**2 Server | Protocols: VMESS (2)**
+
+#### 🇯🇵 Japan
+**2 Server | Protocols: VMESS (2)**
+
+#### 🇻🇳 Vietnam
+**2 Server | Protocols: VMESS (2)**
+
+#### 🇦🇪 United Arab Emirates
+**1 Server | Protocols: VMESS (1)**
+
+#### 🇷🇺 Russia
+**1 Server | Protocols: VMESS (1)**
+
+#### 🇵🇱 Poland
+**1 Server | Protocols: VMESS (1)**
+
+#### 🇮🇩 Indonesia
+**1 Server | Protocols: VMESS (1)**
+
+#### 🇦🇺 Australia
+**1 Server | Protocols: VMESS (1)**
+
