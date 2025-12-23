@@ -1,8 +1,10 @@
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1003ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-994ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1001ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1002ms-G-Core%20Labs%20S.A.
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none&note=@freeOnlineVPN#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1006ms-G-Core%20Labs%20S.A.
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1010ms-G-Core%20Labs%20S.A.
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1011ms-G-Core%20Labs%20S.A.
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1014ms-G-Core%20Labs%20S.A.
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1296ms-G-Core%20Labs%20S.A.
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&packetEncoding=xudp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1305ms-G-Core%20Labs%20S.A.
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&note=@freeOnlineVPN#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-2023ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&packetEncoding=xudp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1007ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1011ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&note=@freeOnlineVPN#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1011ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1012ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1015ms-G-Core%20Labs%20S.A.
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1019ms-G-Core%20Labs%20S.A.
