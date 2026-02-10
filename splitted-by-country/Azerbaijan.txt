@@ -1,0 +1,2 @@
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1263ms-G-Core%20Labs%20S.A.
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%BF-Baku-1675ms-G-Core%20Labs%20S.A.
