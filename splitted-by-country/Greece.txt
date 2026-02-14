@@ -1,3 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Athens-376ms-Kaopu%20Cloud%20HK%20Limited
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.29.82:9090#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Athens-652ms-Kaopu%20Cloud%20HK%20Limited
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.29.82:9090#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Athens-1437ms-Kaopu%20Cloud%20HK%20Limited
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Athens-435ms-Kaopu%20Cloud%20HK%20Limited
+vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.234.52.39:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.kickvpn.ru&fp=chrome&security=reality&pbk=NxVLSGf2bSeNY3pg5AT6N7dXRaRrn6NN4KdxCbz4JF0&sid=9c2378562188c3cb#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Athens-1041ms-Mvps%20LTD
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Thessaloniki-2465ms-Tellas
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Athens-7865ms-NOVA-NETWORK
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Piraeus-9832ms-OTE%20S.A
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Mytilene-10364ms-OTEnet
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Therm%C3%AD-10954ms-Nova%20Telecommunications%20&%20Media%20Single%20Member%20S.A
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Elefsina-11629ms-OTE
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%B7-Thessaloniki-13556ms-Medianet%20Invest%20AE
