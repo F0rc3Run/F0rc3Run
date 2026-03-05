@@ -283,6 +283,7 @@ trojan://telegram-id-directvpn@13.37.204.35:22223?type=tcp&amp;security=tls&amp;
 trojan://telegram-id-directvpn@13.37.88.196:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.38.236.178:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.39.100.172:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+trojan://telegram-id-directvpn@13.39.41.207:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.39.61.161:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.39.97.14:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@15.188.115.231:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -291,14 +292,12 @@ trojan://telegram-id-directvpn@15.224.29.111:22223?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@15.236.135.208:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@15.236.44.47:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@18.153.170.41:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#F0rc3RunVPN 🏳️
-trojan://telegram-id-directvpn@18.159.99.186:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.123.87.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.139.145.191:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.142.169.64:22222?security=tls&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.65.251.210:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.79.158.4:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@34.231.80.229:22222?security=tls&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
-trojan://telegram-id-directvpn@35.181.225.239:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -309,6 +308,7 @@ trojan://telegram-id-directvpn@63.180.53.233:22223?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@63.181.212.225:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@63.182.150.196:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@63.182.77.216:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+trojan://telegram-id-directvpn@63.183.63.206:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-privatevpns@13.37.204.35:22222?type=tcp&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;path=%2F#F0rc3RunVPN 🏳️
 trojan://telegram-id-privatevpns@13.39.62.210:22222?security=tls&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http%2F1.1#F0rc3RunVPN 🏳️
@@ -327,6 +327,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.204.35:22224?type=ws&amp;secu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.100.172:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.41.207:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.61.161:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.115.231:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -335,9 +336,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.29.111:22224?type=ws&amp;sec
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.135.208:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.44.47:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.70.126:22224?type=ws&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;path=%2Ftelegram-channel-vlessconfig#F0rc3RunVPN 🏳️
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.99.186:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.158.4:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.225.239:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.154.195:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.89.183:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.37.116:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -345,6 +344,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.53.233:22224?type=ws&amp;sec
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.212.225:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.150.196:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.77.216:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.63.206:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@109.120.189.160:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;path=%2F&amp;fp=chrome&amp;pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&amp;sid=d8c6b58bcbb0c323#F0rc3RunVPN 🏳️
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.34.115:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;path=%2F&amp;fp=chrome&amp;pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&amp;sid=d8c6b58bcbb0c323#F0rc3RunVPN 🏳️
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@5.188.141.18:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&amp;path=%2F&amp;fp=chrome&amp;pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&amp;sid=d8c6b58bcbb0c323#F0rc3RunVPN 🏳️
@@ -407,7 +407,7 @@ vless://26524cce-d514-4014-a426-365fb266a14d@45.144.48.42:8443?type=ws&amp;secur
 vless://26524cce-d514-4014-a426-365fb266a14d@47.76.218.163:443?type=ws&amp;security=tls&amp;sni=_acme-challenge.443888.xyz&amp;host=_acme-challenge.443888.xyz&amp;path=%2Fdanfeng&amp;fp=random#F0rc3RunVPN 🏳️
 vless://26524cce-d514-4014-a426-365fb266a14d@57.129.63.64:8443?type=ws&amp;security=tls&amp;sni=cyuxj212pnq.chinat.indevs.in&amp;host=cyuxj212pnq.chinat.indevs.in&amp;path=%2Fdanfeng&amp;fp=random#F0rc3RunVPN 🏳️
 vless://27016d6e-1f62-5805-a7e6-32c32006c307@151.101.194.219:80?security=none&amp;type=ws&amp;host=f35-ELi.ir&amp;path=/Telegram,#F0rc3RunVPN 🏳️
-vless://27379a6d-c0f2-4476-b6c2-352bf4f2087b@46.62.240.45:46704?encryption=none&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=google.com&amp;pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&amp;sid=bb5cae&amp;spx=/#F0rc3RunVPN 🏳️
+vless://27379a6d-c0f2-4476-b6c2-352bf4f2087b@46.62.240.45:46704?encryption=none&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=google.com&amp;pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&amp;sid=bb5cae&amp;spx=/#F0rc3RunVPN 🇫🇮
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?type=tcp&amp;path=%2F#F0rc3RunVPN 🏳️
 vless://28b1fd8a-57b0-481e-830b-af3a7907f474@104.17.148.22:2082?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#F0rc3RunVPN 🏳️
 vless://29281351-acf2-4b08-9dcc-97de24aed5da@id.artunnel57.host:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;sni=id.artunnel57.host&amp;flow=xtls-rprx-direct#F0rc3RunVPN 🏳️
@@ -564,7 +564,6 @@ vless://7aa34c86-83e4-46ad-a857-3828764585e9@190.93.247.56:8080?security=none&am
 vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@104.21.54.192:8080?security=none&amp;type=ws&amp;host=lc71.lebasnoo.ir.&amp;path=%2Fservernett#F0rc3RunVPN 🏳️
 vless://7d4a519b-d270-434e-a42d-d39624577a92@104.20.1.252:80?type=ws&amp;host=bright-organizationauhuddhesz.sportland.company.&amp;path=%2F%3Fed#F0rc3RunVPN 🏳️
 vless://7d4a519b-d270-434e-a42d-d39624577a92@172.66.128.70:80?type=ws&amp;host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&amp;path=%2F%3Fed#F0rc3RunVPN 🏳️
-vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@82.22.174.150:50855?type=tcp&amp;security=reality&amp;sni=ea.com&amp;path=%2F&amp;fp=chrome&amp;pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&amp;sid=02#F0rc3RunVPN 🏳️
 vless://85f1516e-688b-40db-997a-05c7c25e0e93@172.67.155.241:8080?security=none&amp;type=ws&amp;host=shahed2.novintecc.org&amp;path=%2F#F0rc3RunVPN 🏳️
 vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80?type=ws&amp;host=NICE-MaNAgEmeNts6CV0rMC2T.ONeEat.co.&amp;path=%2F%3Fed#F0rc3RunVPN 🏳️
@@ -608,7 +607,6 @@ vless://Telegram@143.20.236.93:8443?type=ws&amp;security=tls&amp;sni=tn1rr.qzz.i
 vless://Telegram@185.209.161.219:8443?type=ws&amp;security=tls&amp;sni=tn1rr.qzz.io&amp;host=tn1rr.qzz.io&amp;path=%2Fsg-lnd#F0rc3RunVPN 🏳️
 vless://Telegram@62.182.192.35:443?type=ws&amp;security=tls&amp;sni=tn1rr.qzz.io&amp;host=tn1rr.qzz.io&amp;path=%2Fsg-lnd&amp;fp=chrome#F0rc3RunVPN 🏳️
 vless://a289f3eb-707e-469c-bc30-3a452b3e4832@london.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=vless-grpc&amp;sni=london.artunnel57.host#F0rc3RunVPN 🏳️
-vless://a2922e0a-1fe5-4cdc-aac4-5a216e110940@rby3b8ax6iznwe-ead7k5pb6ka2q2jqo.zamenparham81.workers.dev:443?path=%2FeyJqdW5rIjoiMjRxQnVkM3dUMEUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=rby3b8ax6iznwe-ead7k5pb6ka2q2jqo.zamenparham81.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rby3b8ax6iznwe-ead7k5pb6ka2q2jqo.zamenparham81.workers.dev#F0rc3RunVPN 🇺🇸
 vless://a36c66e0-b38a-42db-b647-76cb9e544203@173.245.59.53:443?type=ws&amp;security=tls&amp;sni=po-7ll.pages.dev&amp;host=po-7ll.pages.dev&amp;path=%2F#F0rc3RunVPN 🏳️
 vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;path=%2F&amp;fp=chrome&amp;pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&amp;sid=9f35da6c9412b832#F0rc3RunVPN 🏳️
 vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;sni=ip499.savarkaraan.ir#F0rc3RunVPN 🏳️
@@ -652,20 +650,18 @@ vless://bcde41da-624c-4bf4-8d65-2c2a59c2bdc9@bangalore.artunnel57.host:443?secur
 vless://bcde41da-624c-4bf4-8d65-2c2a59c2bdc9@bangalore.artunnel57.host:80?security=none&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252Fvless-ntls&amp;host=bangalore.artunnel57.host#F0rc3RunVPN 🏳️
 vless://bff2ef66-6370-4f98-98cc-4ba1e695978f@172.67.207.218:2052?security=none&amp;type=ws&amp;host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&amp;path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#F0rc3RunVPN 🏳️
 vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=none&amp;type=ws&amp;host=Nl2.vless.site.&amp;path=%2Fvless#F0rc3RunVPN 🏳️
+vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#F0rc3RunVPN 🇮🇷
 vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=Loop.v2rayvpn2.sbs#F0rc3RunVPN 🏳️
 vless://c6a38b1d-d7fb-40bc-b93d-b4b8965ff469@104.17.148.22:2082?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#F0rc3RunVPN 🏳️
 vless://c921c664-d82d-4317-b4d0-7640cc9aa760@151.101.3.8:80?allowInsecure=0&amp;sni=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;type=ws&amp;host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;path=/#F0rc3RunVPN 🏳️
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;path=%2F&amp;fp=chrome&amp;pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0#F0rc3RunVPN 🏳️
-vless://cbf73250-e228-4fc8-95a1-3804176354be@140.248.147.82:443?mode=auto&amp;path=%2Fdl%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;insecure=0&amp;host=Fastsssspeedmar.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=default.ssl.fastly.net#F0rc3RunVPN 🇺🇸
-vless://cbf73250-e228-4fc8-95a1-3804176354be@ipf3.justrouting.sbs:443?mode=auto&amp;path=%2Fed%3D3072&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;insecure=0&amp;host=Afrashupspeed.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=default.ssl.fastly.net#F0rc3RunVPN 🇳🇱
-vless://cbf73250-e228-4fc8-95a1-3804176354be@ipwit1.fastspeedx4.info:443?mode=auto&amp;path=%2Fdl%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;insecure=0&amp;host=Afrspeedtest.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=default.ssl.fastly.net#F0rc3RunVPN 🇺🇸
 vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.130.219:80?type=ws&amp;host=alf17.ir&amp;path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048#F0rc3RunVPN 🏳️
 vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.2.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/#F0rc3RunVPN 🏳️
 vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.66.219:80?type=ws&amp;host=alf17.ir&amp;path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048#F0rc3RunVPN 🏳️
 vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;path=%2F&amp;fp=chrome&amp;pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&amp;sid=81#F0rc3RunVPN 🏳️
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=germany.scroogethebest.com&amp;path=%2F&amp;fp=chrome&amp;pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&amp;sid=4fa44664f6a566d3#F0rc3RunVPN 🏳️
 vless://cd81d75a-f80e-4641-b5b4-97aad3a4c446@104.21.94.168:8080?security=none&amp;type=ws&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.www.zula.ir.svgspeedtest.net&amp;path=%2F@XvProxy----#F0rc3RunVPN 🏳️
-vless://ce07004d-90c5-43bd-a38e-c514a7f94ead@94.183.241.159:777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🇹🇷
+vless://ce07004d-90c5-43bd-a38e-c514a7f94ead@94.183.241.159:777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🇮🇷
 vless://ce526092-81c1-42be-8354-88e58946c1f3@monardas.aurorainiceland.com:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=ws&amp;sni=monardas.aurorainiceland.com#F0rc3RunVPN 🏳️
 vless://cecc46f0-55ce-46fb-ec65-b46eb9446e41@104.17.147.22:2082?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#F0rc3RunVPN 🏳️
 vless://cecc46f0-55ce-46fb-ec65-b46eb9446e41@104.17.148.22:2082?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#F0rc3RunVPN 🏳️
@@ -717,7 +713,7 @@ vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?type=ws&amp;secur
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443?type=ws&amp;security=tls&amp;sni=apii.onlineshoppingez.ir&amp;host=apii.onlineshoppingez.ir&amp;path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&amp;fp=chrome#F0rc3RunVPN 🏳️
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443?type=ws&amp;security=tls&amp;sni=apii.onlineshoppingez.ir&amp;host=apii.onlineshoppingez.ir&amp;path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#F0rc3RunVPN 🏳️
 vless://e983354c-2b92-4f8f-d3ad-17ec695172c4@www.zula.ir:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;sni=sin.kanal-tel-nufilter.site#F0rc3RunVPN 🏳️
-vless://ea736b2b-0f0a-4b9f-865f-83e0014ffc8c@77.42.77.102:46704?encryption=none&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=google.com&amp;pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&amp;sid=bb5cae&amp;spx=/#F0rc3RunVPN 🏳️
+vless://ea736b2b-0f0a-4b9f-865f-83e0014ffc8c@77.42.77.102:46704?encryption=none&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=google.com&amp;pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&amp;sid=bb5cae&amp;spx=/#F0rc3RunVPN 🇫🇮
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@185.254.98.164:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=de.cdn.stun.su&amp;path=%2F&amp;fp=chrome&amp;pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&amp;sid=4daa022e84f8edf2#F0rc3RunVPN 🏳️
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@193.46.81.207:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=de.cdn.stun.su&amp;path=%2F&amp;fp=chrome&amp;pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&amp;sid=4daa022e84f8edf2#F0rc3RunVPN 🏳️
 vless://eb68a74a-f1b2-576f-97db-d851cb651194@104.21.12.90:80?security=none&amp;type=ws&amp;host=04bb7.biu996.live&amp;path=%2Fvless#F0rc3RunVPN 🏳️
