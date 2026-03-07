@@ -1,7 +1,8 @@
-vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?path=//connect&security=&encryption=none&host=GitHub.com&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-LesAcacias-931ms-Infomaniak%20Network%20Management
-vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?encryption=none&host=GitHub.com&path=%2F%2Fconnect&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-LesAcacias-931ms-Infomaniak%20Network%20Management
-vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@37.139.33.79:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&security=reality&sid=abcd1234&sni=max.ru&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-1147ms-Dedik%20Services%20Limited
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-1277ms-Private%20Layer%20INC
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?note=--Telegram--@NetifyVPN--#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-2287ms-Private%20Layer%20INC
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?note=--Telegram--@NetifyVPN--#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-3023ms-Private%20Layer%20INC
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-4420ms-Private%20Layer%20INC
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?note=--Telegram--@NetifyVPN--#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-458ms-Private%20Layer%20INC
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-825ms-Private%20Layer%20INC
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-843ms-Private%20Layer%20INC
+vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?encryption=none&host=GitHub.com&path=%2F%2Fconnect&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-LesAcacias-961ms-Infomaniak%20Network%20Management
+vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?path=//connect&security=&encryption=none&host=GitHub.com&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-LesAcacias-968ms-Infomaniak%20Network%20Management
+vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@37.139.33.79:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&security=reality&sid=abcd1234&sni=max.ru&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-1124ms-Dedik%20Services%20Limited
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?note=--Telegram--@NetifyVPN--#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-1606ms-Private%20Layer%20INC
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-3461ms-Private%20Layer%20INC
