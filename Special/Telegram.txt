@@ -229,6 +229,7 @@ trojan://telegram-id-directvpn@13.36.214.151:22223?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@13.36.242.117:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.36.51.154:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.37.130.107:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+trojan://telegram-id-directvpn@13.37.210.125:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.37.25.182:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@13.39.70.196:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@15.224.0.245:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -249,7 +250,6 @@ trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls&amp;sni=trojan.bu
 trojan://telegram-id-directvpn@51.44.127.193:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@51.44.2.160:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
-trojan://telegram-id-directvpn@52.47.165.179:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@52.47.75.88:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@52.47.80.167:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@52.58.26.183:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -268,6 +268,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.214.151:22224?type=ws&amp;sec
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.242.117:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.51.154:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.130.107:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.210.125:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.25.182:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.70.196:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.0.245:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -279,7 +280,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.157.102:22224?type=ws&amp;sec
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.71.108:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.193:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.2.160:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.165.179:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.75.88:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.80.167:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.26.183:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
