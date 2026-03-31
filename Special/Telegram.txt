@@ -386,7 +386,7 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?path=%2F%3Fed%3D
 vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2087?security=none&amp;type=tcp&amp;headerType=none&amp;path=%2F#F0rc3RunVPN 🏳️
 vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2092?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=nobitex.ir#F0rc3RunVPN 🏳️
 vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2096?security=none&amp;type=tcp&amp;headerType=none&amp;path=%2F&amp;host=nobitex.ir#F0rc3RunVPN 🏳️
-vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🇮🇷
+vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.202.232:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=6d1.narnino.org#F0rc3RunVPN 🏳️
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@www.speedtest.net:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=6d1.narnino.org#F0rc3RunVPN 🏳️
 vless://75c54e53-b829-4c95-b015-61ca23c0f0f8@frankfurt.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=vless-grpc&amp;sni=frankfurt.artunnel57.host#F0rc3RunVPN 🏳️
