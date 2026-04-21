@@ -1,2 +1,4 @@
-trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4937?security=tls&sni=www.nintendogames.net#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AF%F0%9F%87%B5-Wakabayashi-580ms-InfoSphere
-trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4380?security=tls&sni=www.nintendogames.net#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AF%F0%9F%87%B5-Wakabayashi-591ms-InfoSphere
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AF%F0%9F%87%B5-Tokyo-314ms-Datacamp%20Limited
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AF%F0%9F%87%B5-Tokyo-318ms-Datacamp%20Limited
+vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJodHRwczovL3QubWUvRm9yY2VSdW5WUE4t8J+Hr/Cfh7UtVG9reW8tNjY2bXMtSXB4byBMTEMiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AF%F0%9F%87%B5-ShibuyaCity-1089ms-WorkTitans%20B.V.
