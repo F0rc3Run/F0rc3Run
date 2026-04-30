@@ -36,7 +36,7 @@ trojan://4395ae95-94ab-49b1-8da9-2b8b3aa6b309@frankfurt.artunnel57.host:443?secu
 trojan://7d47fe63-71ce-4966-b962-218e4ed0c83c@newyork.artunnel57.host:443?security=tls&amp;type=grpc&amp;mode=gun&amp;serviceName=trojan-grpc&amp;sni=newyork.artunnel57.host#F0rc3RunVPN 🏳️
 trojan://82ccfd98-7a28-4b84-b609-b8d151cb6d6a@frankfurt.artunnel57.host:443?security=tls&amp;type=ws&amp;headerType=none&amp;path=%252Ftrojan-tls&amp;sni=frankfurt.artunnel57.host&amp;host=frankfurt.artunnel57.host#F0rc3RunVPN 🏳️
 trojan://82ccfd98-7a28-4b84-b609-b8d151cb6d6a@frankfurt.artunnel57.host:80?security=none&amp;type=ws&amp;headerType=none&amp;path=%252Ftrojan-ntls&amp;host=frankfurt.artunnel57.host#F0rc3RunVPN 🏳️
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#F0rc3RunVPN 🏳️
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#F0rc3RunVPN 🇺🇸
 trojan://93446612-cbff-4016-b01b-a683fa73920c@bangalore.artunnel57.host:443?security=tls&amp;type=grpc&amp;mode=gun&amp;serviceName=trojan-grpc&amp;sni=bangalore.artunnel57.host#F0rc3RunVPN 🏳️
 trojan://971ff4bb-1f8e-4651-ad9d-5adfaf1647c4@bangalore.artunnel57.host:443?security=tls&amp;type=ws&amp;headerType=none&amp;path=%252Ftrojan-tls&amp;sni=bangalore.artunnel57.host&amp;host=bangalore.artunnel57.host#F0rc3RunVPN 🏳️
 trojan://971ff4bb-1f8e-4651-ad9d-5adfaf1647c4@bangalore.artunnel57.host:80?security=none&amp;type=ws&amp;headerType=none&amp;path=%252Ftrojan-ntls&amp;host=bangalore.artunnel57.host#F0rc3RunVPN 🏳️
@@ -183,7 +183,7 @@ vless://a482f59b-ac4a-4454-89a3-121eea4199a3@sg.multiport1.artunnel57.host:443?s
 vless://a482f59b-ac4a-4454-89a3-121eea4199a3@sg.multiport1.artunnel57.host:80?security=tls&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252Fxvless%252F&amp;sni=sg.multiport1.artunnel57.host&amp;host=sg.multiport1.artunnel57.host#F0rc3RunVPN 🏳️
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&amp;encryption=none&amp;pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=f7aa9e61197d3ac6#F0rc3RunVPN 🏳️
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&amp;encryption=none&amp;pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=f7aa9e61197d3ac6#F0rc3RunVPN 🏳️
-vless://a6bd9b85-3908-4672-a5ca-211b819dd67b@amozesh.klyroshop.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=amozesh.klyroshop.ir&amp;type=ws#F0rc3RunVPN 🏳️
+vless://a6bd9b85-3908-4672-a5ca-211b819dd67b@amozesh.klyroshop.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=amozesh.klyroshop.ir&amp;type=ws#F0rc3RunVPN 🇮🇷
 vless://a7728b21-42b9-4fea-8b05-8be16336643c@id.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252FCUSTOMPATH&amp;sni=id.artunnel57.host&amp;host=id.artunnel57.host#F0rc3RunVPN 🏳️
 vless://a7728b21-42b9-4fea-8b05-8be16336643c@id.artunnel57.host:80?security=none&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252FCUSTOMPATH&amp;host=id.artunnel57.host#F0rc3RunVPN 🏳️
 vless://a9fd5e71-f23d-4a4d-af9a-566a4db14fa7@newyork.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=vless-grpc&amp;sni=newyork.artunnel57.host#F0rc3RunVPN 🏳️
