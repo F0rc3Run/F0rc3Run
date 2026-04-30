@@ -66,12 +66,12 @@ trojan://telegram-id-directvpn@15.237.229.47:22223?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@3.123.242.84:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.75.103.136:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@3.75.35.234:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+trojan://telegram-id-directvpn@35.158.91.156:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@35.159.185.219:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@35.181.15.157:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@51.45.39.44:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@52.47.129.194:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@63.179.8.52:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
-trojan://telegram-id-directvpn@63.181.194.157:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 trojan://telegram-id-directvpn@63.183.130.255:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.179.38:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.179.226:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
@@ -86,12 +86,12 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.229.47:22224?type=ws&amp;sec
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.242.84:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.103.136:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.35.234:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.91.156:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.185.219:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.157:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.39.44:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.129.194:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.8.52:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.194.157:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.130.255:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#F0rc3RunVPN 🏳️
 vless://09a8b306-c817-475b-a88a-b7880ab75edd@104.20.6.134:8443?encryption=none&amp;type=ws&amp;host=wht.anselteamm.top&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=wht.anselteamm.top&amp;alpn=h2,http/1.1#F0rc3RunVPN 🇺🇸
 vless://0b98bb8a-fe65-40a7-9c52-b4649db7c2ad@asia.artunnel57.host:80?security=none&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252Fvless-ntls&amp;host=asia.artunnel57.host#F0rc3RunVPN 🏳️
@@ -165,6 +165,7 @@ vless://75c54e53-b829-4c95-b015-61ca23c0f0f8@frankfurt.artunnel57.host:443?secur
 vless://779bf764-0aa1-4f58-89d2-0c92dcc25acb@sg.multiport1.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=/vless-tls&amp;sni=sg.multiport1.artunnel57.host&amp;host=sg.multiport1.artunnel57.host#F0rc3RunVPN 🏳️
 vless://779bf764-0aa1-4f58-89d2-0c92dcc25acb@sg.multiport1.artunnel57.host:80?security=none&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=/vless-ntls&amp;host=sg.multiport1.artunnel57.host#F0rc3RunVPN 🏳️
 vless://8135074a-49d9-46da-b79d-b58d2b9dcb6a@185.143.233.235:80?type=ws&amp;encryption=none&amp;path=%2Fytugihaowlndawobd&amp;host=blitbegir.ir&amp;security=none#F0rc3RunVPN 🇮🇷
+vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🇮🇷
 vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://989c4f14-a0fb-4375-ba5d-082fb7167b70@172.66.47.201:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=azaDNeTbYfT65433GhGfR5677JGfR557774THyyt8766wWqW346678uUjj.PAges.dEv&amp;fp=randomized&amp;type=ws&amp;sni=AzAdNetByFt65433GhgFR5677JGFR557774ThyYT8766wWqW346678UUJj.pAGeS.deV#F0rc3RunVPN 🏳️
 vless://989c4f14-a0fb-4375-ba5d-082fb7167b70@kitab.ir:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=azaDNeTbYfT65433GhGfR5677JGfR557774THyyt8766wWqW346678uUjj.PAges.dEv&amp;fp=chrome&amp;type=ws&amp;sni=AzAdNetByFt65433GhgFR5677JGFR557774ThyYT8766wWqW346678UUJj.pAGeS.deV#F0rc3RunVPN 🏳️
