@@ -1,9 +1,5 @@
-ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:50123#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-StPetersburg-498ms-LLC%20Baxet
-ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:50123#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-StPetersburg-502ms-LLC%20Baxet
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.216:40412#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-533ms-LLC%20Baxet
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.216:40412#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-539ms-LLC%20Baxet
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.118.52.236:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Domodedovo-1194ms-Cloudflare%20Inc.
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.191.171:443?alpn=h2&encryption=none&security=tls&serviceName=grpc-tunnel&sni=api-no-cache.dropmefile.net&type=grpc#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-1297ms-UFO%20Hosting%20LLC
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc-tunnel&sni=fileroute.cc&type=grpc#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-1327ms-UFO%20Hosting%20LLC
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc-tunnel&sni=fileroute.cc&type=grpc#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-1327ms-UFO%20Hosting%20LLC
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.191.171:443?alpn=h2&encryption=none&security=tls&serviceName=grpc-tunnel&sni=api-no-cache.dropmefile.net&type=grpc#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-1341ms-UFO%20Hosting%20LLC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RUFzb3JiazhUYkNjOUNWQV9yd3hB@85.239.59.131:8388#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-424ms-JSC%20%22TIMEWEB%22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RUFzb3JiazhUYkNjOUNWQV9yd3hB@85.239.59.131:8388#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-428ms-JSC%20%22TIMEWEB%22
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.216:40412#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-434ms-LLC%20Baxet
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.216:40412#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-460ms-LLC%20Baxet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.118.52.236:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Domodedovo-999ms-Cloudflare%20Inc.
