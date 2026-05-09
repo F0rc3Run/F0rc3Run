@@ -1,6 +1,2 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Vienna-423ms-M247%20Europe%20SRL
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Vienna-457ms-M247%20Europe%20SRL
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Vienna-791ms-M247%20Europe%20SRL
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Vienna-882ms-netcup%20GmbH
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=%2F&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Langenzersdorf-885ms-Evolus%20IT%20Solutions%20GmbH
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Vienna-887ms-netcup%20GmbH
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=%2F&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Langenzersdorf-1017ms-Evolus%20IT%20Solutions%20GmbH
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%B9-Vienna-2200ms-M247%20Europe%20SRL
