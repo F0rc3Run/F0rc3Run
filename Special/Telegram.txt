@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Z3VheVVwcE02Q1JGNW1GVVdGQ0ZpV3F4ci9sUk5TQ0ZVRVI0d2VZeVk0PQ==@3.127.170.192:2082#F0rc3RunVPN 🏳️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NExiS0huQjNJTzc1OXVlRW5oZ01HQDUyLjE0Mi4xNjEuOTozNDQyNA==#F0rc3RunVPN 🏳️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Z01oRzlQYTFnTzRKbVVzV0VnRzhERExRL2ZGNTVTS1ZPUEtEeGVubVZVPQ==@3.78.251.215:2082#F0rc3RunVPN 🏳️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA%3D%3D@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#F0rc3RunVPN 🏳️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA%3D%3D@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#F0rc3RunVPN 🇮🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aEFveGJ6S0owNHBYa2JSSXVCN0t1TzBkQ2JGY1ZYZ1lGaVlCN0lPektNPQ==@18.185.97.90:2087#F0rc3RunVPN 🏳️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#F0rc3RunVPN 🏳️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdDc0bjdLYXBQdDRoM3F6eTdYdnhp@51.145.19.84:9870#F0rc3RunVPN 🏳️
@@ -104,7 +104,6 @@ vless://1b4947ef-711e-4b7c-b55b-21b65bc3fb43@asia.artunnel57.host:443?security=x
 vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://1e681d1b-3f6e-4bd4-9fed-b8976bd1b3be@afrcloud22.mmv.kr:443?path=%2F45.76.192.129%3D24434&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#F0rc3RunVPN 🏳️
 vless://20024238-314c-4909-b626-03fc5edb894b@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;sni=naz.savarkaraan.ir#F0rc3RunVPN 🏳️
-vless://2213bb30-86a0-468f-b211-1c3560cbb97b@185.143.233.235:80?security=none&amp;encryption=none&amp;host=d.nsa03.com&amp;type=ws#F0rc3RunVPN 🇮🇷
 vless://2513b09b-6515-4590-9662-d03e0fbc6c8e@multiport.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252Fvless-tls&amp;sni=YourBugHost&amp;host=multiport.artunnel57.host#F0rc3RunVPN 🏳️
 vless://2513b09b-6515-4590-9662-d03e0fbc6c8e@multiport.artunnel57.host:80?security=none&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252Fvless-ntls&amp;host=multiport.artunnel57.host#F0rc3RunVPN 🏳️
 vless://29281351-acf2-4b08-9dcc-97de24aed5da@id.artunnel57.host:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;sni=id.artunnel57.host&amp;flow=xtls-rprx-direct#F0rc3RunVPN 🏳️
@@ -162,6 +161,7 @@ vless://6d39596c-b569-4a61-86c3-28cfb83a4c95@212.111.84.187:8443?security=realit
 vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@Artemis.sbs:80?encryption=none&amp;headerType=none&amp;type=ws&amp;path=%2F%40Artemis_vpn&amp;host=free-02.artemis-03.sbs#F0rc3RunVPN 🏳️
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#F0rc3RunVPN 🏳️
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#F0rc3RunVPN 🏳️
+vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=ads.restaurantplusy.ir&amp;type=ws#F0rc3RunVPN 🏳️
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=javid-2.toraniq.ir&amp;type=ws#F0rc3RunVPN 🏳️
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.202.232:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=6d1.narnino.org#F0rc3RunVPN 🏳️
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@www.speedtest.net:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=6d1.narnino.org#F0rc3RunVPN 🏳️
@@ -169,7 +169,7 @@ vless://75c54e53-b829-4c95-b015-61ca23c0f0f8@frankfurt.artunnel57.host:443?secur
 vless://779bf764-0aa1-4f58-89d2-0c92dcc25acb@sg.multiport1.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=/vless-tls&amp;sni=sg.multiport1.artunnel57.host&amp;host=sg.multiport1.artunnel57.host#F0rc3RunVPN 🏳️
 vless://779bf764-0aa1-4f58-89d2-0c92dcc25acb@sg.multiport1.artunnel57.host:80?security=none&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=/vless-ntls&amp;host=sg.multiport1.artunnel57.host#F0rc3RunVPN 🏳️
 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&amp;security=tls&amp;encryption=none&amp;host=camp.nahidapp.com&amp;type=ws#F0rc3RunVPN 🏳️
-vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=s11.mn-g.ir&amp;type=ws#F0rc3RunVPN 🏳️
+vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=s11.mn-g.ir&amp;type=ws#F0rc3RunVPN 🇮🇷
 vless://807b1b9f-edcb-41c8-ba06-d7c3db2b897b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=pan51e.nexoratechcenter.ir&amp;type=ws#F0rc3RunVPN 🏳️
 vless://8135074a-49d9-46da-b79d-b58d2b9dcb6a@185.143.233.235:80?type=ws&amp;encryption=none&amp;path=%2Fytugihaowlndawobd&amp;host=blitbegir.ir&amp;security=none#F0rc3RunVPN 🇮🇷
 vless://989c4f14-a0fb-4375-ba5d-082fb7167b70@172.66.47.201:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=azaDNeTbYfT65433GhGfR5677JGfR557774THyyt8766wWqW346678uUjj.PAges.dEv&amp;fp=randomized&amp;type=ws&amp;sni=AzAdNetByFt65433GhgFR5677JGFR557774ThyYT8766wWqW346678UUJj.pAGeS.deV#F0rc3RunVPN 🏳️
@@ -212,7 +212,7 @@ vless://d70ed168-7831-41cf-d3df-73fa1288b5c7@www.speedtest.net:2087?mode=gun&amp
 vless://d73f7804-d488-4aae-e499-88bece38f73a@check-host.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;sni=are.kanal-tel-nufilter.site#F0rc3RunVPN 🏳️
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?path=%2F35.230.79.26%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#F0rc3RunVPN 🏳️
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=p1.razstar.ir&amp;type=ws#F0rc3RunVPN 🏳️
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=p1.razstar.ir&amp;type=ws#F0rc3RunVPN 🇮🇷
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&amp;path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=api-ws-de.nxping.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=api-ws-de.nxping.ir#F0rc3RunVPN 🏳️
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#F0rc3RunVPN 🇩🇪
 vless://e5169327-f159-4dcd-a030-7403c7ed4d28@bangalore.artunnel57.host:443?security=tls&amp;encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=vless-grpc&amp;sni=bangalore.artunnel57.host#F0rc3RunVPN 🏳️
