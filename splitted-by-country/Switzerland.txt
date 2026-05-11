@@ -1,4 +1,2 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Winterthur-950ms-Cloudflare%20Inc.
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-3178ms-Private%20Layer%20INC
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-4121ms-Private%20Layer%20INC
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-9573ms-Private%20Layer%20INC
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@46.149.66.90:443?security=reality&encryption=none&echfq=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Buchs%2FBuchs-1011ms-Plant%20Holding%20GmbH
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Zurich-6812ms-Private%20Layer%20INC
