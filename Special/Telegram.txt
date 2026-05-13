@@ -208,7 +208,7 @@ vless://5665f8b7-0285-4672-ae1f-c71f111da10b@xray.artunnel57.host:80?security=no
 vless://5686743d-6785-4c59-af4f-96687da74b60@185.143.233.5:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=p1.sesrsa.com&amp;fp=firefox&amp;type=ws&amp;sni=sub.sesrsa.com#F0rc3RunVPN 🏳️
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=%2Findex.html&amp;security=none&amp;encryption=none&amp;host=cdnhtzner.yas-baaq.ir&amp;type=ws#F0rc3RunVPN 🇺🇸
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=%2Findex.html&amp;security=none&amp;encryption=none&amp;host=cdnhtzner.yas-baaq.ir&amp;type=ws#F0rc3RunVPN 🇺🇸
-vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#F0rc3RunVPN 🇮🇷
+vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#F0rc3RunVPN 🏳️
 vless://5b01a1f5-b246-4d00-beb4-a8a9a07a4ab9@www.speedtest.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=5d2.narnino.org#F0rc3RunVPN 🏳️
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#F0rc3RunVPN 🏳️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.90.75.41:2053?type=ws&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;host=sni.111000.indevs.in&amp;path=%2F#F0rc3RunVPN 🏳️
