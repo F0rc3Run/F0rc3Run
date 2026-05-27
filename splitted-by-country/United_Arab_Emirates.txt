@@ -1,1 +1,1 @@
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=reality&type=tcp&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&encryption=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%AA-AbuDhabi-2250ms-GoldIPv
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@31.59.39.85:443?encryption=none&fp=&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&security=reality&sid=01&sni=google.com&type=grpc#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A6%F0%9F%87%AA-AbuDhabi-900ms-GoldIPv
