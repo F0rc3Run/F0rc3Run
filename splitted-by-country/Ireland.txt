@@ -1,5 +1,5 @@
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-424ms-Amazon.com%20Inc.
-trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-510ms-Amazon%20Technologies%20Inc.
-trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-906ms-Amazon%20Technologies%20Inc.
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-2596ms-M247%20Europe%20SRL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-10232ms-M247%20Europe%20SRL
+trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-424ms-Amazon%20Technologies%20Inc.
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-427ms-Amazon.com%20Inc.
+trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-505ms-Amazon%20Technologies%20Inc.
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-1272ms-M247%20Europe%20SRL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-2973ms-M247%20Europe%20SRL
