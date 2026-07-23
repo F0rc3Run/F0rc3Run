@@ -1,4 +1,4 @@
-vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-333ms-RETN%20Limited
-vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?encryption=none&path=%2Fchunkycorp&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-512ms-CGI%20GLOBAL%20LIMITED
-vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?encryption=none&path=/chunkycorp&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-534ms-CGI%20GLOBAL%20LIMITED
-vless://d2aeb078-90db-4f90-b334-623bcbea8d31@vs-lv1.vibesignal.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ACeYESUJvHiKiAGjO3JqBFne0LF5jYwqo4M8Gng9MlU&security=reality&sid=8fe2cfd693d773fb&sni=ajax.googleapis.com&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-545ms-SIA%20VEESP
+vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?encryption=none&path=/chunkycorp&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-559ms-CGI%20GLOBAL%20LIMITED
+vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-1376ms-RETN%20Limited
+vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?encryption=none&path=%2Fchunkycorp&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-1655ms-CGI%20GLOBAL%20LIMITED
+vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?encryption=none&security=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B1%F0%9F%87%BB-Riga-14575ms-RETN%20Limited
