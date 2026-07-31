@@ -370,6 +370,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.44.201:22222?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.44.201:22223?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.44.201:22224?type=raw#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.197.216:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.197.216:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
@@ -386,9 +388,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.145.152:22224?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.204.220:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.204.220:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22222?type=raw#F0rc3RunVPN 🏳️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22223?type=raw#F0rc3RunVPN 🏳️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22224?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
@@ -398,12 +398,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.25.142:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.25.142:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.48.79:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.48.79:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.182.129:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.182.129:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.197.15:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.197.15:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@51.89.229.242:2053?type=grpc&amp;security=reality&amp;sni=play.google.com&amp;fp=firefox&amp;pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&amp;sid=524efc1f88592266&amp;serviceName=api.v1.data#F0rc3RunVPN 🏳️
 vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@gr029.bamajobin.ir:2053?type=grpc&amp;security=reality&amp;sni=play.google.com&amp;fp=firefox&amp;pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&amp;sid=524efc1f88592266&amp;serviceName=api.v1.data#F0rc3RunVPN 🏳️
 vless://e4f851c2-69d6-4a8f-83c9-c1a9f78c0f98@91.107.135.249:47677?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
