@@ -1,1 +1,3 @@
-trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-423ms-Amazon.com%20Inc.
+trojan://ND91608427@54.170.212.206:443?type=tcp&security=tls&headerType=none&sni=skilled-lioness.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-221ms-Amazon.com%20Inc.
+trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-239ms-Amazon.com%20Inc.
+trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos&allowInsecure=1#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-243ms-Amazon.com%20Inc.
