@@ -1,5 +1,6 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Bogot%C3%A1-142ms-Lightnode%20Limited
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.93:62145?encryption=none&type=tcp&headerType=none&security=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-164ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.93:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-173ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-174ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-181ms-Oracle%20Corporation
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?security=none&type=tcp&headerType=none&encryption=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-175ms-Oracle%20Corporation
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?type=tcp&headerType=none&encryption=none&security=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-176ms-Oracle%20Corporation
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Bogot%C3%A1-182ms-Lightnode%20Limited
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Bogot%C3%A1-182ms-Lightnode%20Limited
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Cota-182ms-Oracle%20Corporation
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%B4-Bogot%C3%A1-204ms-Lightnode%20Limited
