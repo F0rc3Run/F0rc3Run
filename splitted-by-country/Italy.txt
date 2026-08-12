@@ -1,8 +1,7 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-321ms-BrainStorm%20Network%20Inc
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-324ms-BrainStorm%20Network%20Inc
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-341ms-M247%20Europe%20SRL
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-353ms-BrainStorm%20Network%20Inc
-vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&security=reality&sid=2762604ed2e0fa2f&sni=xit.saturn-cloud.net&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-552ms-Global%20Connectivity%20Solutions%20LLP
-vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=/&security=tls&encryption=none&insecure=0&host=italy-1.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-930ms-Scaleway
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Palermo-4855ms-Baxet%20Group%20Inc.
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Siziano-5371ms-Oracle%20Corporation
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-232ms-M247%20Europe%20SRL
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-243ms-BrainStorm%20Network%20Inc
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-280ms-M247%20Europe%20SRL
+vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&security=reality&sid=2762604ed2e0fa2f&sni=xit.saturn-cloud.net&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-471ms-Global%20Connectivity%20Solutions%20LLP
+vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=/&security=tls&encryption=none&insecure=0&host=italy-1.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-623ms-Scaleway
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Siziano-1274ms-Oracle%20Corporation
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Siziano-9293ms-Oracle%20Corporation
