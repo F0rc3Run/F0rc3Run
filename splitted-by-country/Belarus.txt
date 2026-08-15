@@ -1,2 +1,1 @@
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@45.139.26.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ru104.mechvpn.online&type=raw#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A7%F0%9F%87%BE-Minsk-568ms-H2nexus%20LTD
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A7%F0%9F%87%BE-Minsk-619ms-H2nexus%20LTD
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A7%F0%9F%87%BE-Minsk-542ms-H2nexus%20LTD
