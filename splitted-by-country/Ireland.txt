@@ -1,6 +1,6 @@
-trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-235ms-Amazon.com%20Inc.
-trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-237ms-Amazon.com%20Inc.
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-240ms-Amazon.com%20Inc.
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-338ms-Amazon%20Technologies%20Inc.
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-465ms-Amazon%20Technologies%20Inc.
-trojan://UO36402987@34.251.228.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-ladybird.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-489ms-Amazon%20Technologies%20Inc.
+trojan://UO36402987@34.251.228.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-ladybird.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-366ms-Amazon%20Technologies%20Inc.
+trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-370ms-Amazon%20Technologies%20Inc.
+trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-384ms-Amazon.com%20Inc.
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-386ms-Amazon.com%20Inc.
+trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-407ms-Amazon.com%20Inc.
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Dublin-418ms-Amazon%20Technologies%20Inc.
