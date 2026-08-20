@@ -1,10 +1,5 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.179.252:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-205ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?allowInsecure=1#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-205ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.190.125:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-218ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.144.128:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-218ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.233.114:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-220ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UnR2R1l0VFgrZUszYVUzQXFkOGhJQ3ROZFhGVXZSZzBGV3dkVkYvV2tDVT0@152.70.50.71:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-222ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ckc1TE9oWDZaZ1ZiUUVVdEoweUgrb3VrMDJaL1VCRUlOQ1Q2KzVrYVNPUT0@150.230.20.164:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-231ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d1ZCV3pZL2VpREZCSEdic2hwNWl1S1VqTDhPWnNwKyt5OFdBWnRWSFB2az0@141.144.192.7:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-237ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.236.108:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-241ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.179.52:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-242ms-Oracle%20Corporation
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d1ZCV3pZL2VpREZCSEdic2hwNWl1S1VqTDhPWnNwKyt5OFdBWnRWSFB2az0@141.144.192.7:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-270ms-Oracle%20Corporation
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ckc1TE9oWDZaZ1ZiUUVVdEoweUgrb3VrMDJaL1VCRUlOQ1Q2KzVrYVNPUT0@150.230.20.164:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-273ms-Oracle%20Corporation
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?encryption=none&security=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-274ms-Oracle%20Corporation
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-281ms-BlueVPS%20OU
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?security=reality&encryption=none&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=america.cendora.ru&sid=065cf4f1c7d83e79#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-292ms-xorek.cloud%20International%20LTD
