@@ -1,10 +1,7 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Vancouver-101ms-Datacamp%20Limited
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:10889#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Toronto-126ms-Baxet%20Group%20Inc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-152ms-OVH%20SAS
-ss://2022-blake3-aes-256-gcm:NTQwZmFlZTcwZWY1NDNiYzg3ZDJlMzlkN2RiNmYyMTc%3D%3AZDA0ZjRiMzIxNDc5NDQ5ZmFlODQxNGJhZGE4NWIzY2Q%3D@209.200.246.182:11994#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Toronto-158ms-Regxa%20Company%20for%20Information%20Technology
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-162ms-OVH%20SAS
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@207.90.192.164:8443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-332ms-Cloudflare%20Inc.
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-730ms-OVH%20SAS
-vless://8ff82100-8aad-4281-bf41-f318519d7182@bridge.sfproxy.fuck-rkn.dev:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca.jobinvest.ru#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Toronto-771ms-Regxa%20Company%20for%20Information%20Technology
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-1522ms-OVH%20SAS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-2763ms-OVH%20SAS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Vancouver-61ms-Datacamp%20Limited
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-180ms-OVH%20SAS
+ss://2022-blake3-aes-256-gcm:NTQwZmFlZTcwZWY1NDNiYzg3ZDJlMzlkN2RiNmYyMTc%3D%3AZDA0ZjRiMzIxNDc5NDQ5ZmFlODQxNGJhZGE4NWIzY2Q%3D@209.200.246.182:11994#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Toronto-203ms-Regxa%20Company%20for%20Information%20Technology
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-224ms-OVH%20SAS
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@207.90.192.164:8443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Mississauga-338ms-Cloudflare%20Inc.
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?encryption=none&security=tls&sni=lizca2.footballfantasyforum.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-357ms-Leaseweb%20Canada%20Inc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-448ms-OVH%20SAS
