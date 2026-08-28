@@ -1,6 +1,5 @@
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-237ms-OVH%20SAS
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Siziano-241ms-Oracle%20Corporation
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-342ms-Akamai%20Technologies%20Inc.
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Palermo-387ms-Baxet%20Group%20Inc.
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-417ms-OVH%20SAS
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=OV-Italy1.09vpn.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-1028ms-OVH%20SAS
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?&sni=itproxy4.lockdwn.com&type=ws&headerType=none&host=itproxy4.lockdwn.com&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-449ms-Hostkey%20B.V.
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=OV-Italy1.09vpn.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-512ms-OVH%20SAS
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-576ms-OVH%20SAS
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOEAxOTQuODcuNDcuMjA0OjEwOTAx#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Palermo-792ms-Baxet%20Group%20Inc.
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-2082ms-OVH%20SAS
