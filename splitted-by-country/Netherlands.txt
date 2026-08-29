@@ -1,6 +1,4 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.65:62145?&type=tcp&headerType=none&path=/#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-178ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SVZCZS92MFBSem9JQXhGN09LVUE2ckhNTStmOFZGWUpUaEc2S3ZCWE5jWT0=@141.148.237.64:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-179ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VWxmdklCZjEySUJyOC9pSWpPQ0lNU2FyNXIvcVVOSUlRcitodDVoTW5Kdz0@134.98.152.41:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-183ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aTNyZDhwL0hNNTJDaWRuM0RxT1hSdm80QldqS3JpOUIrVWt1VHloSzAvaz0=@141.148.242.123:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-188ms-Oracle%20Corporation
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.65:62145?encryption=none&security=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-188ms-Oracle%20Corporation
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFJxd29zZlhxbWxsY2hhNHcrSzNMeFlCOHZKK0wxcVJKd0JaZ1ZFMWtSWT0=@84.235.171.56:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-190ms-Oracle%20Corporation
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aTNyZDhwL0hNNTJDaWRuM0RxT1hSdm80QldqS3JpOUIrVWt1VHloSzAvaz0=@141.148.242.123:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-283ms-Oracle%20Corporation
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFJxd29zZlhxbWxsY2hhNHcrSzNMeFlCOHZKK0wxcVJKd0JaZ1ZFMWtSWT0=@84.235.171.56:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-284ms-Oracle%20Corporation
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SVZCZS92MFBSem9JQXhGN09LVUE2ckhNTStmOFZGWUpUaEc2S3ZCWE5jWT0@141.148.237.64:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-286ms-Oracle%20Corporation
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MTR6ZHVWT3BxWk9LNmlheWsreGQzNGg5OHltcDZxcjJOdUpqMnh0V1hpWT0@158.178.155.37:45819#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-287ms-Oracle%20Corporation
