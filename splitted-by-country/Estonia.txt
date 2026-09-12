@@ -1,1 +1,2 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%AA-Tallinn-782ms-EternityCloud
+vless://6fb79584-30b8-4888-b358-98f7ef6b8697@ee-node.usel.pro:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=mail.protech-plus.ee&pbk=NiCJO84l7l--GJ10ggvb6HcOS8qLR30pWTphwvWozhg#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%AA-Tallinn-780ms-Cloudflare%20Inc.
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%AA-Tallinn-981ms-EternityCloud
