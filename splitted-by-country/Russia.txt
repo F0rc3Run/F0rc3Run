@@ -1,1 +1,2 @@
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-StPetersburg-542ms-MegaMax%20Network
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@45.91.55.208:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=chrome&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Moscow-490ms-Delta%20Ltd
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=/casc#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%BA-Novosibirsk-824ms-Adman%20LLC
