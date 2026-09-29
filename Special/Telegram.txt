@@ -98,11 +98,7 @@ trojan://f8a37993-ea4c-4ab6-bddb-5dfebb8e26d8@sg.multiport1.artunnel57.host:443?
 trojan://f8a37993-ea4c-4ab6-bddb-5dfebb8e26d8@sg.multiport1.artunnel57.host:80?security=none&amp;type=ws&amp;headerType=none&amp;path=/trojan-ntls&amp;host=sg.multiport1.artunnel57.host#F0rc3RunVPN 🏳️
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=tls&amp;type=ws&amp;headerType=none&amp;path=%252Ftrojan-tls&amp;sni=asia.artunnel57.host&amp;host=asia.artunnel57.host#F0rc3RunVPN 🏳️
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none&amp;type=ws&amp;headerType=none&amp;path=%252Ftrojan-ntls&amp;host=asia.artunnel57.host#F0rc3RunVPN 🏳️
-trojan://humanity@104.21.13.204:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#F0rc3RunVPN 🏳️
-trojan://humanity@162.159.244.91:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#F0rc3RunVPN 🏳️
-trojan://humanity@162.159.254.191:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#F0rc3RunVPN 🏳️
 trojan://humanity@172.67.149.60:443?security=tls&amp;sni=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;path=%2Fassignment#F0rc3RunVPN 🏳️
-trojan://humanity@172.67.231.254:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#F0rc3RunVPN 🏳️
 trojan://humanity@8.47.69.0:443?type=ws&amp;security=tls&amp;sni=www.pleadcourt.org&amp;host=www.pleadcourt.org&amp;path=%2Fassignment&amp;alpn=http%2F1.1#F0rc3RunVPN 🏳️
 vless://004ebee8-b102-4e9b-a6dd-620d587f5ff4@fra.huge-b.com:2053?encryption=none&amp;type=ws&amp;path=%2F%40Artemis_Vpn&amp;host=fra.huge-b.com&amp;security=tls&amp;sni=fra.huge-b.com&amp;fp=chrome#F0rc3RunVPN 🏳️
 vless://004ebee8-b102-4e9b-a6dd-620d587f5ff4@fra.huge-b.com:8880?encryption=none&amp;type=httpupgrade&amp;path=%2F%40Artemis_Vpn&amp;host=fra.huge-b.com&amp;security=none#F0rc3RunVPN 🏳️
@@ -333,6 +329,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.13.244:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.60.15:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.60.15:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.157.66:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.44.36:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.44.36:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.62.117:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.62.117:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.86.247:22222?type=raw#F0rc3RunVPN 🏳️
@@ -346,6 +344,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.211.208:22223?type=raw#F0rc3R
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.211.208:22224?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22222?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22223?type=raw#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.206.212:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.206.212:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#F0rc3RunVPN 🏳️
@@ -367,8 +367,12 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.126.60:22223?type=raw#F0rc3R
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.126.60:22224?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.8.226.165:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.8.226.165:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.47.30:22222?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.47.30:22223?type=raw#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.125.38:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.125.38:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22224?type=raw#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.200.11.115:22223?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.200.11.115:22224?encryption=none&amp;security=none&amp;type=tcp#F0rc3RunVPN 🏳️
@@ -410,7 +414,6 @@ vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?encryption=none&am
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.hkpublic.moh539.link&amp;type=ws&amp;sni=watashi.free.hkpublic.moh539.link#F0rc3RunVPN 🏳️
 vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.de.mnhacker.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=watashi.free.de.mnhacker.eu.org#F0rc3RunVPN 🏳️
 vless://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&amp;path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=cdn-alman5.arfilter2.blog&amp;type=xhttp#F0rc3RunVPN 🏳️
-vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=cdn-alman1.arfilter2.blog&amp;fp=firefox&amp;type=ws&amp;sni=cdn-alman1.arfilter2.blog#F0rc3RunVPN 🏳️
 vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiI0MTUwMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJhZGQiOiJkYXNoYm9hcmQubHVuYXJhbWFya2V0LnRvcCIsInBzIjoiJTQwZnIzM2MwbmZpZyIsImlkIjoiMWFmMWI3ZjUtZWIxZS00MTc2LWFiNjAtYzEzNGZkMjgzYjZjIn0=#F0rc3RunVPN 🏳️
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70xIHwg4qyH77iPIDIuM01CL3MiLCJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9#F0rc3RunVPN 🏳️
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70yIHwg4qyH77iPIDQuMU1CL3MiLCJhZGQiOiIxMDQuMTkuMzIuMCIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9#F0rc3RunVPN 🏳️
