@@ -1,1 +1,1 @@
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Sandyford-413ms-IBIS
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%AA-Sandyford-433ms-IBIS
