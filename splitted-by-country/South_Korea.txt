@@ -1,11 +1,6 @@
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Seoul-330ms-KOR%20VULTR
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@141.164.45.187:8000#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Seoul-333ms-KOR%20VULTR
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Seoul-334ms-KOR%20VULTR
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwibmV0IjoidGNwIiwicG9ydCI6IjQ0MyIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7Dwn4e3LVNlb3VsLTM0MG1zLU9yYWNsZSBDb3Jwb3JhdGlvbiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7Dwn4e3LVNlb3VsLTM0NW1zLU9yYWNsZSBDb3Jwb3JhdGlvbiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-488ms-Amazon.com%20Inc.
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-494ms-Amazon.com%20Inc.
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-502ms-Amazon.com%20Inc.
-trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-507ms-Amazon.com%20Inc.
-trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&sni=pretty-rat.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-699ms-Amazon.com%20Inc.
-ss://YWVzLTI1Ni1nY206YWM5YzBhN2I=@ce1fc2d8.krkt.hkssip.com:49642#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Yeongcheon-si-1431ms-Netropy
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwibmV0IjoidGNwIiwicG9ydCI6IjQ0MyIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7Dwn4e3LVNlb3VsLTM4Nm1zLU9yYWNsZSBDb3Jwb3JhdGlvbiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7Dwn4e3LVNlb3VsLTM5N21zLU9yYWNsZSBDb3Jwb3JhdGlvbiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Seoul-412ms-KOR%20VULTR
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-553ms-Amazon.com%20Inc.
+trojan://UX82473651@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-557ms-Amazon.com%20Inc.
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Incheon-597ms-Amazon%20Technologies%20Inc.
