@@ -1,8 +1,7 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Vancouver-138ms-Datacamp%20Limited
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-175ms-OVH%20SAS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-746ms-OVH%20SAS
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-914ms-OVH%20SAS
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&fp=&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&security=reality&sid=83f8317a948bb769&sni=www.cloudflare.com&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-1645ms-OVH%20SAS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-1826ms-OVH%20SAS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-2075ms-OVH%20SAS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-2923ms-OVH%20SAS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-104ms-OVH%20SAS
+ss://YWVzLTEyOC1nY206NGVmZTFhZjI3MmU3MjkyMTM5Yjg4OWY2YTYzZWUwNzE@64.74.163.69:18766#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Pointe-Claire-108ms-Dedicated.com
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Vancouver-156ms-Datacamp%20Limited
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&fp=&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&security=reality&sid=83f8317a948bb769&sni=www.cloudflare.com&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-169ms-OVH%20SAS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Beauharnois-494ms-OVH%20SAS
+vless://92295a0d-b610-4075-85e9-bfab09ec6f3a@time.salphetka.ru:443?security=reality&encryption=none&pbk=5qe0MF8LdxPLFyPkyPkUdQs58rK9J7B0Q5TUj7tSnn4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.unb.ca&sid=654119f9d6f01dba#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-543ms-YottaSrc
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-1633ms-OVH%20SAS
