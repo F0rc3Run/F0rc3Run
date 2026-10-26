@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B2%F0%9F%87%BD-Quer%C3%A9taroCity-105ms-The%20Constant%20Company%20LLC
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B2%F0%9F%87%BD-MexicoCity-220ms-Bedge%20CO%20Limited
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B2%F0%9F%87%BD-MexicoCity-311ms-Bedge%20CO%20Limited
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B2%F0%9F%87%BD-MexicoCity-356ms-Bedge%20CO%20Limited
