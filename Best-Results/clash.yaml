@@ -1,6 +1,6 @@
 # Clash.Meta (mihomo) configuration
 # https://t.me/ForceRunVPN
-# 215 working proxies
+# 206 working proxies
 
 port: 7890
 socks-port: 7891
@@ -40,413 +40,76 @@ dns:
     - "tls://8.8.4.4:853"
     - "tls://1.0.0.1:853"
 proxies:
-  - name: "🇺🇸 US · Reston · Shadowsocks · 16ms | 001"
-    type: "ss"
-    server: "15.204.247.244"
-    port: 4444
-    cipher: "aes-256-gcm"
-    password: "pKEW8JPByTVTLtM"
-    udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 19ms | 002"
-    type: "ss"
-    server: "37.19.198.244"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 20ms | 003"
-    type: "ss"
-    server: "37.19.198.160"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 22ms | 004"
-    type: "ss"
-    server: "15.204.247.206"
-    port: 4444
-    cipher: "aes-256-gcm"
-    password: "pKEW8JPByTVTLtM"
-    udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 22ms | 005"
-    type: "ss"
-    server: "15.204.247.175"
-    port: 8008
-    cipher: "aes-256-gcm"
-    password: "XKFKl2rULjIp74"
-    udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 23ms | 006"
-    type: "ss"
-    server: "37.19.198.243"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 26ms | 007"
-    type: "ss"
-    server: "37.19.198.236"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Washington · Shadowsocks · 34ms | 008"
-    type: "ss"
-    server: "185.230.230.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 34ms | 009"
-    type: "vmess"
-    server: "67.220.85.46"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 34ms | 010"
-    type: "vmess"
-    server: "67.220.95.3"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "aes-128-gcm"
-    udp: true
-  - name: "🇺🇸 US · Newark · Shadowsocks · 36ms | 011"
-    type: "ss"
-    server: "193.151.163.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 37ms | 012"
-    type: "ss"
-    server: "216.9.225.189"
-    port: 443
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "Q2YsIzc5YkchSFjsqUZWrQAFtsSpqf7XxYxkG4+Jbsk=:zT1SecPttPY/XPW6NwjK5Wql+/6zbcGSDJK21Jk8uLo="
-    udp: true
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 38ms | 013"
-    type: "ss"
-    server: "51.222.155.113"
-    port: 5601
-    cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 014"
-    type: "ss"
-    server: "51.79.49.116"
-    port: 8882
-    cipher: "aes-256-gcm"
-    password: "kDWvXYZoTBcGkC4"
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 015"
-    type: "ss"
-    server: "51.79.64.198"
-    port: 8119
-    cipher: "aes-256-gcm"
-    password: "cdBIDV42DCwnfIN"
-    udp: true
-  - name: "🇺🇸 US · Elk Grove Village · Shadowsocks · 40ms | 016"
-    type: "ss"
-    server: "216.128.153.186"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "gWXhRbGoI53aSRV8fv9alMwr"
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 47ms | 017"
-    type: "ss"
-    server: "51.222.136.236"
-    port: 8882
-    cipher: "aes-256-gcm"
-    password: "kDWvXYZoTBcGkC4"
-    udp: true
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 49ms | 018"
-    type: "ss"
-    server: "51.79.85.185"
-    port: 8118
-    cipher: "aes-256-gcm"
-    password: "cdBIDV42DCwnfIN"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 49ms | 019"
-    type: "vmess"
-    server: "23.162.200.198"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Ashburn · Shadowsocks · 51ms | 020"
-    type: "ss"
-    server: "45.86.51.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 51ms | 021"
-    type: "vmess"
-    server: "134.195.196.211"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 54ms | 022"
-    type: "ss"
-    server: "198.98.53.130"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "eDfN7SODQceIOmIAbtJJtK"
-    udp: true
-  - name: "🇺🇸 US · Miami · Shadowsocks · 58ms | 023"
-    type: "ss"
-    server: "193.151.160.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Chicago · Trojan · 68ms | 024"
-    type: "trojan"
-    server: "216.152.155.54"
-    port: 443
-    password: "0ab6c98dae3b48e8b9c4a776b6c9c19a"
-    udp: true
-    sni: "learn.nextjobopportunityandclaimyouridealrole.com"
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 72ms | 025"
-    type: "ss"
-    server: "185.215.132.9"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 73ms | 026"
-    type: "ss"
-    server: "156.146.38.167"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 74ms | 027"
-    type: "ss"
-    server: "185.215.132.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 76ms | 028"
-    type: "ss"
-    server: "156.146.38.168"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 77ms | 029"
-    type: "ss"
-    server: "156.146.38.169"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 81ms | 030"
-    type: "ss"
-    server: "156.146.38.170"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Miami · Shadowsocks · 89ms | 031"
-    type: "ss"
-    server: "193.151.160.9"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 90ms | 032"
-    type: "vmess"
-    server: "38.110.1.246"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Washington · Vmess · 94ms | 033"
-    type: "vmess"
-    server: "130.94.16.109"
-    port: 80
-    uuid: "f88c14b4-056d-4731-93f4-66a2cb09672b"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/vmess-ws"
-  - name: "🇺🇸 US · Chicago · Vmess · 107ms | 034"
-    type: "vmess"
-    server: "104.21.7.133"
-    port: 80
-    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "vmess.lbw666.dpdns.org"
-  - name: "🇺🇸 US · Chicago · Vmess · 108ms | 035"
-    type: "vmess"
-    server: "104.17.147.222"
-    port: 80
-    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "vmess.lbw666.dpdns.org"
-  - name: "🇺🇸 US · Chicago · Vmess · 111ms | 036"
-    type: "vmess"
-    server: "cf.0sm.com"
-    port: 80
-    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "vmess.lbw666.dpdns.org"
-  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 115ms | 037"
-    type: "ss"
-    server: "216.105.168.18"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "bQZl7HDxSabr1FurTYQHFU"
-    udp: true
-  - name: "🇺🇸 US · Chicago · Vmess · 119ms | 038"
-    type: "vmess"
-    server: "172.67.187.145"
-    port: 80
-    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "vmess.lbw666.dpdns.org"
-  - name: "🇺🇸 US · Phoenix · Shadowsocks · 121ms | 039"
-    type: "ss"
-    server: "95.215.201.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 123ms | 040"
-    type: "ss"
-    server: "103.11.76.248"
-    port: 28679
-    cipher: "2022-blake3-aes-128-gcm"
-    password: "NzJlOTQ5NWYtM2ZkYi00Cg=="
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 132ms | 041"
-    type: "vmess"
-    server: "84.17.41.2"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 133ms | 042"
-    type: "ss"
-    server: "15.204.247.244"
-    port: 443
-    cipher: "aes-256-gcm"
-    password: "pKEW8JPByTVTLtM"
-    udp: true
-  - name: "🇽🇽 XX · Vmess · 135ms | 043"
-    type: "vmess"
-    server: "104.27.0.1"
-    port: 443
-    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "vmess.lbw666.dpdns.org"
-    network: "ws"
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "vmess.lbw666.dpdns.org"
-  - name: "🇮🇪 IE · Dublin · Vmess · 138ms | 044"
-    type: "vmess"
-    server: "54.229.151.97"
-    port: 59236
-    uuid: "2387bfbc-10a6-4bd7-dc55-7cba954ce6e8"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "http"
-    http-opts:
-      method: "GET"
-      path:
-        - "/"
-      headers:
-        Host:
-          - "tms.dingtalk.com"
-  - name: "🇺🇸 US · Phoenix · Shadowsocks · 145ms | 045"
-    type: "ss"
-    server: "173.244.56.6"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Phoenix · Shadowsocks · 146ms | 046"
-    type: "ss"
-    server: "173.244.56.9"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Vmess · 150ms | 047"
-    type: "vmess"
-    server: "www.windowsmsidownloads.com"
-    port: 443
-    uuid: "80be2deb-3b27-4775-9bd1-7f2a2b9c261b"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    network: "ws"
-    ws-opts:
-      path: "/truth"
-  - name: "🇨🇦 CA · Vancouver · Shadowsocks · 151ms | 048"
+  - name: "🇨🇦 CA · Vancouver · Shadowsocks · 25ms | 001"
     type: "ss"
     server: "149.22.95.183"
     port: 443
     cipher: "aes-128-gcm"
     password: "shadowsocks"
     udp: true
-  - name: "🇬🇧 GB · London · Shadowsocks · 159ms | 049"
-    type: "ss"
-    server: "51.38.71.51"
-    port: 2083
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho="
+  - name: "🇺🇸 US · Kent · Vless · 46ms | 002"
+    type: "vless"
+    server: "172.66.154.57"
+    port: 443
+    uuid: "d342d11e-d224-4463-b982-532309285094"
     udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 167ms | 050"
+    tls: true
+    servername: "ccc.010304.xyz"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "ccc.010304.xyz"
+  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 65ms | 003"
     type: "ss"
-    server: "140.82.56.38"
-    port: 8388
+    server: "103.11.76.248"
+    port: 28679
+    cipher: "2022-blake3-aes-128-gcm"
+    password: "NzJlOTQ5NWYtM2ZkYi00Cg=="
+    udp: true
+  - name: "🇺🇸 US · Phoenix · Shadowsocks · 84ms | 004"
+    type: "ss"
+    server: "95.215.201.18"
+    port: 19999
     cipher: "aes-256-gcm"
-    password: "iOaIXNsQXVIxwmkY"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Santa Clara · Vmess · 169ms | 051"
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 109ms | 005"
+    type: "ss"
+    server: "156.146.38.169"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 110ms | 006"
+    type: "ss"
+    server: "156.146.38.168"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Denver · Trojan · 113ms | 007"
+    type: "trojan"
+    server: "66.163.114.114"
+    port: 443
+    password: "0ab6c98dae3b48e8b9c4a776b6c9c19a"
+    udp: true
+    sni: "learn.findconnectwithemployersandbuildprofessionalnetwork.com"
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 116ms | 008"
+    type: "ss"
+    server: "156.146.38.167"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 117ms | 009"
+    type: "ss"
+    server: "156.146.38.170"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Santa Clara · Vmess · 118ms | 010"
     type: "vmess"
     server: "43.130.35.53"
     port: 10087
@@ -454,7 +117,21 @@ proxies:
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Phoenix · Vmess · 171ms | 052"
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 011"
+    type: "ss"
+    server: "185.215.132.9"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 012"
+    type: "ss"
+    server: "185.215.132.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Phoenix · Vmess · 127ms | 013"
     type: "vmess"
     server: "129.146.77.248"
     port: 39495
@@ -467,722 +144,925 @@ proxies:
       path: "/cctv13.m3u8"
       headers:
         Host: "129.146.77.248"
-  - name: "🇽🇽 XX · Shadowsocks · 172ms | 053"
+  - name: "🇺🇸 US · New York · Shadowsocks · 129ms | 014"
     type: "ss"
-    server: "158.173.24.73"
+    server: "37.19.198.244"
     port: 443
     cipher: "aes-128-gcm"
     password: "shadowsocks"
     udp: true
-  - name: "🇬🇧 GB · London · Shadowsocks · 176ms | 054"
+  - name: "🇺🇸 US · New York · Shadowsocks · 129ms | 015"
     type: "ss"
-    server: "185.176.206.9"
+    server: "37.19.198.243"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · New York · Shadowsocks · 131ms | 016"
+    type: "ss"
+    server: "37.19.198.160"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · New York · Shadowsocks · 133ms | 017"
+    type: "ss"
+    server: "37.19.198.236"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Reston · Shadowsocks · 133ms | 018"
+    type: "ss"
+    server: "15.204.247.206"
+    port: 4444
+    cipher: "aes-256-gcm"
+    password: "pKEW8JPByTVTLtM"
+    udp: true
+  - name: "🇺🇸 US · Newark · Shadowsocks · 134ms | 019"
+    type: "ss"
+    server: "193.151.163.18"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · New York · Vless · 177ms | 055"
-    type: "vless"
-    server: "169.40.42.235"
+  - name: "🇺🇸 US · New York · Shadowsocks · 137ms | 020"
+    type: "ss"
+    server: "216.9.225.189"
     port: 443
-    uuid: "d65cc14c-f53f-4fe2-b262-97856601319c"
+    cipher: "2022-blake3-aes-256-gcm"
+    password: "Q2YsIzc5YkchSFjsqUZWrQAFtsSpqf7XxYxkG4+Jbsk=:zT1SecPttPY/XPW6NwjK5Wql+/6zbcGSDJK21Jk8uLo="
     udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg"
-      short-id: "c39cc7310a"
-  - name: "🇺🇸 US · Reston · Shadowsocks · 177ms | 056"
+  - name: "🇺🇸 US · Ashburn · Shadowsocks · 147ms | 021"
     type: "ss"
-    server: "15.204.247.124"
-    port: 2375
-    cipher: "aes-256-gcm"
-    password: "faBAoD54k87UJG7"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt · Shadowsocks · 183ms | 057"
-    type: "ss"
-    server: "185.176.204.18"
+    server: "45.86.51.18"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 183ms | 058"
+  - name: "🇺🇸 US · Miami · Shadowsocks · 147ms | 022"
     type: "ss"
-    server: "104.239.12.81"
-    port: 43385
-    cipher: "chacha20-ietf-poly1305"
-    password: "AwW1fV6oDDQKh8r2znmptv59tPgt4eHVTgFaTqgKS2jiSdikJ7GyGCBYehDaK38S8yMgHFdbJqcTmRJSfYS5CFw345bNhFZa"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 185ms | 059"
-    type: "ss"
-    server: "158.173.20.208"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇬🇧 GB · Stretford · Shadowsocks · 187ms | 060"
-    type: "ss"
-    server: "141.98.101.181"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇦 UA · Kharkiv · Shadowsocks · 189ms | 061"
-    type: "ss"
-    server: "104.253.216.227"
-    port: 49917
-    cipher: "chacha20-ietf-poly1305"
-    password: "G9ZuLN5DE9qqouTZwYUcvYsDJx8gyL1nCu3N7yRZFjPmYKhzSi8GkpVuexmTHAz2uvcErKkex1K2ceR2GH3L444HRNnN1YpP"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 062"
-    type: "ss"
-    server: "82.38.31.159"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 063"
-    type: "ss"
-    server: "193.29.139.179"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 064"
-    type: "ss"
-    server: "82.38.31.149"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 065"
-    type: "ss"
-    server: "82.38.31.174"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 066"
-    type: "ss"
-    server: "193.29.139.235"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 067"
-    type: "ss"
-    server: "82.38.31.16"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 068"
-    type: "ss"
-    server: "82.38.31.205"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 193ms | 069"
-    type: "ss"
-    server: "51.222.141.125"
-    port: 445
+    server: "193.151.160.9"
+    port: 19999
     cipher: "aes-256-gcm"
-    password: "zDNVedRFPQexG9v"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 070"
+  - name: "🇺🇸 US · Miami · Shadowsocks · 147ms | 023"
     type: "ss"
-    server: "82.38.31.204"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    server: "193.151.160.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 071"
+  - name: "🇺🇸 US · Washington · Shadowsocks · 149ms | 024"
     type: "ss"
-    server: "82.38.31.182"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    server: "185.230.230.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 193ms | 072"
+  - name: "🇨🇦 CA · Montreal · Shadowsocks · 150ms | 025"
     type: "ss"
-    server: "15.204.233.41"
+    server: "51.222.136.236"
     port: 8882
     cipher: "aes-256-gcm"
     password: "kDWvXYZoTBcGkC4"
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 194ms | 073"
+  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 152ms | 026"
     type: "ss"
-    server: "82.38.31.171"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 074"
-    type: "ss"
-    server: "82.38.31.162"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 075"
-    type: "ss"
-    server: "82.38.31.69"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 076"
-    type: "ss"
-    server: "193.29.139.235"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 077"
-    type: "ss"
-    server: "82.38.31.165"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 078"
-    type: "ss"
-    server: "82.38.31.186"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 079"
-    type: "ss"
-    server: "193.29.139.168"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "QCXDxuDlTTMD7jtgHUjIoj"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 080"
-    type: "ss"
-    server: "82.38.31.181"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 197ms | 081"
-    type: "ss"
-    server: "82.38.31.180"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 082"
-    type: "ss"
-    server: "82.38.31.174"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 083"
-    type: "ss"
-    server: "82.38.31.46"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 084"
-    type: "ss"
-    server: "82.38.31.184"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 085"
-    type: "ss"
-    server: "82.38.31.47"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 087"
-    type: "ss"
-    server: "82.38.31.28"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 088"
-    type: "ss"
-    server: "82.38.31.82"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 089"
-    type: "ss"
-    server: "178.83.185.156"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 090"
-    type: "ss"
-    server: "82.38.31.187"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 199ms | 091"
-    type: "ss"
-    server: "8.211.196.252"
-    port: 443
-    cipher: "2022-blake3-chacha20-poly1305"
-    password: "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 092"
-    type: "ss"
-    server: "82.38.31.169"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 093"
-    type: "ss"
-    server: "82.38.31.178"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 094"
-    type: "ss"
-    server: "82.38.31.13"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 095"
-    type: "ss"
-    server: "82.38.31.170"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇸🇪 SE · Spånga · Shadowsocks · 200ms | 096"
-    type: "ss"
-    server: "70.34.212.124"
-    port: 8388
+    server: "51.79.85.185"
+    port: 8118
     cipher: "aes-256-gcm"
-    password: "AxIYWtskJWIIaefW"
+    password: "cdBIDV42DCwnfIN"
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 097"
-    type: "ss"
-    server: "82.38.31.218"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
+  - name: "🇦🇺 AU · Sydney · Vmess · 155ms | 027"
+    type: "vmess"
+    server: "84.17.41.2"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "none"
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 201ms | 098"
+  - name: "🇺🇸 US · Phoenix · Shadowsocks · 157ms | 028"
     type: "ss"
-    server: "57.131.48.45"
-    port: 8388
-    cipher: "aes-256-gcm"
-    password: "itzvpn@321"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 099"
-    type: "ss"
-    server: "193.29.139.212"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "QCXDxuDlTTMD7jtgHUjIoj"
-    udp: true
-  - name: "🇨🇭 CH · Zurich · Shadowsocks · 201ms | 100"
-    type: "ss"
-    server: "132.243.175.144"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 101"
-    type: "ss"
-    server: "82.38.31.39"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 102"
-    type: "ss"
-    server: "82.38.31.62"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 103"
-    type: "ss"
-    server: "82.38.31.66"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 202ms | 104"
-    type: "ss"
-    server: "82.38.31.208"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 105"
-    type: "ss"
-    server: "82.38.31.171"
+    server: "173.244.56.6"
     port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 106"
+  - name: "🇺🇸 US · Phoenix · Shadowsocks · 160ms | 029"
     type: "ss"
-    server: "82.38.31.157"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    server: "173.244.56.9"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
     udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 107"
-    type: "ss"
-    server: "82.38.31.207"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
+  - name: "🇦🇺 AU · Sydney · Vmess · 169ms | 030"
+    type: "vmess"
+    server: "134.195.196.211"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 203ms | 108"
-    type: "ss"
-    server: "193.29.139.202"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 109"
-    type: "ss"
-    server: "82.38.31.7"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 110"
-    type: "ss"
-    server: "82.38.31.3"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 204ms | 111"
-    type: "ss"
-    server: "193.29.139.234"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "4a2rfixophdjffa8KVA4Aa"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 112"
-    type: "ss"
-    server: "82.38.31.35"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 113"
-    type: "ss"
-    server: "82.38.31.48"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 114"
-    type: "ss"
-    server: "82.38.31.49"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 115"
-    type: "ss"
-    server: "82.38.31.156"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 116"
-    type: "ss"
-    server: "82.38.31.61"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 117"
-    type: "ss"
-    server: "193.29.139.204"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 118"
-    type: "ss"
-    server: "82.38.31.210"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 119"
-    type: "ss"
-    server: "82.38.31.219"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 120"
-    type: "ss"
-    server: "82.38.31.198"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 121"
-    type: "ss"
-    server: "82.38.31.26"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 122"
-    type: "ss"
-    server: "82.38.31.175"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 123"
-    type: "ss"
-    server: "193.29.139.151"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 124"
-    type: "ss"
-    server: "82.38.31.2"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 125"
-    type: "ss"
-    server: "82.38.31.149"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 126"
-    type: "ss"
-    server: "82.38.31.211"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 207ms | 127"
-    type: "ss"
-    server: "185.164.175.81"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 128"
-    type: "ss"
-    server: "82.38.31.17"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 208ms | 129"
-    type: "ss"
-    server: "202.50.253.72"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 209ms | 130"
-    type: "ss"
-    server: "202.50.253.45"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 209ms | 131"
-    type: "ss"
-    server: "193.29.139.188"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 210ms | 132"
-    type: "ss"
-    server: "202.50.253.27"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 210ms | 133"
-    type: "ss"
-    server: "82.38.31.200"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 210ms | 134"
-    type: "ss"
-    server: "202.50.253.54"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 210ms | 135"
+  - name: "🇺🇸 US · Reston · Shadowsocks · 185ms | 031"
     type: "ss"
     server: "15.204.246.132"
     port: 7307
     cipher: "aes-256-gcm"
     password: "FoOiGlkAA9yPEGP"
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 211ms | 136"
-    type: "ss"
-    server: "202.50.253.36"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  - name: "🇦🇺 AU · Sydney · Vmess · 193ms | 032"
+    type: "vmess"
+    server: "23.162.200.198"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 213ms | 137"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 198ms | 033"
     type: "ss"
-    server: "54.36.174.140"
+    server: "149.22.87.204"
     port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "6heexyz"
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
     udp: true
-  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 214ms | 138"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 199ms | 034"
     type: "ss"
-    server: "54.36.174.134"
+    server: "149.22.87.240"
     port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "6heexyz"
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 215ms | 139"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 200ms | 035"
     type: "ss"
-    server: "202.50.253.18"
-    port: 19999
+    server: "84.247.155.196"
+    port: 80
     cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    password: "3eOFeNssde7PYYMv"
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 217ms | 140"
-    type: "ss"
-    server: "202.50.253.63"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  - name: "🇦🇺 AU · Sydney · Vmess · 202ms | 036"
+    type: "vmess"
+    server: "67.220.95.3"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 222ms | 141"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 202ms | 037"
     type: "ss"
-    server: "202.50.253.99"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 225ms | 142"
-    type: "ss"
-    server: "pl134.vpnbook.com"
+    server: "149.22.87.241"
     port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "6heexyz"
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
     udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 227ms | 143"
+  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 206ms | 038"
+    type: "ss"
+    server: "51.222.155.32"
+    port: 5003
+    cipher: "aes-256-gcm"
+    password: "g5MeD6Ft3CWlJId"
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 259ms | 039"
+    type: "vmess"
+    server: "38.91.107.49"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇨🇦 CA · Montreal · Shadowsocks · 281ms | 040"
+    type: "ss"
+    server: "51.79.64.198"
+    port: 8119
+    cipher: "aes-256-gcm"
+    password: "cdBIDV42DCwnfIN"
+    udp: true
+  - name: "🇬🇧 GB · London · Shadowsocks · 294ms | 041"
+    type: "ss"
+    server: "185.176.206.9"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt · Shadowsocks · 297ms | 042"
+    type: "ss"
+    server: "185.176.204.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 297ms | 043"
     type: "ss"
     server: "185.226.172.8"
     port: 8008
     cipher: "aes-256-gcm"
     password: "XKFKl2rULjIp74"
     udp: true
-  - name: "🇦🇹 AT · Vienna · Shadowsocks · 231ms | 144"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 044"
+    type: "ss"
+    server: "193.29.139.188"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 301ms | 045"
+    type: "ss"
+    server: "82.38.31.13"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 046"
+    type: "ss"
+    server: "82.38.31.189"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 047"
+    type: "ss"
+    server: "82.38.31.3"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 048"
+    type: "ss"
+    server: "193.29.139.202"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 049"
+    type: "ss"
+    server: "82.38.31.159"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇫🇷 FR · Roubaix · Shadowsocks · 304ms | 050"
+    type: "ss"
+    server: "51.77.216.96"
+    port: 53567
+    cipher: "aes-256-gcm"
+    password: "SnOSRfo0h6mnWehTG_Xang"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 051"
+    type: "ss"
+    server: "193.29.139.179"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 052"
+    type: "ss"
+    server: "82.38.31.203"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 053"
+    type: "ss"
+    server: "82.38.31.28"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 054"
+    type: "ss"
+    server: "82.38.31.220"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 055"
+    type: "ss"
+    server: "82.38.31.26"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 056"
+    type: "ss"
+    server: "82.38.31.176"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇬🇧 GB · Stretford · Shadowsocks · 311ms | 057"
+    type: "ss"
+    server: "141.98.101.181"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 058"
+    type: "ss"
+    server: "193.29.139.235"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 059"
+    type: "ss"
+    server: "82.38.31.195"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 060"
+    type: "ss"
+    server: "82.38.31.200"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇫🇷 FR · Roubaix · Shadowsocks · 313ms | 061"
+    type: "ss"
+    server: "node11.botkeep.cloud"
+    port: 53567
+    cipher: "aes-256-gcm"
+    password: "SnOSRfo0h6mnWehTG_Xang"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 062"
+    type: "ss"
+    server: "82.38.31.216"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇨🇭 CH · Zurich · Shadowsocks · 313ms | 063"
+    type: "ss"
+    server: "132.243.175.144"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 064"
+    type: "ss"
+    server: "82.38.31.179"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 065"
+    type: "ss"
+    server: "193.29.139.212"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "QCXDxuDlTTMD7jtgHUjIoj"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 314ms | 066"
+    type: "ss"
+    server: "185.164.175.81"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 067"
+    type: "ss"
+    server: "82.38.31.39"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 068"
+    type: "ss"
+    server: "82.38.31.35"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 069"
+    type: "ss"
+    server: "82.38.31.82"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 070"
+    type: "ss"
+    server: "82.38.31.66"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 071"
+    type: "ss"
+    server: "82.38.31.169"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 072"
+    type: "ss"
+    server: "82.38.31.34"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 073"
+    type: "ss"
+    server: "82.38.31.180"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 074"
+    type: "ss"
+    server: "193.29.139.168"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "QCXDxuDlTTMD7jtgHUjIoj"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 317ms | 075"
+    type: "ss"
+    server: "57.131.48.45"
+    port: 8388
+    cipher: "aes-256-gcm"
+    password: "itzvpn@321"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 076"
+    type: "ss"
+    server: "82.38.31.181"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 318ms | 077"
+    type: "ss"
+    server: "51.222.155.113"
+    port: 5601
+    cipher: "aes-256-gcm"
+    password: "Y6R9pAtvxxzmGC"
+    udp: true
+  - name: "🇨🇦 CA · Montreal · Vmess · 319ms | 078"
+    type: "vmess"
+    server: "188.114.96.1"
+    port: 443
+    uuid: "80be2deb-3b27-4775-9bd1-7f2a2b9c261b"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "www.windowsmsidownloads.com"
+    network: "ws"
+    ws-opts:
+      path: "/truth"
+      headers:
+        Host: "www.windowsmsidownloads.com"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 079"
+    type: "ss"
+    server: "82.38.31.194"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 319ms | 080"
+    type: "ss"
+    server: "193.29.139.198"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 081"
+    type: "ss"
+    server: "82.38.31.219"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇰🇷 KR · Seoul · Shadowsocks · 319ms | 082"
+    type: "ss"
+    server: "141.164.45.187"
+    port: 5498
+    cipher: "aes-256-gcm"
+    password: "lGqs95QkFHo2NV"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 083"
+    type: "ss"
+    server: "178.83.185.156"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 084"
+    type: "ss"
+    server: "82.38.31.215"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 085"
+    type: "ss"
+    server: "82.38.31.157"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 086"
+    type: "ss"
+    server: "82.38.31.155"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 087"
+    type: "ss"
+    server: "193.29.139.204"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 322ms | 088"
+    type: "ss"
+    server: "82.38.31.2"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 089"
+    type: "ss"
+    server: "82.38.31.191"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 324ms | 090"
+    type: "ss"
+    server: "82.38.31.10"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 091"
+    type: "ss"
+    server: "158.173.20.208"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 092"
+    type: "ss"
+    server: "82.38.31.61"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 325ms | 093"
+    type: "ss"
+    server: "139.180.220.175"
+    port: 8388
+    cipher: "aes-256-gcm"
+    password: "qpSevKaUXYQKvSjp"
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 326ms | 094"
+    type: "ss"
+    server: "129.150.59.74"
+    port: 14384
+    cipher: "2022-blake3-aes-256-gcm"
+    password: "sUR6Ny8Y6PSvHhl/DUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 095"
+    type: "ss"
+    server: "82.38.31.48"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 096"
+    type: "ss"
+    server: "193.29.139.147"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 097"
+    type: "ss"
+    server: "82.38.31.205"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 098"
+    type: "ss"
+    server: "82.38.31.62"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 099"
+    type: "ss"
+    server: "82.38.31.193"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 100"
+    type: "ss"
+    server: "193.29.139.151"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇺🇸 US · Reston · Shadowsocks · 328ms | 101"
+    type: "ss"
+    server: "15.204.247.175"
+    port: 8008
+    cipher: "aes-256-gcm"
+    password: "XKFKl2rULjIp74"
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 329ms | 102"
+    type: "vmess"
+    server: "149.88.23.202"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 329ms | 103"
+    type: "ss"
+    server: "82.38.31.42"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 104"
+    type: "ss"
+    server: "193.29.139.223"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 105"
+    type: "ss"
+    server: "82.38.31.49"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 106"
+    type: "ss"
+    server: "82.38.31.156"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 332ms | 107"
+    type: "vmess"
+    server: "149.88.23.207"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 336ms | 108"
+    type: "ss"
+    server: "82.38.31.149"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 337ms | 109"
+    type: "ss"
+    server: "202.50.253.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 337ms | 110"
+    type: "ss"
+    server: "82.38.31.162"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇲🇾 MY · Kuala Lumpur · Shadowsocks · 338ms | 111"
+    type: "ss"
+    server: "130.94.69.15"
+    port: 7001
+    cipher: "aes-256-gcm"
+    password: "RexnBgU7EV5ADxG"
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 339ms | 112"
+    type: "vmess"
+    server: "149.88.23.202"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 113"
+    type: "ss"
+    server: "82.38.31.18"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 346ms | 114"
+    type: "ss"
+    server: "104.239.12.81"
+    port: 43385
+    cipher: "chacha20-ietf-poly1305"
+    password: "AwW1fV6oDDQKh8r2znmptv59tPgt4eHVTgFaTqgKS2jiSdikJ7GyGCBYehDaK38S8yMgHFdbJqcTmRJSfYS5CFw345bNhFZa"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 348ms | 115"
+    type: "ss"
+    server: "202.50.253.54"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 350ms | 116"
+    type: "ss"
+    server: "193.29.139.197"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 354ms | 117"
+    type: "ss"
+    server: "202.50.253.63"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 355ms | 118"
+    type: "ss"
+    server: "82.38.31.165"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇦🇹 AT · Vienna · Shadowsocks · 356ms | 119"
     type: "ss"
     server: "82.110.60.9"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 253ms | 145"
+  - name: "🇳🇴 NO · Oslo · Shadowsocks · 358ms | 120"
     type: "ss"
-    server: "202.50.253.90"
+    server: "185.213.23.63"
+    port: 990
+    cipher: "chacha20-ietf-poly1305"
+    password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+    udp: true
+  - name: "🇺🇦 UA · Kharkiv · Shadowsocks · 359ms | 121"
+    type: "ss"
+    server: "104.253.216.227"
+    port: 49917
+    cipher: "chacha20-ietf-poly1305"
+    password: "G9ZuLN5DE9qqouTZwYUcvYsDJx8gyL1nCu3N7yRZFjPmYKhzSi8GkpVuexmTHAz2uvcErKkex1K2ceR2GH3L444HRNnN1YpP"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 363ms | 123"
+    type: "ss"
+    server: "82.38.31.16"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 364ms | 124"
+    type: "ss"
+    server: "82.38.31.17"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 370ms | 125"
+    type: "ss"
+    server: "54.36.174.140"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "6heexyz"
+    udp: true
+  - name: "🇰🇷 KR · Seoul · Shadowsocks · 377ms | 126"
+    type: "ss"
+    server: "141.164.45.187"
+    port: 2376
+    cipher: "aes-256-gcm"
+    password: "faBAoD54k87UJG7"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 380ms | 127"
+    type: "ss"
+    server: "82.38.31.170"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 388ms | 128"
+    type: "ss"
+    server: "pl134.vpnbook.com"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "6heexyz"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 400ms | 129"
+    type: "ss"
+    server: "82.38.31.174"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 410ms | 130"
+    type: "ss"
+    server: "202.50.253.27"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 260ms | 146"
+  - name: "🇰🇷 KR · Seoul · Shadowsocks · 410ms | 131"
     type: "ss"
-    server: "202.50.253.81"
-    port: 19999
+    server: "141.164.45.187"
+    port: 7001
     cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    password: "RexnBgU7EV5ADxG"
     udp: true
-  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 260ms | 147"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 412ms | 132"
+    type: "ss"
+    server: "82.38.31.199"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇺🇸 US · Reston · Shadowsocks · 418ms | 133"
+    type: "ss"
+    server: "15.204.247.244"
+    port: 4444
+    cipher: "aes-256-gcm"
+    password: "pKEW8JPByTVTLtM"
+    udp: true
+  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 420ms | 134"
     type: "ss"
     server: "pl140.vpnbook.com"
     port: 443
     cipher: "chacha20-ietf-poly1305"
     password: "6heexyz"
     udp: true
-  - name: "🇫🇷 FR · Paris · Trojan · 263ms | 148"
-    type: "trojan"
-    server: "185.18.250.252"
-    port: 443
-    password: "humanity"
+  - name: "🇳🇱 NL · Haarlem · Vless · 420ms | 135"
+    type: "vless"
+    server: "51.158.206.34"
+    port: 23576
+    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
     udp: true
-    sni: "www.calmlunch.com"
-    network: "ws"
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "🇷🇴 RO · Voluntari · Shadowsocks · 265ms | 149"
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "fuck.rkn"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
+      short-id: "01"
+  - name: "🇦🇱 AL · Tirana · Shadowsocks · 430ms | 136"
     type: "ss"
-    server: "154.46.31.106"
-    port: 443
+    server: "130.49.189.158"
+    port: 43558
     cipher: "chacha20-ietf-poly1305"
-    password: "QFWzCw2uX9B9i6qAYeFBIE"
+    password: "lsu1v/3iNERwDDVwxCu5033KCUqQOoElYQul63kmqJ8="
     udp: true
-  - name: "🇬🇧 GB · Bexley · Vmess · 266ms | 150"
-    type: "vmess"
-    server: "57.129.132.223"
-    port: 80
-    uuid: "a25cbf11-2908-4a1b-a3a8-9a571777dca3"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/vmess/"
-      headers:
-        Host: "google.com"
-  - name: "🇫🇷 FR · Paris · Trojan · 282ms | 151"
-    type: "trojan"
-    server: "45.130.125.160"
-    port: 443
-    password: "humanity"
-    udp: true
-    sni: "www.calmlunch.com"
-    network: "ws"
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "🇵🇱 PL · Warsaw · Shadowsocks · 284ms | 152"
+  - name: "🇵🇱 PL · Warsaw · Shadowsocks · 481ms | 137"
     type: "ss"
     server: "pol.rvpn.app"
     port: 8388
     cipher: "chacha20-ietf-poly1305"
     password: "8z2OB_gvFvpKgjFi8s9Cvw"
     udp: true
-  - name: "🇩🇪 DE · Frankfurt Am Main · Vmess · 309ms | 153"
+  - name: "🇷🇺 RU · Moscow · Shadowsocks · 482ms | 138"
+    type: "ss"
+    server: "185.22.155.121"
+    port: 18443
+    cipher: "aes-256-gcm"
+    password: "NTiHBg64fsY8u8DbGrtypD9gPGSL386p"
+    udp: true
+  - name: "🇽🇽 XX · Vless · 507ms | 139"
+    type: "vless"
+    server: "edge.bookmai.com"
+    port: 443
+    uuid: "b9bfa54d-bc44-4592-a6d6-89a9665d286f"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "mother-earth.fyi"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"
+  - name: "🇺🇸 US · Los Angeles · Vmess · 512ms | 140"
+    type: "vmess"
+    server: "190.93.244.201"
+    port: 443
+    uuid: "5f1d6d32-76b3-4562-8982-df2b7c122708"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "argo-tunnel.111874.xyz"
+    client-fingerprint: "chrome"
+    network: "ws"
+    ws-opts:
+      path: "/5f1d6d32-76b3-4562-8982-df2b7c122708-vm"
+      headers:
+        Host: "argo-tunnel.111874.xyz"
+  - name: "🇩🇪 DE · Frankfurt Am Main · Vmess · 514ms | 141"
     type: "vmess"
     server: "91.107.169.224"
     port: 80
@@ -1196,200 +1076,104 @@ proxies:
       headers:
         Host: "google.whatsapp.snapp.torob.basalam.dns-look.space."
       v2ray-http-upgrade: true
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 317ms | 154"
-    type: "ss"
-    server: "149.22.87.204"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 319ms | 155"
-    type: "ss"
-    server: "149.22.87.241"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Minkler · Vmess · 321ms | 156"
-    type: "vmess"
-    server: "47.88.79.34"
-    port: 443
-    uuid: "9b31490d-190e-4ef1-af0a-7ccab3e7c3b5"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "rib9jxayoqjgn2kw.v.3dns.vip"
-    network: "ws"
-    ws-opts:
-      path: "/ws-vmess"
-      headers:
-        Host: "rib9jxayoqjgn2kw.v.3dns.vip"
-  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 367ms | 157"
-    type: "ss"
-    server: "159.194.251.76"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "MODziWLa9qMuW-4yPa0rfw"
-    udp: true
-  - name: "🇺🇦 UA · Kharkiv · Shadowsocks · 386ms | 158"
+  - name: "🇺🇦 UA · Kharkiv · Shadowsocks · 525ms | 142"
     type: "ss"
     server: "staging.lastilhame.monster"
     port: 49917
     cipher: "chacha20-ietf-poly1305"
     password: "G9ZuLN5DE9qqouTZwYUcvYsDJx8gyL1nCu3N7yRZFjPmYKhzSi8GkpVuexmTHAz2uvcErKkex1K2ceR2GH3L444HRNnN1YpP"
     udp: true
-  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 396ms | 159"
-    type: "ss"
-    server: "msk2.rvpn.app"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "MODziWLa9qMuW-4yPa0rfw"
-    udp: true
-  - name: "🇰🇷 KR · Seoul · Shadowsocks · 397ms | 160"
-    type: "ss"
-    server: "141.164.45.187"
-    port: 8008
-    cipher: "aes-256-gcm"
-    password: "XKFKl2rULjIp74"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 398ms | 161"
-    type: "ss"
-    server: "57.129.113.16"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "NcAXc0UZI6yQJE1p8QmOv8"
-    udp: true
-  - name: "🇰🇷 KR · Seoul · Shadowsocks · 403ms | 162"
-    type: "ss"
-    server: "141.164.45.187"
-    port: 8888
-    cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
-    udp: true
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 405ms | 163"
-    type: "ss"
-    server: "84.247.155.196"
-    port: 443
-    cipher: "aes-256-gcm"
-    password: "3eOFeNssde7PYYMv"
-    udp: true
-  - name: "🇵🇱 PL · Wroclaw · Vmess · 405ms | 164"
+  - name: "🇨🇦 CA · Montreal · Vmess · 551ms | 143"
     type: "vmess"
-    server: "54.37.131.126"
-    port: 80
-    uuid: "6deef9ad-1357-443d-f95c-cb18952c20b3"
+    server: "www.windowsmsidownloads.com"
+    port: 443
+    uuid: "80be2deb-3b27-4775-9bd1-7f2a2b9c261b"
     alterId: 0
     cipher: "auto"
     udp: true
+    tls: true
+    servername: "www.windowsmsidownloads.com"
     network: "ws"
     ws-opts:
-      path: "/"
+      path: "/truth"
       headers:
-        Host: "google.whatsapp.snapp.torob.basalam.hesanid8.ir."
-  - name: "🇭🇰 HK · Hong Kong · Vmess · 405ms | 165"
-    type: "vmess"
-    server: "47.244.120.197"
-    port: 44867
-    uuid: "845e6b08-2919-4290-ade0-5dc7dcea59ca"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/arki?ed=2048"
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 414ms | 166"
-    type: "ss"
-    server: "154.36.158.197"
-    port: 8388
-    cipher: "aes-256-gcm"
-    password: "BeaUf9c0AEWH40Pu"
-    udp: true
-  - name: "🇰🇷 KR · Seoul · Vmess · 425ms | 167"
-    type: "vmess"
-    server: "140.238.2.250"
-    port: 443
-    uuid: "41a7089a-040b-4538-8b8d-010902405bde"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇹🇷 TR · Istanbul · Vmess · 436ms | 168"
-    type: "vmess"
-    server: "free.ertebatgoostar.ir"
-    port: 443
-    uuid: "118b0abc-c8f6-476a-9777-bc73f6e2548b"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 169"
-    type: "ss"
-    server: "102.133.165.160"
-    port: 16233
-    cipher: "chacha20-ietf-poly1305"
-    password: "Xsy8Ox4yOV3xLlpxtjzs3X"
-    udp: true
-  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 170"
+        Host: "www.windowsmsidownloads.com"
+  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 555ms | 144"
     type: "ss"
     server: "102.37.156.224"
     port: 443
     cipher: "chacha20-ietf-poly1305"
     password: "aduB9HGxQHjA2SBMRjkHX6"
     udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 443ms | 171"
+  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 560ms | 145"
     type: "ss"
-    server: "129.150.59.74"
-    port: 14384
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "sUR6Ny8Y6PSvHhl/DUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA="
+    server: "102.133.165.160"
+    port: 16233
+    cipher: "chacha20-ietf-poly1305"
+    password: "Xsy8Ox4yOV3xLlpxtjzs3X"
     udp: true
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 455ms | 172"
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 561ms | 146"
     type: "ss"
-    server: "149.22.87.240"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 456ms | 173"
-    type: "vmess"
-    server: "149.88.23.202"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇰🇷 KR · Seoul · Shadowsocks · 456ms | 174"
-    type: "ss"
-    server: "141.164.45.187"
-    port: 9101
+    server: "202.50.253.90"
+    port: 19999
     cipher: "aes-256-gcm"
-    password: "e4FCWrgpkji3QY"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 457ms | 175"
-    type: "vmess"
-    server: "149.88.23.207"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇰🇷 KR · Chuncheon · Vmess · 463ms | 176"
-    type: "vmess"
-    server: "129.154.61.196"
-    port: 800
-    uuid: "a915b1d6-cf28-4dc8-e4b4-e09c48c37ec0"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 477ms | 177"
+  - name: "🇽🇽 XX · Shadowsocks · 565ms | 147"
     type: "ss"
     server: "20.87.213.148"
     port: 443
     cipher: "chacha20-ietf-poly1305"
     password: "KpIjwx8W2MbSzezl"
     udp: true
-  - name: "🇬🇧 GB · Blackburn · Vmess · 477ms | 178"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 584ms | 148"
     type: "vmess"
-    server: "www.ubuntuupdates.com"
+    server: "8.217.186.60"
+    port: 443
+    uuid: "d237ab38-1974-4b36-94a3-0665ce8587b9"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "euu1yalfmcqvljex.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "euu1yalfmcqvljex.v.3dns.vip"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 587ms | 149"
+    type: "vmess"
+    server: "euu1yAlfmcqvLJEx.v.3dns.vip"
+    port: 443
+    uuid: "d237ab38-1974-4b36-94a3-0665ce8587b9"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "euu1yAlfmcqvLJEx.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "euu1yAlfmcqvLJEx.v.3dns.vip"
+  - name: "🇦🇺 AU · Sydney · Vmess · 595ms | 150"
+    type: "vmess"
+    server: "ww11.levikogjgfdd.ir"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 671ms | 151"
+    type: "ss"
+    server: "54.36.174.134"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "6heexyz"
+    udp: true
+  - name: "🇬🇧 GB · Blackburn · Vmess · 672ms | 152"
+    type: "vmess"
+    server: "172.67.221.77"
     port: 443
     uuid: "83b09a64-1eaf-4c4d-89ed-866d4b6b8115"
     alterId: 0
@@ -1402,262 +1186,51 @@ proxies:
       path: "/truth"
       headers:
         Host: "www.ubuntuupdates.com"
-  - name: "🇽🇽 XX · Vmess · 490ms | 179"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 724ms | 153"
     type: "vmess"
-    server: "www.shopify.com"
+    server: "47.243.194.125"
     port: 443
-    uuid: "6a89a215-22bf-4bd7-9642-b95b2e09583a"
+    uuid: "f23bb427-c1f9-4373-876c-2f43e9f790f3"
     alterId: 0
     cipher: "auto"
     udp: true
     tls: true
-    servername: "guanwang.awsno.com"
+    servername: "nycqg19zkwacpm1b.v.3dns.vip"
     network: "ws"
     ws-opts:
-      path: "/hls/cctv5phd.m3u8"
+      path: "/ws-vmess"
       headers:
-        Host: "guanwang.awsno.com"
-  - name: "🇯🇵 JP · Osaka · Vmess · 493ms | 180"
-    type: "vmess"
-    server: "168.138.43.75"
-    port: 80
-    uuid: "11c3627f-31e8-4695-dfbd-34076e2f1f5d"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/cctv13.m3u8"
-      headers:
-        Host: "None"
-  - name: "🇫🇮 FI · Helsinki · Vmess · 493ms | 181"
-    type: "vmess"
-    server: "bmi2.kolman.com.de"
-    port: 80
-    uuid: "2da85937-93d9-4509-8491-63b1921cf447"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/f9bGbG7ZNy5L0tzXKZNxSX4q"
-      headers:
-        Host: "zeo6-lylp.uti.realoslo-norg.maniyadg7shard.ir"
-      v2ray-http-upgrade: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Vmess · 498ms | 182"
-    type: "vmess"
-    server: "www.gptcloudai.com"
-    port: 443
-    uuid: "e70a5b70-f63c-4450-af8b-94990cdf80c0"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "www.gptcloudai.com"
-    network: "ws"
-    ws-opts:
-      path: "/truth"
-      headers:
-        Host: "www.gptcloudai.com"
-  - name: "🇫🇮 FI · Helsinki · Vmess · 500ms | 183"
-    type: "vmess"
-    server: "cd0.bmi.ir.kolman.com.de"
-    port: 80
-    uuid: "2da85937-93d9-4509-8491-63b1921cf447"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/f9bGbG7ZNy5L0tzXKZNxSX4q"
-      headers:
-        Host: "bmi.ir.draft.co.impossible.com.ir.bmi.ir.com.iran.ir6.ifilmino.com"
-      v2ray-http-upgrade: true
-  - name: "🇫🇷 FR · Wattrelos · Vmess · 504ms | 184"
-    type: "vmess"
-    server: "104.21.15.251"
-    port: 443
-    uuid: "ba1116e2-8c2f-4e3d-8e50-c954360cf970"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "www.windowssearchtools.com"
-    network: "ws"
-    ws-opts:
-      path: "/truth"
-      headers:
-        Host: "www.windowssearchtools.com"
-  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 520ms | 185"
+        Host: "nycqg19zkwacpm1b.v.3dns.vip"
+  - name: "🇽🇽 XX · Shadowsocks · 734ms | 154"
     type: "ss"
-    server: "6.bmi.ir.asopardaz.ir"
-    port: 35176
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "NjcyNmVjMTU1ZWU5NDA5ZDk0ODg1NWM1MzJjZTE3NDk=:MmRhODU5Mzc5M2Q5NDUwOTg0OTE2M2IxOTIxY2Y0NDc="
+    server: "82.38.31.198"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 525ms | 186"
-    type: "ss"
-    server: "84.247.155.196"
-    port: 80
-    cipher: "aes-256-gcm"
-    password: "3eOFeNssde7PYYMv"
-    udp: true
-  - name: "🇫🇷 FR · Wattrelos · Vmess · 543ms | 187"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 774ms | 155"
     type: "vmess"
-    server: "www.windowssearchtools.com"
+    server: "8.218.195.61"
     port: 443
-    uuid: "ba1116e2-8c2f-4e3d-8e50-c954360cf970"
+    uuid: "f23bb427-c1f9-4373-876c-2f43e9f790f3"
     alterId: 0
     cipher: "auto"
     udp: true
     tls: true
-    servername: "www.windowssearchtools.com"
+    servername: "ex1ogt73nzpqkac2.v.3dns.vip"
     network: "ws"
     ws-opts:
-      path: "/truth"
+      path: "/ws-vmess"
       headers:
-        Host: "www.windowssearchtools.com"
-  - name: "🇵🇱 PL · Warsaw · Shadowsocks · 571ms | 188"
+        Host: "ex1ogt73nzpqkac2.v.3dns.vip"
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 777ms | 156"
     type: "ss"
-    server: "51.83.192.80"
-    port: 8388
-    cipher: "aes-256-gcm"
-    password: "itzvpn@321"
-    udp: true
-  - name: "🇫🇷 FR · Gravelines · Vmess · 610ms | 189"
-    type: "vmess"
-    server: "145.239.55.210"
-    port: 80
-    uuid: "067fcd63-b215-4abd-8529-ae929a9971a9"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "google.whatsapp.snapp.torob.basalam.fortresshost.ir."
-  - name: "🇺🇸 US · Chicago · Vmess · 625ms | 190"
-    type: "vmess"
-    server: "cf.0sm.com"
+    server: "8.211.196.252"
     port: 443
-    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
-    alterId: 0
-    cipher: "auto"
+    cipher: "2022-blake3-chacha20-poly1305"
+    password: "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4="
     udp: true
-    tls: true
-    servername: "vmess.lbw666.dpdns.org"
-    network: "ws"
-    ws-opts:
-      path: "/ws?ed=2048"
-      headers:
-        Host: "vmess.lbw666.dpdns.org"
-  - name: "🇩🇪 DE · Düsseldorf · Shadowsocks · 630ms | 191"
-    type: "ss"
-    server: "213.202.208.199"
-    port: 7001
-    cipher: "aes-256-gcm"
-    password: "RexnBgU7EV5ADxG"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 639ms | 192"
-    type: "vmess"
-    server: "ww11.levikogjgfdd.ir"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 656ms | 193"
-    type: "ss"
-    server: "45.207.207.25"
-    port: 443
-    cipher: "aes-256-gcm"
-    password: "gj1+XKulKV0nmw6IThckOkkJh5DSM7+C"
-    udp: true
-  - name: "🇭🇰 HK · Hong Kong · Vmess · 726ms | 194"
-    type: "vmess"
-    server: "156.245.232.239"
-    port: 35043
-    uuid: "b15e481d-17e4-41a8-84c2-23d4f0514d9a"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "156.245.232.239"
-  - name: "🇯🇵 JP · Tokyo · Vmess · 754ms | 195"
-    type: "vmess"
-    server: "162.159.130.234"
-    port: 2083
-    uuid: "ac251237-576f-40c8-a543-554960c958b1"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "or3.sfacg.uk"
-    network: "ws"
-    ws-opts:
-      path: "/or3"
-      headers:
-        Host: "or3.sfacg.uk"
-  - name: "🇩🇪 DE · Düsseldorf · Vmess · 769ms | 196"
-    type: "vmess"
-    server: "de.zhou-yufan.com"
-    port: 443
-    uuid: "f38e591d-d13a-4c30-9763-6be3ad65f3ec"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "de.zhou-yufan.com"
-  - name: "🇯🇵 JP · Tokyo · Vmess · 817ms | 197"
-    type: "vmess"
-    server: "162.159.135.234"
-    port: 2083
-    uuid: "ac251237-576f-40c8-a543-554960c958b1"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "cdn.sfacg.uk"
-    network: "ws"
-    ws-opts:
-      path: "/or3"
-      headers:
-        Host: "or3.sfacg.uk"
-  - name: "🇺🇸 US · St Louis · Vmess · 825ms | 198"
-    type: "vmess"
-    server: "104.21.57.84"
-    port: 8443
-    uuid: "60441548-b68e-43b2-8191-e3b884be4b3c"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "v2ray1.dozapp.xyz"
-    network: "ws"
-    ws-opts:
-      path: "/lMnsZUN4/"
-      headers:
-        Host: "v2ray1.dozapp.xyz"
-  - name: "🇯🇵 JP · Tokyo · Vmess · 843ms | 199"
-    type: "vmess"
-    server: "104.21.0.1"
-    port: 2083
-    uuid: "ac251237-576f-40c8-a543-554960c958b1"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "or3.sfacg.uk"
-    network: "ws"
-    ws-opts:
-      path: "/or3"
-      headers:
-        Host: "or3.sfacg.uk"
-  - name: "🇺🇸 US · St Louis · Vmess · 853ms | 200"
+  - name: "🇺🇸 US · St Louis · Vmess · 832ms | 157"
     type: "vmess"
     server: "172.67.167.78"
     port: 8443
@@ -1672,9 +1245,44 @@ proxies:
       path: "/lMnsZUN4/"
       headers:
         Host: "v2ray1.dozapp.xyz"
-  - name: "🇺🇸 US · St Louis · Vmess · 866ms | 201"
+  - name: "🇫🇷 FR · Gravelines · Vmess · 883ms | 158"
     type: "vmess"
-    server: "172.67.161.144"
+    server: "145.239.55.210"
+    port: 80
+    uuid: "067fcd63-b215-4abd-8529-ae929a9971a9"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "google.whatsapp.snapp.torob.basalam.fortresshost.ir."
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 903ms | 159"
+    type: "ss"
+    server: "202.50.253.72"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt Am Main · Vmess · 909ms | 160"
+    type: "vmess"
+    server: "92.42.203.240"
+    port: 2052
+    uuid: "6a9d4c0b-938a-4b58-911d-e3ca45d17ab5"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 921ms | 161"
+    type: "ss"
+    server: "82.38.31.206"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇺🇸 US · St Louis · Vmess · 930ms | 162"
+    type: "vmess"
+    server: "104.21.57.84"
     port: 8443
     uuid: "60441548-b68e-43b2-8191-e3b884be4b3c"
     alterId: 0
@@ -1687,89 +1295,78 @@ proxies:
       path: "/lMnsZUN4/"
       headers:
         Host: "v2ray1.dozapp.xyz"
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 935ms | 202"
-    type: "ss"
-    server: "51.222.200.165"
-    port: 5000
-    cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
-    udp: true
-  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 1137ms | 203"
-    type: "ss"
-    server: "ams1.rvpn.app"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "x2A6AsyZ-rAllz0wbKHzWA"
-    udp: true
-  - name: "🇺🇸 US · Minkler · Vmess · 1203ms | 204"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 980ms | 163"
     type: "vmess"
-    server: "rib9jxayoqjgn2kw.v.3dns.vip"
+    server: "nycqg19zkwacpm1b.v.3dns.vip"
     port: 443
-    uuid: "9b31490d-190e-4ef1-af0a-7ccab3e7c3b5"
+    uuid: "f23bb427-c1f9-4373-876c-2f43e9f790f3"
     alterId: 0
     cipher: "auto"
     udp: true
     tls: true
-    network: "ws"
-    ws-opts:
-      path: "/ws-vmess"
-  - name: "🇺🇸 US · Minkler · Vmess · 1207ms | 205"
-    type: "vmess"
-    server: "Rib9JXAYoqjGN2KW.v.3dns.vip"
-    port: 443
-    uuid: "9b31490d-190e-4ef1-af0a-7ccab3e7c3b5"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "Rib9JXAYoqjGN2KW.v.3dns.vip"
+    servername: "NYcQg19zkwaCPM1B.v.3dns.vip"
     network: "ws"
     ws-opts:
       path: "/ws-vmess"
       headers:
-        Host: "Rib9JXAYoqjGN2KW.v.3dns.vip"
-  - name: "🇺🇸 US · Reston · Shadowsocks · 1325ms | 206"
-    type: "ss"
-    server: "15.204.246.107"
-    port: 8888
-    cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
-    udp: true
-  - name: "🇯🇵 JP · Tokyo · Vmess · 1409ms | 207"
+        Host: "NYcQg19zkwaCPM1B.v.3dns.vip"
+  - name: "🇺🇸 US · St Louis · Vmess · 1001ms | 164"
     type: "vmess"
-    server: "172.111.146.64"
+    server: "188.114.96.3"
+    port: 8443
+    uuid: "60441548-b68e-43b2-8191-e3b884be4b3c"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "v2ray1.dozapp.xyz"
+    network: "ws"
+    ws-opts:
+      path: "/lMnsZUN4/"
+      headers:
+        Host: "v2ray1.dozapp.xyz"
+  - name: "🇽🇽 XX · Shadowsocks · 1017ms | 165"
+    type: "ss"
+    server: "51.38.71.51"
+    port: 2083
+    cipher: "2022-blake3-aes-256-gcm"
+    password: "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho="
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 1079ms | 166"
+    type: "ss"
+    server: "202.50.253.81"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇵🇱 PL · Wroclaw · Vmess · 1111ms | 167"
+    type: "vmess"
+    server: "54.37.131.126"
     port: 80
-    uuid: "05b8c783-7f59-47f9-9923-06a465679f6a"
+    uuid: "6deef9ad-1357-443d-f95c-cb18952c20b3"
     alterId: 0
     cipher: "auto"
     udp: true
     network: "ws"
     ws-opts:
-      path: "/vmess/"
+      path: "/"
       headers:
-        Host: "172.111.146.64"
-  - name: "🇮🇳 IN · Mumbai · Shadowsocks · 1518ms | 208"
+        Host: "google.whatsapp.snapp.torob.basalam.hesanid8.ir."
+  - name: "🇽🇽 XX · Shadowsocks · 1206ms | 168"
     type: "ss"
-    server: "172.105.39.124"
-    port: 7002
-    cipher: "aes-256-gcm"
-    password: "RexnBgU7EV5ADxG"
+    server: "193.29.139.225"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
     udp: true
-  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 1596ms | 209"
+  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 1238ms | 169"
     type: "ss"
-    server: "178.253.16.185"
+    server: "159.194.251.76"
     port: 8388
     cipher: "chacha20-ietf-poly1305"
-    password: "x2A6AsyZ-rAllz0wbKHzWA"
+    password: "MODziWLa9qMuW-4yPa0rfw"
     udp: true
-  - name: "🇬🇧 GB · City of London · Shadowsocks · 1662ms | 210"
-    type: "ss"
-    server: "94.156.250.148"
-    port: 7001
-    cipher: "aes-256-gcm"
-    password: "RexnBgU7EV5ADxG"
-    udp: true
-  - name: "🇰🇷 KR · Seoul · Vmess · 1899ms | 211"
+  - name: "🇰🇷 KR · Seoul · Vmess · 1275ms | 170"
     type: "vmess"
     server: "nickgus.cc.cd"
     port: 443
@@ -1784,46 +1381,420 @@ proxies:
       path: "/photos"
       headers:
         Host: "nickgus.cc.cd"
-  - name: "🇩🇪 DE · Düsseldorf · Shadowsocks · 2053ms | 212"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 1282ms | 171"
+    type: "vmess"
+    server: "vah4urdzl3jdx5r2.v.3dns.vip"
+    port: 443
+    uuid: "f23bb427c1f94373876c2f43e9f790f3"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "VAH4URdZL3jDX5r2.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "VAH4URdZL3jDX5r2.v.3dns.vip"
+  - name: "🇺🇸 US · Reston · Shadowsocks · 1288ms | 172"
+    type: "ss"
+    server: "15.204.246.107"
+    port: 8888
+    cipher: "aes-256-gcm"
+    password: "Y6R9pAtvxxzmGC"
+    udp: true
+  - name: "🇺🇸 US · St Louis · Vmess · 1289ms | 173"
+    type: "vmess"
+    server: "172.67.161.144"
+    port: 8443
+    uuid: "60441548-b68e-43b2-8191-e3b884be4b3c"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "v2ray1.dozapp.xyz"
+    network: "ws"
+    ws-opts:
+      path: "/lMnsZUN4/"
+      headers:
+        Host: "v2ray1.dozapp.xyz"
+  - name: "🇫🇷 FR · Roubaix · Shadowsocks · 1314ms | 174"
+    type: "ss"
+    server: "51.75.118.5"
+    port: 20222
+    cipher: "aes-256-gcm"
+    password: "lF3nRjH58koKTe-_VtABbg"
+    udp: true
+  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 1321ms | 175"
+    type: "ss"
+    server: "178.253.16.185"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "x2A6AsyZ-rAllz0wbKHzWA"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 1360ms | 176"
+    type: "ss"
+    server: "82.38.31.204"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 1404ms | 177"
+    type: "ss"
+    server: "57.129.113.16"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "NcAXc0UZI6yQJE1p8QmOv8"
+    udp: true
+  - name: "🇺🇸 US · Reston · Shadowsocks · 1405ms | 178"
+    type: "ss"
+    server: "15.204.233.41"
+    port: 8882
+    cipher: "aes-256-gcm"
+    password: "kDWvXYZoTBcGkC4"
+    udp: true
+  - name: "🇺🇸 US · New York · Shadowsocks · 1421ms | 179"
+    type: "ss"
+    server: "198.98.53.130"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "eDfN7SODQceIOmIAbtJJtK"
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Vmess · 1493ms | 180"
+    type: "vmess"
+    server: "www.gptcloudai.com"
+    port: 443
+    uuid: "e70a5b70-f63c-4450-af8b-94990cdf80c0"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "www.gptcloudai.com"
+    network: "ws"
+    ws-opts:
+      path: "/truth"
+      headers:
+        Host: "www.gptcloudai.com"
+  - name: "🇸🇬 SG · Singapore · Vmess · 1501ms | 181"
+    type: "vmess"
+    server: "wjofHsQtEuEywxEq.v.3dns.vip"
+    port: 443
+    uuid: "a9f4de8b-68f1-44b6-b6a2-1db60940503a"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "wjofHsQtEuEywxEq.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "wjofHsQtEuEywxEq.v.3dns.vip"
+  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 1535ms | 182"
+    type: "ss"
+    server: "65.21.52.113"
+    port: 53731
+    cipher: "chacha20-ietf-poly1305"
+    password: "QoYjvkIZ7-bMIYfVI9IzRXUx5A1o3kj7"
+    udp: true
+  - name: "🇿🇦 ZA · Isando · Shadowsocks · 1610ms | 183"
+    type: "ss"
+    server: "139.84.247.164"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "tfAcRikawhNoZAhu"
+    udp: true
+  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 1665ms | 184"
+    type: "ss"
+    server: "45.207.207.25"
+    port: 443
+    cipher: "aes-256-gcm"
+    password: "gj1+XKulKV0nmw6IThckOkkJh5DSM7+C"
+    udp: true
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 1747ms | 185"
+    type: "vmess"
+    server: "47.76.57.83"
+    port: 443
+    uuid: "f23bb427-c1f9-4373-876c-2f43e9f790f3"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "vah4urdzl3jdx5r2.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "vah4urdzl3jdx5r2.v.3dns.vip"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 1765ms | 186"
+    type: "vmess"
+    server: "2b9hwy8ocx7q74nm.v.3dns.vip"
+    port: 443
+    uuid: "f23bb427c1f94373876c2f43e9f790f3"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "2b9hwY8oCx7Q74NM.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "2b9hwY8oCx7Q74NM.v.3dns.vip"
+  - name: "🇸🇬 SG · Singapore · Vmess · 1812ms | 187"
+    type: "vmess"
+    server: "8.219.97.17"
+    port: 443
+    uuid: "a9f4de8b-68f1-44b6-b6a2-1db60940503a"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "wjofhsqteueywxeq.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "wjofhsqteueywxeq.v.3dns.vip"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 1925ms | 188"
+    type: "vmess"
+    server: "qtkdr8jxe3wefxjm.v.3dns.vip"
+    port: 443
+    uuid: "f23bb427-c1f9-4373-876c-2f43e9f790f3"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "qTKDR8jXE3wEFxJM.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "qTKDR8jXE3wEFxJM.v.3dns.vip"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 1960ms | 189"
+    type: "ss"
+    server: "154.36.158.197"
+    port: 8388
+    cipher: "aes-256-gcm"
+    password: "BeaUf9c0AEWH40Pu"
+    udp: true
+  - name: "🇺🇸 US · St Louis · Vmess · 1978ms | 190"
+    type: "vmess"
+    server: "chatgpt.com"
+    port: 8443
+    uuid: "60441548-b68e-43b2-8191-e3b884be4b3c"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "v2ray1.dozapp.xyz"
+    network: "ws"
+    ws-opts:
+      path: "/lMnsZUN4/"
+      headers:
+        Host: "v2ray1.dozapp.xyz"
+  - name: "🇺🇸 US · St Louis · Vmess · 2166ms | 191"
+    type: "vmess"
+    server: "104.17.77.77"
+    port: 8443
+    uuid: "60441548-b68e-43b2-8191-e3b884be4b3c"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "v2ray1.dozapp.xyz"
+    network: "ws"
+    ws-opts:
+      path: "/lMnsZUN4/"
+      headers:
+        Host: "v2ray1.dozapp.xyz"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 2215ms | 192"
+    type: "vmess"
+    server: "8.217.254.88"
+    port: 443
+    uuid: "f23bb427c1f94373876c2f43e9f790f3"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "2b9hwy8ocx7q74nm.v.3dns.vip"
+    network: "ws"
+    ws-opts:
+      path: "/ws-vmess"
+      headers:
+        Host: "2b9hwY8oCx7Q74NM.v.3dns.vip"
+  - name: "🇽🇽 XX · Vmess · 2227ms | 193"
+    type: "vmess"
+    server: "104.21.15.251"
+    port: 443
+    uuid: "ba1116e2-8c2f-4e3d-8e50-c954360cf970"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "www.windowssearchtools.com"
+    network: "ws"
+    ws-opts:
+      path: "/truth"
+      headers:
+        Host: "www.windowssearchtools.com"
+  - name: "🇸🇬 SG · Singapore · Vless · 2229ms | 194"
+    type: "vless"
+    server: "46.137.202.178"
+    port: 12512
+    uuid: "2a6c617d-98e4-49c3-95ab-76f02fcf0150"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "www.intel.com"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA"
+      short-id: "e692a8250d2e2fd0"
+  - name: "🇮🇳 IN · Mumbai · Shadowsocks · 2242ms | 195"
+    type: "ss"
+    server: "172.105.39.124"
+    port: 7002
+    cipher: "aes-256-gcm"
+    password: "RexnBgU7EV5ADxG"
+    udp: true
+  - name: "🇺🇸 US · Chicago · Vmess · 2333ms | 196"
+    type: "vmess"
+    server: "104.17.147.222"
+    port: 80
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    network: "ws"
+    ws-opts:
+      path: "/ws?ed=2048"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
+  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 2568ms | 197"
+    type: "ss"
+    server: "msk2.rvpn.app"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "MODziWLa9qMuW-4yPa0rfw"
+    udp: true
+  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 2575ms | 198"
+    type: "ss"
+    server: "ams1.rvpn.app"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "x2A6AsyZ-rAllz0wbKHzWA"
+    udp: true
+  - name: "🇺🇸 US · Chicago · Vmess · 2595ms | 199"
+    type: "vmess"
+    server: "cf.0sm.com"
+    port: 443
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "vmess.lbw666.dpdns.org"
+    client-fingerprint: "chrome"
+    network: "ws"
+    ws-opts:
+      path: "/ws?ed=2048"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
+  - name: "🇦🇺 AU · Sydney · Vmess · 2650ms | 200"
+    type: "vmess"
+    server: "67.220.85.46"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇷🇴 RO · Bucharest · Shadowsocks · 2707ms | 201"
+    type: "ss"
+    server: "194.68.44.42"
+    port: 64546
+    cipher: "chacha20-ietf-poly1305"
+    password: "U83u9OGpvSatIUW7LsWffr"
+    udp: true
+  - name: "🇺🇸 US · Chicago · Vmess · 2812ms | 202"
+    type: "vmess"
+    server: "172.66.203.67"
+    port: 443
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "vmess.lbw666.dpdns.org"
+    client-fingerprint: "chrome"
+    network: "ws"
+    ws-opts:
+      path: "/ws?ed=2048"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
+  - name: "🇺🇸 US · Chicago · Vmess · 2819ms | 203"
+    type: "vmess"
+    server: "104.21.7.133"
+    port: 80
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    network: "ws"
+    ws-opts:
+      path: "/ws"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
+  - name: "🇺🇸 US · Chicago · Vmess · 2878ms | 204"
+    type: "vmess"
+    server: "172.67.187.145"
+    port: 80
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    network: "ws"
+    ws-opts:
+      path: "/ws"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
+  - name: "🇺🇸 US · Chicago · Vmess · 2881ms | 205"
+    type: "vmess"
+    server: "172.66.0.1"
+    port: 443
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "vmess.lbw666.dpdns.org"
+    network: "ws"
+    ws-opts:
+      path: "/ws"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
+  - name: "🇩🇪 DE · Düsseldorf · Shadowsocks · 2963ms | 206"
     type: "ss"
     server: "213.202.208.199"
     port: 5000
     cipher: "aes-256-gcm"
     password: "Y6R9pAtvxxzmGC"
     udp: true
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 2098ms | 213"
-    type: "ss"
-    server: "51.222.155.32"
-    port: 5003
-    cipher: "aes-256-gcm"
-    password: "g5MeD6Ft3CWlJId"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 2423ms | 214"
+  - name: "🇺🇸 US · Chicago · Vmess · 2994ms | 207"
     type: "vmess"
-    server: "169.197.142.22"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    server: "104.27.0.1"
+    port: 443
+    uuid: "0cf6d970-3f1d-4aae-a989-92a8f76ae3db"
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Washington · Shadowsocks · 2795ms | 215"
-    type: "ss"
-    server: "130.94.16.109"
-    port: 8388
-    cipher: "2022-blake3-aes-128-gcm"
-    password: "CNongHrmKObCxalqw4w0Hw=="
-    udp: true
-  - name: "🇮🇳 IN · Mumbai · Vmess · 2813ms | 216"
-    type: "vmess"
-    server: "152.67.8.205"
-    port: 80
-    uuid: "9db4c708-aef8-4359-821b-38e47990be0d"
-    alterId: 0
-    cipher: "auto"
-    udp: true
+    tls: true
+    servername: "vmess.lbw666.dpdns.org"
     network: "ws"
     ws-opts:
-      path: "/"
+      path: "/ws"
+      headers:
+        Host: "vmess.lbw666.dpdns.org"
 proxy-groups:
   - name: "🚀 Proxy"
     type: "select"
@@ -1832,244 +1803,237 @@ proxy-groups:
       - "🔯 Fallback"
       - "🇳🇱 The Netherlands"
       - "🇺🇸 United States"
-      - "🇮🇹 Italy"
-      - "🇯🇵 Japan"
-      - "🇦🇺 Australia"
-      - "🇨🇦 Canada"
       - "🏁 Unknown"
+      - "🇦🇺 Australia"
+      - "🇭🇰 Hong Kong"
+      - "🇮🇹 Italy"
+      - "🇨🇦 Canada"
       - "🇩🇪 Germany"
       - "🇵🇱 Poland"
-      - "🇬🇧 United Kingdom"
+      - "🇯🇵 Japan"
+      - "🇸🇬 Singapore"
+      - "🇫🇷 France"
       - "🇰🇷 South Korea"
       - "🇫🇮 Finland"
-      - "🇫🇷 France"
-      - "🇸🇪 Sweden"
-      - "🇭🇰 Hong Kong"
-      - "🇮🇳 India"
-      - "🇺🇦 Ukraine"
+      - "🇬🇧 United Kingdom"
       - "🇿🇦 South Africa"
+      - "🇸🇪 Sweden"
+      - "🇺🇦 Ukraine"
+      - "🇦🇱 Albania"
       - "🇦🇹 Austria"
       - "🇨🇭 Switzerland"
-      - "🇮🇪 Ireland"
+      - "🇮🇳 India"
+      - "🇲🇾 Malaysia"
+      - "🇳🇴 Norway"
       - "🇷🇴 Romania"
-      - "🇸🇬 Singapore"
-      - "🇹🇷 Türkiye"
+      - "🇷🇺 Russia"
       - "DIRECT"
-      - "🇺🇸 US · Reston · Shadowsocks · 16ms | 001"
-      - "🇺🇸 US · New York · Shadowsocks · 19ms | 002"
-      - "🇺🇸 US · New York · Shadowsocks · 20ms | 003"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 004"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 005"
-      - "🇺🇸 US · New York · Shadowsocks · 23ms | 006"
-      - "🇺🇸 US · New York · Shadowsocks · 26ms | 007"
-      - "🇺🇸 US · Washington · Shadowsocks · 34ms | 008"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 009"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 010"
-      - "🇺🇸 US · Newark · Shadowsocks · 36ms | 011"
-      - "🇺🇸 US · New York · Shadowsocks · 37ms | 012"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 38ms | 013"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 014"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 015"
-      - "🇺🇸 US · Elk Grove Village · Shadowsocks · 40ms | 016"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 47ms | 017"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 49ms | 018"
-      - "🇦🇺 AU · Sydney · Vmess · 49ms | 019"
-      - "🇺🇸 US · Ashburn · Shadowsocks · 51ms | 020"
-      - "🇦🇺 AU · Sydney · Vmess · 51ms | 021"
-      - "🇺🇸 US · New York · Shadowsocks · 54ms | 022"
-      - "🇺🇸 US · Miami · Shadowsocks · 58ms | 023"
-      - "🇺🇸 US · Chicago · Trojan · 68ms | 024"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 72ms | 025"
-      - "🇺🇸 US · Dallas · Shadowsocks · 73ms | 026"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 74ms | 027"
-      - "🇺🇸 US · Dallas · Shadowsocks · 76ms | 028"
-      - "🇺🇸 US · Dallas · Shadowsocks · 77ms | 029"
-      - "🇽🇽 XX · Shadowsocks · 81ms | 030"
-      - "🇺🇸 US · Miami · Shadowsocks · 89ms | 031"
-      - "🇦🇺 AU · Sydney · Vmess · 90ms | 032"
-      - "🇺🇸 US · Washington · Vmess · 94ms | 033"
-      - "🇺🇸 US · Chicago · Vmess · 107ms | 034"
-      - "🇺🇸 US · Chicago · Vmess · 108ms | 035"
-      - "🇺🇸 US · Chicago · Vmess · 111ms | 036"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 115ms | 037"
-      - "🇺🇸 US · Chicago · Vmess · 119ms | 038"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 121ms | 039"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 123ms | 040"
-      - "🇦🇺 AU · Sydney · Vmess · 132ms | 041"
-      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 042"
-      - "🇽🇽 XX · Vmess · 135ms | 043"
-      - "🇮🇪 IE · Dublin · Vmess · 138ms | 044"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 145ms | 045"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 146ms | 046"
-      - "🇨🇦 CA · Montreal · Vmess · 150ms | 047"
-      - "🇨🇦 CA · Vancouver · Shadowsocks · 151ms | 048"
-      - "🇬🇧 GB · London · Shadowsocks · 159ms | 049"
-      - "🇽🇽 XX · Shadowsocks · 167ms | 050"
-      - "🇺🇸 US · Santa Clara · Vmess · 169ms | 051"
-      - "🇺🇸 US · Phoenix · Vmess · 171ms | 052"
-      - "🇽🇽 XX · Shadowsocks · 172ms | 053"
-      - "🇬🇧 GB · London · Shadowsocks · 176ms | 054"
-      - "🇺🇸 US · New York · Vless · 177ms | 055"
-      - "🇺🇸 US · Reston · Shadowsocks · 177ms | 056"
-      - "🇩🇪 DE · Frankfurt · Shadowsocks · 183ms | 057"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 183ms | 058"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 185ms | 059"
-      - "🇬🇧 GB · Stretford · Shadowsocks · 187ms | 060"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 189ms | 061"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 062"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 063"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 064"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 065"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 066"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 067"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 068"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 193ms | 069"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 070"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 071"
-      - "🇺🇸 US · Reston · Shadowsocks · 193ms | 072"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 194ms | 073"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 074"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 075"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 076"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 077"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 078"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 079"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 080"
-      - "🇽🇽 XX · Shadowsocks · 197ms | 081"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 082"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 083"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 084"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 085"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 087"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 088"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 089"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 090"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 199ms | 091"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 092"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 093"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 094"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 095"
-      - "🇸🇪 SE · Spånga · Shadowsocks · 200ms | 096"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 097"
-      - "🇮🇹 IT · Milan · Shadowsocks · 201ms | 098"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 099"
-      - "🇨🇭 CH · Zurich · Shadowsocks · 201ms | 100"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 101"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 102"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 103"
-      - "🇽🇽 XX · Shadowsocks · 202ms | 104"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 105"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 106"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 107"
-      - "🇽🇽 XX · Shadowsocks · 203ms | 108"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 109"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 110"
-      - "🇽🇽 XX · Shadowsocks · 204ms | 111"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 112"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 113"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 114"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 115"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 116"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 117"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 118"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 119"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 120"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 121"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 122"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 123"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 124"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 125"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 126"
-      - "🇮🇹 IT · Milan · Shadowsocks · 207ms | 127"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 128"
-      - "🇮🇹 IT · Milan · Shadowsocks · 208ms | 129"
-      - "🇮🇹 IT · Milan · Shadowsocks · 209ms | 130"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 209ms | 131"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 132"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 210ms | 133"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 134"
-      - "🇺🇸 US · Reston · Shadowsocks · 210ms | 135"
-      - "🇮🇹 IT · Milan · Shadowsocks · 211ms | 136"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 213ms | 137"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 214ms | 138"
-      - "🇮🇹 IT · Milan · Shadowsocks · 215ms | 139"
-      - "🇮🇹 IT · Milan · Shadowsocks · 217ms | 140"
-      - "🇮🇹 IT · Milan · Shadowsocks · 222ms | 141"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 225ms | 142"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 227ms | 143"
-      - "🇦🇹 AT · Vienna · Shadowsocks · 231ms | 144"
-      - "🇮🇹 IT · Milan · Shadowsocks · 253ms | 145"
-      - "🇮🇹 IT · Milan · Shadowsocks · 260ms | 146"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 260ms | 147"
-      - "🇫🇷 FR · Paris · Trojan · 263ms | 148"
-      - "🇷🇴 RO · Voluntari · Shadowsocks · 265ms | 149"
-      - "🇬🇧 GB · Bexley · Vmess · 266ms | 150"
-      - "🇫🇷 FR · Paris · Trojan · 282ms | 151"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 284ms | 152"
-      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 309ms | 153"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 317ms | 154"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 319ms | 155"
-      - "🇺🇸 US · Minkler · Vmess · 321ms | 156"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 367ms | 157"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 386ms | 158"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 396ms | 159"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 397ms | 160"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 398ms | 161"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 403ms | 162"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 405ms | 163"
-      - "🇵🇱 PL · Wroclaw · Vmess · 405ms | 164"
-      - "🇭🇰 HK · Hong Kong · Vmess · 405ms | 165"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 414ms | 166"
-      - "🇰🇷 KR · Seoul · Vmess · 425ms | 167"
-      - "🇹🇷 TR · Istanbul · Vmess · 436ms | 168"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 169"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 170"
-      - "🇸🇬 SG · Singapore · Shadowsocks · 443ms | 171"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 455ms | 172"
-      - "🇦🇺 AU · Sydney · Vmess · 456ms | 173"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 456ms | 174"
-      - "🇦🇺 AU · Sydney · Vmess · 457ms | 175"
-      - "🇰🇷 KR · Chuncheon · Vmess · 463ms | 176"
-      - "🇽🇽 XX · Shadowsocks · 477ms | 177"
-      - "🇬🇧 GB · Blackburn · Vmess · 477ms | 178"
-      - "🇽🇽 XX · Vmess · 490ms | 179"
-      - "🇯🇵 JP · Osaka · Vmess · 493ms | 180"
-      - "🇫🇮 FI · Helsinki · Vmess · 493ms | 181"
-      - "🇩🇪 DE · Frankfurt am Main · Vmess · 498ms | 182"
-      - "🇫🇮 FI · Helsinki · Vmess · 500ms | 183"
-      - "🇫🇷 FR · Wattrelos · Vmess · 504ms | 184"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 520ms | 185"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 525ms | 186"
-      - "🇫🇷 FR · Wattrelos · Vmess · 543ms | 187"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 571ms | 188"
-      - "🇫🇷 FR · Gravelines · Vmess · 610ms | 189"
-      - "🇺🇸 US · Chicago · Vmess · 625ms | 190"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 630ms | 191"
-      - "🇦🇺 AU · Sydney · Vmess · 639ms | 192"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 656ms | 193"
-      - "🇭🇰 HK · Hong Kong · Vmess · 726ms | 194"
-      - "🇯🇵 JP · Tokyo · Vmess · 754ms | 195"
-      - "🇩🇪 DE · Düsseldorf · Vmess · 769ms | 196"
-      - "🇯🇵 JP · Tokyo · Vmess · 817ms | 197"
-      - "🇺🇸 US · St Louis · Vmess · 825ms | 198"
-      - "🇯🇵 JP · Tokyo · Vmess · 843ms | 199"
-      - "🇺🇸 US · St Louis · Vmess · 853ms | 200"
-      - "🇺🇸 US · St Louis · Vmess · 866ms | 201"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 935ms | 202"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1137ms | 203"
-      - "🇺🇸 US · Minkler · Vmess · 1203ms | 204"
-      - "🇺🇸 US · Minkler · Vmess · 1207ms | 205"
-      - "🇺🇸 US · Reston · Shadowsocks · 1325ms | 206"
-      - "🇯🇵 JP · Tokyo · Vmess · 1409ms | 207"
-      - "🇮🇳 IN · Mumbai · Shadowsocks · 1518ms | 208"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1596ms | 209"
-      - "🇬🇧 GB · City of London · Shadowsocks · 1662ms | 210"
-      - "🇰🇷 KR · Seoul · Vmess · 1899ms | 211"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2053ms | 212"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 2098ms | 213"
-      - "🇦🇺 AU · Sydney · Vmess · 2423ms | 214"
-      - "🇺🇸 US · Washington · Shadowsocks · 2795ms | 215"
-      - "🇮🇳 IN · Mumbai · Vmess · 2813ms | 216"
+      - "🇨🇦 CA · Vancouver · Shadowsocks · 25ms | 001"
+      - "🇺🇸 US · Kent · Vless · 46ms | 002"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 65ms | 003"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 84ms | 004"
+      - "🇺🇸 US · Dallas · Shadowsocks · 109ms | 005"
+      - "🇺🇸 US · Dallas · Shadowsocks · 110ms | 006"
+      - "🇺🇸 US · Denver · Trojan · 113ms | 007"
+      - "🇺🇸 US · Dallas · Shadowsocks · 116ms | 008"
+      - "🇺🇸 US · Dallas · Shadowsocks · 117ms | 009"
+      - "🇺🇸 US · Santa Clara · Vmess · 118ms | 010"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 011"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 012"
+      - "🇺🇸 US · Phoenix · Vmess · 127ms | 013"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 014"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 015"
+      - "🇺🇸 US · New York · Shadowsocks · 131ms | 016"
+      - "🇺🇸 US · New York · Shadowsocks · 133ms | 017"
+      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 018"
+      - "🇺🇸 US · Newark · Shadowsocks · 134ms | 019"
+      - "🇺🇸 US · New York · Shadowsocks · 137ms | 020"
+      - "🇺🇸 US · Ashburn · Shadowsocks · 147ms | 021"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 022"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 023"
+      - "🇺🇸 US · Washington · Shadowsocks · 149ms | 024"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 150ms | 025"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 152ms | 026"
+      - "🇦🇺 AU · Sydney · Vmess · 155ms | 027"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 157ms | 028"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 160ms | 029"
+      - "🇦🇺 AU · Sydney · Vmess · 169ms | 030"
+      - "🇺🇸 US · Reston · Shadowsocks · 185ms | 031"
+      - "🇦🇺 AU · Sydney · Vmess · 193ms | 032"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 198ms | 033"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 199ms | 034"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 200ms | 035"
+      - "🇦🇺 AU · Sydney · Vmess · 202ms | 036"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 202ms | 037"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 206ms | 038"
+      - "🇦🇺 AU · Sydney · Vmess · 259ms | 039"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 281ms | 040"
+      - "🇬🇧 GB · London · Shadowsocks · 294ms | 041"
+      - "🇩🇪 DE · Frankfurt · Shadowsocks · 297ms | 042"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 297ms | 043"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 044"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 301ms | 045"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 046"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 047"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 048"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 049"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 304ms | 050"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 051"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 052"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 053"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 054"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 055"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 056"
+      - "🇬🇧 GB · Stretford · Shadowsocks · 311ms | 057"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 058"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 059"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 060"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 313ms | 061"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 062"
+      - "🇨🇭 CH · Zurich · Shadowsocks · 313ms | 063"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 064"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 065"
+      - "🇮🇹 IT · Milan · Shadowsocks · 314ms | 066"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 067"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 068"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 069"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 070"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 071"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 072"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 073"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 074"
+      - "🇮🇹 IT · Milan · Shadowsocks · 317ms | 075"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 076"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 318ms | 077"
+      - "🇨🇦 CA · Montreal · Vmess · 319ms | 078"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 079"
+      - "🇽🇽 XX · Shadowsocks · 319ms | 080"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 081"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 319ms | 082"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 083"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 084"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 085"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 086"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 087"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 322ms | 088"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 089"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 324ms | 090"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 091"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 092"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 325ms | 093"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 326ms | 094"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 095"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 096"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 097"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 098"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 099"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 100"
+      - "🇺🇸 US · Reston · Shadowsocks · 328ms | 101"
+      - "🇦🇺 AU · Sydney · Vmess · 329ms | 102"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 329ms | 103"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 104"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 105"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 106"
+      - "🇦🇺 AU · Sydney · Vmess · 332ms | 107"
+      - "🇽🇽 XX · Shadowsocks · 336ms | 108"
+      - "🇮🇹 IT · Milan · Shadowsocks · 337ms | 109"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 337ms | 110"
+      - "🇲🇾 MY · Kuala Lumpur · Shadowsocks · 338ms | 111"
+      - "🇦🇺 AU · Sydney · Vmess · 339ms | 112"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 113"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 346ms | 114"
+      - "🇮🇹 IT · Milan · Shadowsocks · 348ms | 115"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 350ms | 116"
+      - "🇮🇹 IT · Milan · Shadowsocks · 354ms | 117"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 355ms | 118"
+      - "🇦🇹 AT · Vienna · Shadowsocks · 356ms | 119"
+      - "🇳🇴 NO · Oslo · Shadowsocks · 358ms | 120"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 359ms | 121"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 363ms | 123"
+      - "🇽🇽 XX · Shadowsocks · 364ms | 124"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 370ms | 125"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 377ms | 126"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 380ms | 127"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 388ms | 128"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 400ms | 129"
+      - "🇮🇹 IT · Milan · Shadowsocks · 410ms | 130"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 410ms | 131"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 412ms | 132"
+      - "🇺🇸 US · Reston · Shadowsocks · 418ms | 133"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 420ms | 134"
+      - "🇳🇱 NL · Haarlem · Vless · 420ms | 135"
+      - "🇦🇱 AL · Tirana · Shadowsocks · 430ms | 136"
+      - "🇵🇱 PL · Warsaw · Shadowsocks · 481ms | 137"
+      - "🇷🇺 RU · Moscow · Shadowsocks · 482ms | 138"
+      - "🇽🇽 XX · Vless · 507ms | 139"
+      - "🇺🇸 US · Los Angeles · Vmess · 512ms | 140"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 514ms | 141"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 525ms | 142"
+      - "🇨🇦 CA · Montreal · Vmess · 551ms | 143"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 555ms | 144"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 560ms | 145"
+      - "🇮🇹 IT · Milan · Shadowsocks · 561ms | 146"
+      - "🇽🇽 XX · Shadowsocks · 565ms | 147"
+      - "🇭🇰 HK · Hong Kong · Vmess · 584ms | 148"
+      - "🇭🇰 HK · Hong Kong · Vmess · 587ms | 149"
+      - "🇦🇺 AU · Sydney · Vmess · 595ms | 150"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 671ms | 151"
+      - "🇬🇧 GB · Blackburn · Vmess · 672ms | 152"
+      - "🇭🇰 HK · Hong Kong · Vmess · 724ms | 153"
+      - "🇽🇽 XX · Shadowsocks · 734ms | 154"
+      - "🇭🇰 HK · Hong Kong · Vmess · 774ms | 155"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 777ms | 156"
+      - "🇺🇸 US · St Louis · Vmess · 832ms | 157"
+      - "🇫🇷 FR · Gravelines · Vmess · 883ms | 158"
+      - "🇮🇹 IT · Milan · Shadowsocks · 903ms | 159"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 909ms | 160"
+      - "🇽🇽 XX · Shadowsocks · 921ms | 161"
+      - "🇺🇸 US · St Louis · Vmess · 930ms | 162"
+      - "🇭🇰 HK · Hong Kong · Vmess · 980ms | 163"
+      - "🇺🇸 US · St Louis · Vmess · 1001ms | 164"
+      - "🇽🇽 XX · Shadowsocks · 1017ms | 165"
+      - "🇮🇹 IT · Milan · Shadowsocks · 1079ms | 166"
+      - "🇵🇱 PL · Wroclaw · Vmess · 1111ms | 167"
+      - "🇽🇽 XX · Shadowsocks · 1206ms | 168"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 1238ms | 169"
+      - "🇰🇷 KR · Seoul · Vmess · 1275ms | 170"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1282ms | 171"
+      - "🇺🇸 US · Reston · Shadowsocks · 1288ms | 172"
+      - "🇺🇸 US · St Louis · Vmess · 1289ms | 173"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 1314ms | 174"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1321ms | 175"
+      - "🇽🇽 XX · Shadowsocks · 1360ms | 176"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 1404ms | 177"
+      - "🇺🇸 US · Reston · Shadowsocks · 1405ms | 178"
+      - "🇺🇸 US · New York · Shadowsocks · 1421ms | 179"
+      - "🇩🇪 DE · Frankfurt am Main · Vmess · 1493ms | 180"
+      - "🇸🇬 SG · Singapore · Vmess · 1501ms | 181"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1535ms | 182"
+      - "🇿🇦 ZA · Isando · Shadowsocks · 1610ms | 183"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 1665ms | 184"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1747ms | 185"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1765ms | 186"
+      - "🇸🇬 SG · Singapore · Vmess · 1812ms | 187"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1925ms | 188"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 1960ms | 189"
+      - "🇺🇸 US · St Louis · Vmess · 1978ms | 190"
+      - "🇺🇸 US · St Louis · Vmess · 2166ms | 191"
+      - "🇭🇰 HK · Hong Kong · Vmess · 2215ms | 192"
+      - "🇽🇽 XX · Vmess · 2227ms | 193"
+      - "🇸🇬 SG · Singapore · Vless · 2229ms | 194"
+      - "🇮🇳 IN · Mumbai · Shadowsocks · 2242ms | 195"
+      - "🇺🇸 US · Chicago · Vmess · 2333ms | 196"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 2568ms | 197"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 2575ms | 198"
+      - "🇺🇸 US · Chicago · Vmess · 2595ms | 199"
+      - "🇦🇺 AU · Sydney · Vmess · 2650ms | 200"
+      - "🇷🇴 RO · Bucharest · Shadowsocks · 2707ms | 201"
+      - "🇺🇸 US · Chicago · Vmess · 2812ms | 202"
+      - "🇺🇸 US · Chicago · Vmess · 2819ms | 203"
+      - "🇺🇸 US · Chicago · Vmess · 2878ms | 204"
+      - "🇺🇸 US · Chicago · Vmess · 2881ms | 205"
+      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2963ms | 206"
+      - "🇺🇸 US · Chicago · Vmess · 2994ms | 207"
   - name: "♻️ Auto"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
@@ -2077,441 +2041,423 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "🇺🇸 US · Reston · Shadowsocks · 16ms | 001"
-      - "🇺🇸 US · New York · Shadowsocks · 19ms | 002"
-      - "🇺🇸 US · New York · Shadowsocks · 20ms | 003"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 004"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 005"
-      - "🇺🇸 US · New York · Shadowsocks · 23ms | 006"
-      - "🇺🇸 US · New York · Shadowsocks · 26ms | 007"
-      - "🇺🇸 US · Washington · Shadowsocks · 34ms | 008"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 009"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 010"
-      - "🇺🇸 US · Newark · Shadowsocks · 36ms | 011"
-      - "🇺🇸 US · New York · Shadowsocks · 37ms | 012"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 38ms | 013"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 014"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 015"
-      - "🇺🇸 US · Elk Grove Village · Shadowsocks · 40ms | 016"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 47ms | 017"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 49ms | 018"
-      - "🇦🇺 AU · Sydney · Vmess · 49ms | 019"
-      - "🇺🇸 US · Ashburn · Shadowsocks · 51ms | 020"
-      - "🇦🇺 AU · Sydney · Vmess · 51ms | 021"
-      - "🇺🇸 US · New York · Shadowsocks · 54ms | 022"
-      - "🇺🇸 US · Miami · Shadowsocks · 58ms | 023"
-      - "🇺🇸 US · Chicago · Trojan · 68ms | 024"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 72ms | 025"
-      - "🇺🇸 US · Dallas · Shadowsocks · 73ms | 026"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 74ms | 027"
-      - "🇺🇸 US · Dallas · Shadowsocks · 76ms | 028"
-      - "🇺🇸 US · Dallas · Shadowsocks · 77ms | 029"
-      - "🇽🇽 XX · Shadowsocks · 81ms | 030"
-      - "🇺🇸 US · Miami · Shadowsocks · 89ms | 031"
-      - "🇦🇺 AU · Sydney · Vmess · 90ms | 032"
-      - "🇺🇸 US · Washington · Vmess · 94ms | 033"
-      - "🇺🇸 US · Chicago · Vmess · 107ms | 034"
-      - "🇺🇸 US · Chicago · Vmess · 108ms | 035"
-      - "🇺🇸 US · Chicago · Vmess · 111ms | 036"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 115ms | 037"
-      - "🇺🇸 US · Chicago · Vmess · 119ms | 038"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 121ms | 039"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 123ms | 040"
-      - "🇦🇺 AU · Sydney · Vmess · 132ms | 041"
-      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 042"
-      - "🇽🇽 XX · Vmess · 135ms | 043"
-      - "🇮🇪 IE · Dublin · Vmess · 138ms | 044"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 145ms | 045"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 146ms | 046"
-      - "🇨🇦 CA · Montreal · Vmess · 150ms | 047"
-      - "🇨🇦 CA · Vancouver · Shadowsocks · 151ms | 048"
-      - "🇬🇧 GB · London · Shadowsocks · 159ms | 049"
-      - "🇽🇽 XX · Shadowsocks · 167ms | 050"
-      - "🇺🇸 US · Santa Clara · Vmess · 169ms | 051"
-      - "🇺🇸 US · Phoenix · Vmess · 171ms | 052"
-      - "🇽🇽 XX · Shadowsocks · 172ms | 053"
-      - "🇬🇧 GB · London · Shadowsocks · 176ms | 054"
-      - "🇺🇸 US · New York · Vless · 177ms | 055"
-      - "🇺🇸 US · Reston · Shadowsocks · 177ms | 056"
-      - "🇩🇪 DE · Frankfurt · Shadowsocks · 183ms | 057"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 183ms | 058"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 185ms | 059"
-      - "🇬🇧 GB · Stretford · Shadowsocks · 187ms | 060"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 189ms | 061"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 062"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 063"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 064"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 065"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 066"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 067"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 068"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 193ms | 069"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 070"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 071"
-      - "🇺🇸 US · Reston · Shadowsocks · 193ms | 072"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 194ms | 073"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 074"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 075"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 076"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 077"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 078"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 079"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 080"
-      - "🇽🇽 XX · Shadowsocks · 197ms | 081"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 082"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 083"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 084"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 085"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 087"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 088"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 089"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 090"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 199ms | 091"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 092"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 093"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 094"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 095"
-      - "🇸🇪 SE · Spånga · Shadowsocks · 200ms | 096"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 097"
-      - "🇮🇹 IT · Milan · Shadowsocks · 201ms | 098"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 099"
-      - "🇨🇭 CH · Zurich · Shadowsocks · 201ms | 100"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 101"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 102"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 103"
-      - "🇽🇽 XX · Shadowsocks · 202ms | 104"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 105"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 106"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 107"
-      - "🇽🇽 XX · Shadowsocks · 203ms | 108"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 109"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 110"
-      - "🇽🇽 XX · Shadowsocks · 204ms | 111"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 112"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 113"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 114"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 115"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 116"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 117"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 118"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 119"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 120"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 121"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 122"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 123"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 124"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 125"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 126"
-      - "🇮🇹 IT · Milan · Shadowsocks · 207ms | 127"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 128"
-      - "🇮🇹 IT · Milan · Shadowsocks · 208ms | 129"
-      - "🇮🇹 IT · Milan · Shadowsocks · 209ms | 130"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 209ms | 131"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 132"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 210ms | 133"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 134"
-      - "🇺🇸 US · Reston · Shadowsocks · 210ms | 135"
-      - "🇮🇹 IT · Milan · Shadowsocks · 211ms | 136"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 213ms | 137"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 214ms | 138"
-      - "🇮🇹 IT · Milan · Shadowsocks · 215ms | 139"
-      - "🇮🇹 IT · Milan · Shadowsocks · 217ms | 140"
-      - "🇮🇹 IT · Milan · Shadowsocks · 222ms | 141"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 225ms | 142"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 227ms | 143"
-      - "🇦🇹 AT · Vienna · Shadowsocks · 231ms | 144"
-      - "🇮🇹 IT · Milan · Shadowsocks · 253ms | 145"
-      - "🇮🇹 IT · Milan · Shadowsocks · 260ms | 146"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 260ms | 147"
-      - "🇫🇷 FR · Paris · Trojan · 263ms | 148"
-      - "🇷🇴 RO · Voluntari · Shadowsocks · 265ms | 149"
-      - "🇬🇧 GB · Bexley · Vmess · 266ms | 150"
-      - "🇫🇷 FR · Paris · Trojan · 282ms | 151"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 284ms | 152"
-      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 309ms | 153"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 317ms | 154"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 319ms | 155"
-      - "🇺🇸 US · Minkler · Vmess · 321ms | 156"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 367ms | 157"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 386ms | 158"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 396ms | 159"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 397ms | 160"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 398ms | 161"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 403ms | 162"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 405ms | 163"
-      - "🇵🇱 PL · Wroclaw · Vmess · 405ms | 164"
-      - "🇭🇰 HK · Hong Kong · Vmess · 405ms | 165"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 414ms | 166"
-      - "🇰🇷 KR · Seoul · Vmess · 425ms | 167"
-      - "🇹🇷 TR · Istanbul · Vmess · 436ms | 168"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 169"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 170"
-      - "🇸🇬 SG · Singapore · Shadowsocks · 443ms | 171"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 455ms | 172"
-      - "🇦🇺 AU · Sydney · Vmess · 456ms | 173"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 456ms | 174"
-      - "🇦🇺 AU · Sydney · Vmess · 457ms | 175"
-      - "🇰🇷 KR · Chuncheon · Vmess · 463ms | 176"
-      - "🇽🇽 XX · Shadowsocks · 477ms | 177"
-      - "🇬🇧 GB · Blackburn · Vmess · 477ms | 178"
-      - "🇽🇽 XX · Vmess · 490ms | 179"
-      - "🇯🇵 JP · Osaka · Vmess · 493ms | 180"
-      - "🇫🇮 FI · Helsinki · Vmess · 493ms | 181"
-      - "🇩🇪 DE · Frankfurt am Main · Vmess · 498ms | 182"
-      - "🇫🇮 FI · Helsinki · Vmess · 500ms | 183"
-      - "🇫🇷 FR · Wattrelos · Vmess · 504ms | 184"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 520ms | 185"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 525ms | 186"
-      - "🇫🇷 FR · Wattrelos · Vmess · 543ms | 187"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 571ms | 188"
-      - "🇫🇷 FR · Gravelines · Vmess · 610ms | 189"
-      - "🇺🇸 US · Chicago · Vmess · 625ms | 190"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 630ms | 191"
-      - "🇦🇺 AU · Sydney · Vmess · 639ms | 192"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 656ms | 193"
-      - "🇭🇰 HK · Hong Kong · Vmess · 726ms | 194"
-      - "🇯🇵 JP · Tokyo · Vmess · 754ms | 195"
-      - "🇩🇪 DE · Düsseldorf · Vmess · 769ms | 196"
-      - "🇯🇵 JP · Tokyo · Vmess · 817ms | 197"
-      - "🇺🇸 US · St Louis · Vmess · 825ms | 198"
-      - "🇯🇵 JP · Tokyo · Vmess · 843ms | 199"
-      - "🇺🇸 US · St Louis · Vmess · 853ms | 200"
-      - "🇺🇸 US · St Louis · Vmess · 866ms | 201"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 935ms | 202"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1137ms | 203"
-      - "🇺🇸 US · Minkler · Vmess · 1203ms | 204"
-      - "🇺🇸 US · Minkler · Vmess · 1207ms | 205"
-      - "🇺🇸 US · Reston · Shadowsocks · 1325ms | 206"
-      - "🇯🇵 JP · Tokyo · Vmess · 1409ms | 207"
-      - "🇮🇳 IN · Mumbai · Shadowsocks · 1518ms | 208"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1596ms | 209"
-      - "🇬🇧 GB · City of London · Shadowsocks · 1662ms | 210"
-      - "🇰🇷 KR · Seoul · Vmess · 1899ms | 211"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2053ms | 212"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 2098ms | 213"
-      - "🇦🇺 AU · Sydney · Vmess · 2423ms | 214"
-      - "🇺🇸 US · Washington · Shadowsocks · 2795ms | 215"
-      - "🇮🇳 IN · Mumbai · Vmess · 2813ms | 216"
+      - "🇨🇦 CA · Vancouver · Shadowsocks · 25ms | 001"
+      - "🇺🇸 US · Kent · Vless · 46ms | 002"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 65ms | 003"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 84ms | 004"
+      - "🇺🇸 US · Dallas · Shadowsocks · 109ms | 005"
+      - "🇺🇸 US · Dallas · Shadowsocks · 110ms | 006"
+      - "🇺🇸 US · Denver · Trojan · 113ms | 007"
+      - "🇺🇸 US · Dallas · Shadowsocks · 116ms | 008"
+      - "🇺🇸 US · Dallas · Shadowsocks · 117ms | 009"
+      - "🇺🇸 US · Santa Clara · Vmess · 118ms | 010"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 011"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 012"
+      - "🇺🇸 US · Phoenix · Vmess · 127ms | 013"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 014"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 015"
+      - "🇺🇸 US · New York · Shadowsocks · 131ms | 016"
+      - "🇺🇸 US · New York · Shadowsocks · 133ms | 017"
+      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 018"
+      - "🇺🇸 US · Newark · Shadowsocks · 134ms | 019"
+      - "🇺🇸 US · New York · Shadowsocks · 137ms | 020"
+      - "🇺🇸 US · Ashburn · Shadowsocks · 147ms | 021"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 022"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 023"
+      - "🇺🇸 US · Washington · Shadowsocks · 149ms | 024"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 150ms | 025"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 152ms | 026"
+      - "🇦🇺 AU · Sydney · Vmess · 155ms | 027"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 157ms | 028"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 160ms | 029"
+      - "🇦🇺 AU · Sydney · Vmess · 169ms | 030"
+      - "🇺🇸 US · Reston · Shadowsocks · 185ms | 031"
+      - "🇦🇺 AU · Sydney · Vmess · 193ms | 032"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 198ms | 033"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 199ms | 034"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 200ms | 035"
+      - "🇦🇺 AU · Sydney · Vmess · 202ms | 036"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 202ms | 037"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 206ms | 038"
+      - "🇦🇺 AU · Sydney · Vmess · 259ms | 039"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 281ms | 040"
+      - "🇬🇧 GB · London · Shadowsocks · 294ms | 041"
+      - "🇩🇪 DE · Frankfurt · Shadowsocks · 297ms | 042"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 297ms | 043"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 044"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 301ms | 045"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 046"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 047"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 048"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 049"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 304ms | 050"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 051"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 052"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 053"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 054"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 055"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 056"
+      - "🇬🇧 GB · Stretford · Shadowsocks · 311ms | 057"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 058"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 059"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 060"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 313ms | 061"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 062"
+      - "🇨🇭 CH · Zurich · Shadowsocks · 313ms | 063"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 064"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 065"
+      - "🇮🇹 IT · Milan · Shadowsocks · 314ms | 066"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 067"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 068"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 069"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 070"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 071"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 072"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 073"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 074"
+      - "🇮🇹 IT · Milan · Shadowsocks · 317ms | 075"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 076"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 318ms | 077"
+      - "🇨🇦 CA · Montreal · Vmess · 319ms | 078"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 079"
+      - "🇽🇽 XX · Shadowsocks · 319ms | 080"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 081"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 319ms | 082"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 083"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 084"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 085"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 086"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 087"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 322ms | 088"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 089"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 324ms | 090"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 091"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 092"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 325ms | 093"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 326ms | 094"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 095"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 096"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 097"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 098"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 099"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 100"
+      - "🇺🇸 US · Reston · Shadowsocks · 328ms | 101"
+      - "🇦🇺 AU · Sydney · Vmess · 329ms | 102"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 329ms | 103"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 104"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 105"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 106"
+      - "🇦🇺 AU · Sydney · Vmess · 332ms | 107"
+      - "🇽🇽 XX · Shadowsocks · 336ms | 108"
+      - "🇮🇹 IT · Milan · Shadowsocks · 337ms | 109"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 337ms | 110"
+      - "🇲🇾 MY · Kuala Lumpur · Shadowsocks · 338ms | 111"
+      - "🇦🇺 AU · Sydney · Vmess · 339ms | 112"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 113"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 346ms | 114"
+      - "🇮🇹 IT · Milan · Shadowsocks · 348ms | 115"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 350ms | 116"
+      - "🇮🇹 IT · Milan · Shadowsocks · 354ms | 117"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 355ms | 118"
+      - "🇦🇹 AT · Vienna · Shadowsocks · 356ms | 119"
+      - "🇳🇴 NO · Oslo · Shadowsocks · 358ms | 120"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 359ms | 121"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 363ms | 123"
+      - "🇽🇽 XX · Shadowsocks · 364ms | 124"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 370ms | 125"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 377ms | 126"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 380ms | 127"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 388ms | 128"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 400ms | 129"
+      - "🇮🇹 IT · Milan · Shadowsocks · 410ms | 130"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 410ms | 131"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 412ms | 132"
+      - "🇺🇸 US · Reston · Shadowsocks · 418ms | 133"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 420ms | 134"
+      - "🇳🇱 NL · Haarlem · Vless · 420ms | 135"
+      - "🇦🇱 AL · Tirana · Shadowsocks · 430ms | 136"
+      - "🇵🇱 PL · Warsaw · Shadowsocks · 481ms | 137"
+      - "🇷🇺 RU · Moscow · Shadowsocks · 482ms | 138"
+      - "🇽🇽 XX · Vless · 507ms | 139"
+      - "🇺🇸 US · Los Angeles · Vmess · 512ms | 140"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 514ms | 141"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 525ms | 142"
+      - "🇨🇦 CA · Montreal · Vmess · 551ms | 143"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 555ms | 144"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 560ms | 145"
+      - "🇮🇹 IT · Milan · Shadowsocks · 561ms | 146"
+      - "🇽🇽 XX · Shadowsocks · 565ms | 147"
+      - "🇭🇰 HK · Hong Kong · Vmess · 584ms | 148"
+      - "🇭🇰 HK · Hong Kong · Vmess · 587ms | 149"
+      - "🇦🇺 AU · Sydney · Vmess · 595ms | 150"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 671ms | 151"
+      - "🇬🇧 GB · Blackburn · Vmess · 672ms | 152"
+      - "🇭🇰 HK · Hong Kong · Vmess · 724ms | 153"
+      - "🇽🇽 XX · Shadowsocks · 734ms | 154"
+      - "🇭🇰 HK · Hong Kong · Vmess · 774ms | 155"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 777ms | 156"
+      - "🇺🇸 US · St Louis · Vmess · 832ms | 157"
+      - "🇫🇷 FR · Gravelines · Vmess · 883ms | 158"
+      - "🇮🇹 IT · Milan · Shadowsocks · 903ms | 159"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 909ms | 160"
+      - "🇽🇽 XX · Shadowsocks · 921ms | 161"
+      - "🇺🇸 US · St Louis · Vmess · 930ms | 162"
+      - "🇭🇰 HK · Hong Kong · Vmess · 980ms | 163"
+      - "🇺🇸 US · St Louis · Vmess · 1001ms | 164"
+      - "🇽🇽 XX · Shadowsocks · 1017ms | 165"
+      - "🇮🇹 IT · Milan · Shadowsocks · 1079ms | 166"
+      - "🇵🇱 PL · Wroclaw · Vmess · 1111ms | 167"
+      - "🇽🇽 XX · Shadowsocks · 1206ms | 168"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 1238ms | 169"
+      - "🇰🇷 KR · Seoul · Vmess · 1275ms | 170"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1282ms | 171"
+      - "🇺🇸 US · Reston · Shadowsocks · 1288ms | 172"
+      - "🇺🇸 US · St Louis · Vmess · 1289ms | 173"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 1314ms | 174"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1321ms | 175"
+      - "🇽🇽 XX · Shadowsocks · 1360ms | 176"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 1404ms | 177"
+      - "🇺🇸 US · Reston · Shadowsocks · 1405ms | 178"
+      - "🇺🇸 US · New York · Shadowsocks · 1421ms | 179"
+      - "🇩🇪 DE · Frankfurt am Main · Vmess · 1493ms | 180"
+      - "🇸🇬 SG · Singapore · Vmess · 1501ms | 181"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1535ms | 182"
+      - "🇿🇦 ZA · Isando · Shadowsocks · 1610ms | 183"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 1665ms | 184"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1747ms | 185"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1765ms | 186"
+      - "🇸🇬 SG · Singapore · Vmess · 1812ms | 187"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1925ms | 188"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 1960ms | 189"
+      - "🇺🇸 US · St Louis · Vmess · 1978ms | 190"
+      - "🇺🇸 US · St Louis · Vmess · 2166ms | 191"
+      - "🇭🇰 HK · Hong Kong · Vmess · 2215ms | 192"
+      - "🇽🇽 XX · Vmess · 2227ms | 193"
+      - "🇸🇬 SG · Singapore · Vless · 2229ms | 194"
+      - "🇮🇳 IN · Mumbai · Shadowsocks · 2242ms | 195"
+      - "🇺🇸 US · Chicago · Vmess · 2333ms | 196"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 2568ms | 197"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 2575ms | 198"
+      - "🇺🇸 US · Chicago · Vmess · 2595ms | 199"
+      - "🇦🇺 AU · Sydney · Vmess · 2650ms | 200"
+      - "🇷🇴 RO · Bucharest · Shadowsocks · 2707ms | 201"
+      - "🇺🇸 US · Chicago · Vmess · 2812ms | 202"
+      - "🇺🇸 US · Chicago · Vmess · 2819ms | 203"
+      - "🇺🇸 US · Chicago · Vmess · 2878ms | 204"
+      - "🇺🇸 US · Chicago · Vmess · 2881ms | 205"
+      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2963ms | 206"
+      - "🇺🇸 US · Chicago · Vmess · 2994ms | 207"
   - name: "🔯 Fallback"
     type: "fallback"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     proxies:
-      - "🇺🇸 US · Reston · Shadowsocks · 16ms | 001"
-      - "🇺🇸 US · New York · Shadowsocks · 19ms | 002"
-      - "🇺🇸 US · New York · Shadowsocks · 20ms | 003"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 004"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 005"
-      - "🇺🇸 US · New York · Shadowsocks · 23ms | 006"
-      - "🇺🇸 US · New York · Shadowsocks · 26ms | 007"
-      - "🇺🇸 US · Washington · Shadowsocks · 34ms | 008"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 009"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 010"
-      - "🇺🇸 US · Newark · Shadowsocks · 36ms | 011"
-      - "🇺🇸 US · New York · Shadowsocks · 37ms | 012"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 38ms | 013"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 014"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 015"
-      - "🇺🇸 US · Elk Grove Village · Shadowsocks · 40ms | 016"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 47ms | 017"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 49ms | 018"
-      - "🇦🇺 AU · Sydney · Vmess · 49ms | 019"
-      - "🇺🇸 US · Ashburn · Shadowsocks · 51ms | 020"
-      - "🇦🇺 AU · Sydney · Vmess · 51ms | 021"
-      - "🇺🇸 US · New York · Shadowsocks · 54ms | 022"
-      - "🇺🇸 US · Miami · Shadowsocks · 58ms | 023"
-      - "🇺🇸 US · Chicago · Trojan · 68ms | 024"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 72ms | 025"
-      - "🇺🇸 US · Dallas · Shadowsocks · 73ms | 026"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 74ms | 027"
-      - "🇺🇸 US · Dallas · Shadowsocks · 76ms | 028"
-      - "🇺🇸 US · Dallas · Shadowsocks · 77ms | 029"
-      - "🇽🇽 XX · Shadowsocks · 81ms | 030"
-      - "🇺🇸 US · Miami · Shadowsocks · 89ms | 031"
-      - "🇦🇺 AU · Sydney · Vmess · 90ms | 032"
-      - "🇺🇸 US · Washington · Vmess · 94ms | 033"
-      - "🇺🇸 US · Chicago · Vmess · 107ms | 034"
-      - "🇺🇸 US · Chicago · Vmess · 108ms | 035"
-      - "🇺🇸 US · Chicago · Vmess · 111ms | 036"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 115ms | 037"
-      - "🇺🇸 US · Chicago · Vmess · 119ms | 038"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 121ms | 039"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 123ms | 040"
-      - "🇦🇺 AU · Sydney · Vmess · 132ms | 041"
-      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 042"
-      - "🇽🇽 XX · Vmess · 135ms | 043"
-      - "🇮🇪 IE · Dublin · Vmess · 138ms | 044"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 145ms | 045"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 146ms | 046"
-      - "🇨🇦 CA · Montreal · Vmess · 150ms | 047"
-      - "🇨🇦 CA · Vancouver · Shadowsocks · 151ms | 048"
-      - "🇬🇧 GB · London · Shadowsocks · 159ms | 049"
-      - "🇽🇽 XX · Shadowsocks · 167ms | 050"
-      - "🇺🇸 US · Santa Clara · Vmess · 169ms | 051"
-      - "🇺🇸 US · Phoenix · Vmess · 171ms | 052"
-      - "🇽🇽 XX · Shadowsocks · 172ms | 053"
-      - "🇬🇧 GB · London · Shadowsocks · 176ms | 054"
-      - "🇺🇸 US · New York · Vless · 177ms | 055"
-      - "🇺🇸 US · Reston · Shadowsocks · 177ms | 056"
-      - "🇩🇪 DE · Frankfurt · Shadowsocks · 183ms | 057"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 183ms | 058"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 185ms | 059"
-      - "🇬🇧 GB · Stretford · Shadowsocks · 187ms | 060"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 189ms | 061"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 062"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 063"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 064"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 065"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 066"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 067"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 068"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 193ms | 069"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 070"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 071"
-      - "🇺🇸 US · Reston · Shadowsocks · 193ms | 072"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 194ms | 073"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 074"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 075"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 076"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 077"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 078"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 079"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 080"
-      - "🇽🇽 XX · Shadowsocks · 197ms | 081"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 082"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 083"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 084"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 085"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 087"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 088"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 089"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 090"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 199ms | 091"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 092"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 093"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 094"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 095"
-      - "🇸🇪 SE · Spånga · Shadowsocks · 200ms | 096"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 097"
-      - "🇮🇹 IT · Milan · Shadowsocks · 201ms | 098"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 099"
-      - "🇨🇭 CH · Zurich · Shadowsocks · 201ms | 100"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 101"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 102"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 103"
-      - "🇽🇽 XX · Shadowsocks · 202ms | 104"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 105"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 106"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 107"
-      - "🇽🇽 XX · Shadowsocks · 203ms | 108"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 109"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 110"
-      - "🇽🇽 XX · Shadowsocks · 204ms | 111"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 112"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 113"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 114"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 115"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 116"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 117"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 118"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 119"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 120"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 121"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 122"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 123"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 124"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 125"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 126"
-      - "🇮🇹 IT · Milan · Shadowsocks · 207ms | 127"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 128"
-      - "🇮🇹 IT · Milan · Shadowsocks · 208ms | 129"
-      - "🇮🇹 IT · Milan · Shadowsocks · 209ms | 130"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 209ms | 131"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 132"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 210ms | 133"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 134"
-      - "🇺🇸 US · Reston · Shadowsocks · 210ms | 135"
-      - "🇮🇹 IT · Milan · Shadowsocks · 211ms | 136"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 213ms | 137"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 214ms | 138"
-      - "🇮🇹 IT · Milan · Shadowsocks · 215ms | 139"
-      - "🇮🇹 IT · Milan · Shadowsocks · 217ms | 140"
-      - "🇮🇹 IT · Milan · Shadowsocks · 222ms | 141"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 225ms | 142"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 227ms | 143"
-      - "🇦🇹 AT · Vienna · Shadowsocks · 231ms | 144"
-      - "🇮🇹 IT · Milan · Shadowsocks · 253ms | 145"
-      - "🇮🇹 IT · Milan · Shadowsocks · 260ms | 146"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 260ms | 147"
-      - "🇫🇷 FR · Paris · Trojan · 263ms | 148"
-      - "🇷🇴 RO · Voluntari · Shadowsocks · 265ms | 149"
-      - "🇬🇧 GB · Bexley · Vmess · 266ms | 150"
-      - "🇫🇷 FR · Paris · Trojan · 282ms | 151"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 284ms | 152"
-      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 309ms | 153"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 317ms | 154"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 319ms | 155"
-      - "🇺🇸 US · Minkler · Vmess · 321ms | 156"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 367ms | 157"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 386ms | 158"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 396ms | 159"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 397ms | 160"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 398ms | 161"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 403ms | 162"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 405ms | 163"
-      - "🇵🇱 PL · Wroclaw · Vmess · 405ms | 164"
-      - "🇭🇰 HK · Hong Kong · Vmess · 405ms | 165"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 414ms | 166"
-      - "🇰🇷 KR · Seoul · Vmess · 425ms | 167"
-      - "🇹🇷 TR · Istanbul · Vmess · 436ms | 168"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 169"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 170"
-      - "🇸🇬 SG · Singapore · Shadowsocks · 443ms | 171"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 455ms | 172"
-      - "🇦🇺 AU · Sydney · Vmess · 456ms | 173"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 456ms | 174"
-      - "🇦🇺 AU · Sydney · Vmess · 457ms | 175"
-      - "🇰🇷 KR · Chuncheon · Vmess · 463ms | 176"
-      - "🇽🇽 XX · Shadowsocks · 477ms | 177"
-      - "🇬🇧 GB · Blackburn · Vmess · 477ms | 178"
-      - "🇽🇽 XX · Vmess · 490ms | 179"
-      - "🇯🇵 JP · Osaka · Vmess · 493ms | 180"
-      - "🇫🇮 FI · Helsinki · Vmess · 493ms | 181"
-      - "🇩🇪 DE · Frankfurt am Main · Vmess · 498ms | 182"
-      - "🇫🇮 FI · Helsinki · Vmess · 500ms | 183"
-      - "🇫🇷 FR · Wattrelos · Vmess · 504ms | 184"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 520ms | 185"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 525ms | 186"
-      - "🇫🇷 FR · Wattrelos · Vmess · 543ms | 187"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 571ms | 188"
-      - "🇫🇷 FR · Gravelines · Vmess · 610ms | 189"
-      - "🇺🇸 US · Chicago · Vmess · 625ms | 190"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 630ms | 191"
-      - "🇦🇺 AU · Sydney · Vmess · 639ms | 192"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 656ms | 193"
-      - "🇭🇰 HK · Hong Kong · Vmess · 726ms | 194"
-      - "🇯🇵 JP · Tokyo · Vmess · 754ms | 195"
-      - "🇩🇪 DE · Düsseldorf · Vmess · 769ms | 196"
-      - "🇯🇵 JP · Tokyo · Vmess · 817ms | 197"
-      - "🇺🇸 US · St Louis · Vmess · 825ms | 198"
-      - "🇯🇵 JP · Tokyo · Vmess · 843ms | 199"
-      - "🇺🇸 US · St Louis · Vmess · 853ms | 200"
-      - "🇺🇸 US · St Louis · Vmess · 866ms | 201"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 935ms | 202"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1137ms | 203"
-      - "🇺🇸 US · Minkler · Vmess · 1203ms | 204"
-      - "🇺🇸 US · Minkler · Vmess · 1207ms | 205"
-      - "🇺🇸 US · Reston · Shadowsocks · 1325ms | 206"
-      - "🇯🇵 JP · Tokyo · Vmess · 1409ms | 207"
-      - "🇮🇳 IN · Mumbai · Shadowsocks · 1518ms | 208"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1596ms | 209"
-      - "🇬🇧 GB · City of London · Shadowsocks · 1662ms | 210"
-      - "🇰🇷 KR · Seoul · Vmess · 1899ms | 211"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2053ms | 212"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 2098ms | 213"
-      - "🇦🇺 AU · Sydney · Vmess · 2423ms | 214"
-      - "🇺🇸 US · Washington · Shadowsocks · 2795ms | 215"
-      - "🇮🇳 IN · Mumbai · Vmess · 2813ms | 216"
+      - "🇨🇦 CA · Vancouver · Shadowsocks · 25ms | 001"
+      - "🇺🇸 US · Kent · Vless · 46ms | 002"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 65ms | 003"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 84ms | 004"
+      - "🇺🇸 US · Dallas · Shadowsocks · 109ms | 005"
+      - "🇺🇸 US · Dallas · Shadowsocks · 110ms | 006"
+      - "🇺🇸 US · Denver · Trojan · 113ms | 007"
+      - "🇺🇸 US · Dallas · Shadowsocks · 116ms | 008"
+      - "🇺🇸 US · Dallas · Shadowsocks · 117ms | 009"
+      - "🇺🇸 US · Santa Clara · Vmess · 118ms | 010"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 011"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 012"
+      - "🇺🇸 US · Phoenix · Vmess · 127ms | 013"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 014"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 015"
+      - "🇺🇸 US · New York · Shadowsocks · 131ms | 016"
+      - "🇺🇸 US · New York · Shadowsocks · 133ms | 017"
+      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 018"
+      - "🇺🇸 US · Newark · Shadowsocks · 134ms | 019"
+      - "🇺🇸 US · New York · Shadowsocks · 137ms | 020"
+      - "🇺🇸 US · Ashburn · Shadowsocks · 147ms | 021"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 022"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 023"
+      - "🇺🇸 US · Washington · Shadowsocks · 149ms | 024"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 150ms | 025"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 152ms | 026"
+      - "🇦🇺 AU · Sydney · Vmess · 155ms | 027"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 157ms | 028"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 160ms | 029"
+      - "🇦🇺 AU · Sydney · Vmess · 169ms | 030"
+      - "🇺🇸 US · Reston · Shadowsocks · 185ms | 031"
+      - "🇦🇺 AU · Sydney · Vmess · 193ms | 032"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 198ms | 033"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 199ms | 034"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 200ms | 035"
+      - "🇦🇺 AU · Sydney · Vmess · 202ms | 036"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 202ms | 037"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 206ms | 038"
+      - "🇦🇺 AU · Sydney · Vmess · 259ms | 039"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 281ms | 040"
+      - "🇬🇧 GB · London · Shadowsocks · 294ms | 041"
+      - "🇩🇪 DE · Frankfurt · Shadowsocks · 297ms | 042"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 297ms | 043"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 044"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 301ms | 045"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 046"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 047"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 048"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 049"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 304ms | 050"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 051"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 052"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 053"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 054"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 055"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 056"
+      - "🇬🇧 GB · Stretford · Shadowsocks · 311ms | 057"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 058"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 059"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 060"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 313ms | 061"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 062"
+      - "🇨🇭 CH · Zurich · Shadowsocks · 313ms | 063"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 064"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 065"
+      - "🇮🇹 IT · Milan · Shadowsocks · 314ms | 066"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 067"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 068"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 069"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 070"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 071"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 072"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 073"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 074"
+      - "🇮🇹 IT · Milan · Shadowsocks · 317ms | 075"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 076"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 318ms | 077"
+      - "🇨🇦 CA · Montreal · Vmess · 319ms | 078"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 079"
+      - "🇽🇽 XX · Shadowsocks · 319ms | 080"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 081"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 319ms | 082"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 083"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 084"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 085"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 086"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 087"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 322ms | 088"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 089"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 324ms | 090"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 091"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 092"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 325ms | 093"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 326ms | 094"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 095"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 096"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 097"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 098"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 099"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 100"
+      - "🇺🇸 US · Reston · Shadowsocks · 328ms | 101"
+      - "🇦🇺 AU · Sydney · Vmess · 329ms | 102"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 329ms | 103"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 104"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 105"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 106"
+      - "🇦🇺 AU · Sydney · Vmess · 332ms | 107"
+      - "🇽🇽 XX · Shadowsocks · 336ms | 108"
+      - "🇮🇹 IT · Milan · Shadowsocks · 337ms | 109"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 337ms | 110"
+      - "🇲🇾 MY · Kuala Lumpur · Shadowsocks · 338ms | 111"
+      - "🇦🇺 AU · Sydney · Vmess · 339ms | 112"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 113"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 346ms | 114"
+      - "🇮🇹 IT · Milan · Shadowsocks · 348ms | 115"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 350ms | 116"
+      - "🇮🇹 IT · Milan · Shadowsocks · 354ms | 117"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 355ms | 118"
+      - "🇦🇹 AT · Vienna · Shadowsocks · 356ms | 119"
+      - "🇳🇴 NO · Oslo · Shadowsocks · 358ms | 120"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 359ms | 121"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 363ms | 123"
+      - "🇽🇽 XX · Shadowsocks · 364ms | 124"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 370ms | 125"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 377ms | 126"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 380ms | 127"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 388ms | 128"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 400ms | 129"
+      - "🇮🇹 IT · Milan · Shadowsocks · 410ms | 130"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 410ms | 131"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 412ms | 132"
+      - "🇺🇸 US · Reston · Shadowsocks · 418ms | 133"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 420ms | 134"
+      - "🇳🇱 NL · Haarlem · Vless · 420ms | 135"
+      - "🇦🇱 AL · Tirana · Shadowsocks · 430ms | 136"
+      - "🇵🇱 PL · Warsaw · Shadowsocks · 481ms | 137"
+      - "🇷🇺 RU · Moscow · Shadowsocks · 482ms | 138"
+      - "🇽🇽 XX · Vless · 507ms | 139"
+      - "🇺🇸 US · Los Angeles · Vmess · 512ms | 140"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 514ms | 141"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 525ms | 142"
+      - "🇨🇦 CA · Montreal · Vmess · 551ms | 143"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 555ms | 144"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 560ms | 145"
+      - "🇮🇹 IT · Milan · Shadowsocks · 561ms | 146"
+      - "🇽🇽 XX · Shadowsocks · 565ms | 147"
+      - "🇭🇰 HK · Hong Kong · Vmess · 584ms | 148"
+      - "🇭🇰 HK · Hong Kong · Vmess · 587ms | 149"
+      - "🇦🇺 AU · Sydney · Vmess · 595ms | 150"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 671ms | 151"
+      - "🇬🇧 GB · Blackburn · Vmess · 672ms | 152"
+      - "🇭🇰 HK · Hong Kong · Vmess · 724ms | 153"
+      - "🇽🇽 XX · Shadowsocks · 734ms | 154"
+      - "🇭🇰 HK · Hong Kong · Vmess · 774ms | 155"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 777ms | 156"
+      - "🇺🇸 US · St Louis · Vmess · 832ms | 157"
+      - "🇫🇷 FR · Gravelines · Vmess · 883ms | 158"
+      - "🇮🇹 IT · Milan · Shadowsocks · 903ms | 159"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 909ms | 160"
+      - "🇽🇽 XX · Shadowsocks · 921ms | 161"
+      - "🇺🇸 US · St Louis · Vmess · 930ms | 162"
+      - "🇭🇰 HK · Hong Kong · Vmess · 980ms | 163"
+      - "🇺🇸 US · St Louis · Vmess · 1001ms | 164"
+      - "🇽🇽 XX · Shadowsocks · 1017ms | 165"
+      - "🇮🇹 IT · Milan · Shadowsocks · 1079ms | 166"
+      - "🇵🇱 PL · Wroclaw · Vmess · 1111ms | 167"
+      - "🇽🇽 XX · Shadowsocks · 1206ms | 168"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 1238ms | 169"
+      - "🇰🇷 KR · Seoul · Vmess · 1275ms | 170"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1282ms | 171"
+      - "🇺🇸 US · Reston · Shadowsocks · 1288ms | 172"
+      - "🇺🇸 US · St Louis · Vmess · 1289ms | 173"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 1314ms | 174"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1321ms | 175"
+      - "🇽🇽 XX · Shadowsocks · 1360ms | 176"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 1404ms | 177"
+      - "🇺🇸 US · Reston · Shadowsocks · 1405ms | 178"
+      - "🇺🇸 US · New York · Shadowsocks · 1421ms | 179"
+      - "🇩🇪 DE · Frankfurt am Main · Vmess · 1493ms | 180"
+      - "🇸🇬 SG · Singapore · Vmess · 1501ms | 181"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1535ms | 182"
+      - "🇿🇦 ZA · Isando · Shadowsocks · 1610ms | 183"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 1665ms | 184"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1747ms | 185"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1765ms | 186"
+      - "🇸🇬 SG · Singapore · Vmess · 1812ms | 187"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1925ms | 188"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 1960ms | 189"
+      - "🇺🇸 US · St Louis · Vmess · 1978ms | 190"
+      - "🇺🇸 US · St Louis · Vmess · 2166ms | 191"
+      - "🇭🇰 HK · Hong Kong · Vmess · 2215ms | 192"
+      - "🇽🇽 XX · Vmess · 2227ms | 193"
+      - "🇸🇬 SG · Singapore · Vless · 2229ms | 194"
+      - "🇮🇳 IN · Mumbai · Shadowsocks · 2242ms | 195"
+      - "🇺🇸 US · Chicago · Vmess · 2333ms | 196"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 2568ms | 197"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 2575ms | 198"
+      - "🇺🇸 US · Chicago · Vmess · 2595ms | 199"
+      - "🇦🇺 AU · Sydney · Vmess · 2650ms | 200"
+      - "🇷🇴 RO · Bucharest · Shadowsocks · 2707ms | 201"
+      - "🇺🇸 US · Chicago · Vmess · 2812ms | 202"
+      - "🇺🇸 US · Chicago · Vmess · 2819ms | 203"
+      - "🇺🇸 US · Chicago · Vmess · 2878ms | 204"
+      - "🇺🇸 US · Chicago · Vmess · 2881ms | 205"
+      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2963ms | 206"
+      - "🇺🇸 US · Chicago · Vmess · 2994ms | 207"
   - name: "🎯 Direct"
     type: "select"
     proxies:
@@ -2524,65 +2470,65 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 183ms | 058"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 185ms | 059"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 062"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 190ms | 063"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 064"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 065"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 066"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 067"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 191ms | 068"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 070"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 193ms | 071"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 194ms | 073"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 074"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 196ms | 075"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 076"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 077"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 078"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 079"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 197ms | 080"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 082"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 083"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 198ms | 084"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 085"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 087"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 088"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 089"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 199ms | 090"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 092"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 093"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 094"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 095"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 200ms | 097"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 099"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 201ms | 101"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 102"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 103"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 202ms | 105"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 106"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 203ms | 107"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 109"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 110"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 112"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 113"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 114"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 204ms | 115"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 116"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 117"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 118"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 119"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 120"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 121"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 205ms | 122"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 123"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 124"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 206ms | 125"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 126"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 207ms | 128"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 209ms | 131"
-      - "🇳🇱 NL · Amsterdam · Shadowsocks · 210ms | 133"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 044"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 301ms | 045"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 046"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 047"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 048"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 049"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 051"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 052"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 306ms | 053"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 054"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 055"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 056"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 058"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 059"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 060"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 062"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 064"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 065"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 067"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 068"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 069"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 070"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 071"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 072"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 073"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 074"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 076"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 079"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 081"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 083"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 084"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 085"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 086"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 087"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 322ms | 088"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 089"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 324ms | 090"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 091"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 325ms | 092"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 095"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 096"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 097"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 098"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 099"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 100"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 329ms | 103"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 104"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 105"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 106"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 337ms | 110"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 113"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 346ms | 114"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 350ms | 116"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 355ms | 118"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 363ms | 123"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 380ms | 127"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 400ms | 129"
+      - "🇳🇱 NL · Amsterdam · Shadowsocks · 412ms | 132"
+      - "🇳🇱 NL · Haarlem · Vless · 420ms | 135"
   - name: "🇺🇸 United States"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
@@ -2590,125 +2536,52 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "🇺🇸 US · Reston · Shadowsocks · 16ms | 001"
-      - "🇺🇸 US · New York · Shadowsocks · 19ms | 002"
-      - "🇺🇸 US · New York · Shadowsocks · 20ms | 003"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 004"
-      - "🇺🇸 US · Reston · Shadowsocks · 22ms | 005"
-      - "🇺🇸 US · New York · Shadowsocks · 23ms | 006"
-      - "🇺🇸 US · New York · Shadowsocks · 26ms | 007"
-      - "🇺🇸 US · Washington · Shadowsocks · 34ms | 008"
-      - "🇺🇸 US · Newark · Shadowsocks · 36ms | 011"
-      - "🇺🇸 US · New York · Shadowsocks · 37ms | 012"
-      - "🇺🇸 US · Elk Grove Village · Shadowsocks · 40ms | 016"
-      - "🇺🇸 US · Ashburn · Shadowsocks · 51ms | 020"
-      - "🇺🇸 US · New York · Shadowsocks · 54ms | 022"
-      - "🇺🇸 US · Miami · Shadowsocks · 58ms | 023"
-      - "🇺🇸 US · Chicago · Trojan · 68ms | 024"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 72ms | 025"
-      - "🇺🇸 US · Dallas · Shadowsocks · 73ms | 026"
-      - "🇺🇸 US · Atlanta · Shadowsocks · 74ms | 027"
-      - "🇺🇸 US · Dallas · Shadowsocks · 76ms | 028"
-      - "🇺🇸 US · Dallas · Shadowsocks · 77ms | 029"
-      - "🇺🇸 US · Miami · Shadowsocks · 89ms | 031"
-      - "🇺🇸 US · Washington · Vmess · 94ms | 033"
-      - "🇺🇸 US · Chicago · Vmess · 107ms | 034"
-      - "🇺🇸 US · Chicago · Vmess · 108ms | 035"
-      - "🇺🇸 US · Chicago · Vmess · 111ms | 036"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 115ms | 037"
-      - "🇺🇸 US · Chicago · Vmess · 119ms | 038"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 121ms | 039"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 123ms | 040"
-      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 042"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 145ms | 045"
-      - "🇺🇸 US · Phoenix · Shadowsocks · 146ms | 046"
-      - "🇺🇸 US · Santa Clara · Vmess · 169ms | 051"
-      - "🇺🇸 US · Phoenix · Vmess · 171ms | 052"
-      - "🇺🇸 US · New York · Vless · 177ms | 055"
-      - "🇺🇸 US · Reston · Shadowsocks · 177ms | 056"
-      - "🇺🇸 US · Reston · Shadowsocks · 193ms | 072"
-      - "🇺🇸 US · Reston · Shadowsocks · 210ms | 135"
-      - "🇺🇸 US · Minkler · Vmess · 321ms | 156"
-      - "🇺🇸 US · Chicago · Vmess · 625ms | 190"
-      - "🇺🇸 US · Los Angeles · Shadowsocks · 656ms | 193"
-      - "🇺🇸 US · St Louis · Vmess · 825ms | 198"
-      - "🇺🇸 US · St Louis · Vmess · 853ms | 200"
-      - "🇺🇸 US · St Louis · Vmess · 866ms | 201"
-      - "🇺🇸 US · Minkler · Vmess · 1203ms | 204"
-      - "🇺🇸 US · Minkler · Vmess · 1207ms | 205"
-      - "🇺🇸 US · Reston · Shadowsocks · 1325ms | 206"
-      - "🇺🇸 US · Washington · Shadowsocks · 2795ms | 215"
-  - name: "🇮🇹 Italy"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇮🇹 IT · Milan · Shadowsocks · 201ms | 098"
-      - "🇮🇹 IT · Milan · Shadowsocks · 207ms | 127"
-      - "🇮🇹 IT · Milan · Shadowsocks · 208ms | 129"
-      - "🇮🇹 IT · Milan · Shadowsocks · 209ms | 130"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 132"
-      - "🇮🇹 IT · Milan · Shadowsocks · 210ms | 134"
-      - "🇮🇹 IT · Milan · Shadowsocks · 211ms | 136"
-      - "🇮🇹 IT · Milan · Shadowsocks · 215ms | 139"
-      - "🇮🇹 IT · Milan · Shadowsocks · 217ms | 140"
-      - "🇮🇹 IT · Milan · Shadowsocks · 222ms | 141"
-      - "🇮🇹 IT · Milan · Shadowsocks · 253ms | 145"
-      - "🇮🇹 IT · Milan · Shadowsocks · 260ms | 146"
-  - name: "🇯🇵 Japan"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 317ms | 154"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 319ms | 155"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 405ms | 163"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 414ms | 166"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 455ms | 172"
-      - "🇯🇵 JP · Osaka · Vmess · 493ms | 180"
-      - "🇯🇵 JP · Tokyo · Shadowsocks · 525ms | 186"
-      - "🇯🇵 JP · Tokyo · Vmess · 754ms | 195"
-      - "🇯🇵 JP · Tokyo · Vmess · 817ms | 197"
-      - "🇯🇵 JP · Tokyo · Vmess · 843ms | 199"
-      - "🇯🇵 JP · Tokyo · Vmess · 1409ms | 207"
-  - name: "🇦🇺 Australia"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 009"
-      - "🇦🇺 AU · Sydney · Vmess · 34ms | 010"
-      - "🇦🇺 AU · Sydney · Vmess · 49ms | 019"
-      - "🇦🇺 AU · Sydney · Vmess · 51ms | 021"
-      - "🇦🇺 AU · Sydney · Vmess · 90ms | 032"
-      - "🇦🇺 AU · Sydney · Vmess · 132ms | 041"
-      - "🇦🇺 AU · Sydney · Vmess · 456ms | 173"
-      - "🇦🇺 AU · Sydney · Vmess · 457ms | 175"
-      - "🇦🇺 AU · Sydney · Vmess · 639ms | 192"
-      - "🇦🇺 AU · Sydney · Vmess · 2423ms | 214"
-  - name: "🇨🇦 Canada"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 38ms | 013"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 014"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 39ms | 015"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 47ms | 017"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 49ms | 018"
-      - "🇨🇦 CA · Montreal · Vmess · 150ms | 047"
-      - "🇨🇦 CA · Vancouver · Shadowsocks · 151ms | 048"
-      - "🇨🇦 CA · Montreal · Shadowsocks · 193ms | 069"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 935ms | 202"
-      - "🇨🇦 CA · Beauharnois · Shadowsocks · 2098ms | 213"
+      - "🇺🇸 US · Kent · Vless · 46ms | 002"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 65ms | 003"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 84ms | 004"
+      - "🇺🇸 US · Dallas · Shadowsocks · 109ms | 005"
+      - "🇺🇸 US · Dallas · Shadowsocks · 110ms | 006"
+      - "🇺🇸 US · Denver · Trojan · 113ms | 007"
+      - "🇺🇸 US · Dallas · Shadowsocks · 116ms | 008"
+      - "🇺🇸 US · Dallas · Shadowsocks · 117ms | 009"
+      - "🇺🇸 US · Santa Clara · Vmess · 118ms | 010"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 011"
+      - "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 012"
+      - "🇺🇸 US · Phoenix · Vmess · 127ms | 013"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 014"
+      - "🇺🇸 US · New York · Shadowsocks · 129ms | 015"
+      - "🇺🇸 US · New York · Shadowsocks · 131ms | 016"
+      - "🇺🇸 US · New York · Shadowsocks · 133ms | 017"
+      - "🇺🇸 US · Reston · Shadowsocks · 133ms | 018"
+      - "🇺🇸 US · Newark · Shadowsocks · 134ms | 019"
+      - "🇺🇸 US · New York · Shadowsocks · 137ms | 020"
+      - "🇺🇸 US · Ashburn · Shadowsocks · 147ms | 021"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 022"
+      - "🇺🇸 US · Miami · Shadowsocks · 147ms | 023"
+      - "🇺🇸 US · Washington · Shadowsocks · 149ms | 024"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 157ms | 028"
+      - "🇺🇸 US · Phoenix · Shadowsocks · 160ms | 029"
+      - "🇺🇸 US · Reston · Shadowsocks · 185ms | 031"
+      - "🇺🇸 US · Reston · Shadowsocks · 328ms | 101"
+      - "🇺🇸 US · Reston · Shadowsocks · 418ms | 133"
+      - "🇺🇸 US · Los Angeles · Vmess · 512ms | 140"
+      - "🇺🇸 US · St Louis · Vmess · 832ms | 157"
+      - "🇺🇸 US · St Louis · Vmess · 930ms | 162"
+      - "🇺🇸 US · St Louis · Vmess · 1001ms | 164"
+      - "🇺🇸 US · Reston · Shadowsocks · 1288ms | 172"
+      - "🇺🇸 US · St Louis · Vmess · 1289ms | 173"
+      - "🇺🇸 US · Reston · Shadowsocks · 1405ms | 178"
+      - "🇺🇸 US · New York · Shadowsocks · 1421ms | 179"
+      - "🇺🇸 US · Los Angeles · Shadowsocks · 1665ms | 184"
+      - "🇺🇸 US · St Louis · Vmess · 1978ms | 190"
+      - "🇺🇸 US · St Louis · Vmess · 2166ms | 191"
+      - "🇺🇸 US · Chicago · Vmess · 2333ms | 196"
+      - "🇺🇸 US · Chicago · Vmess · 2595ms | 199"
+      - "🇺🇸 US · Chicago · Vmess · 2812ms | 202"
+      - "🇺🇸 US · Chicago · Vmess · 2819ms | 203"
+      - "🇺🇸 US · Chicago · Vmess · 2878ms | 204"
+      - "🇺🇸 US · Chicago · Vmess · 2881ms | 205"
+      - "🇺🇸 US · Chicago · Vmess · 2994ms | 207"
   - name: "🏁 Unknown"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
@@ -2716,106 +2589,34 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "🇽🇽 XX · Shadowsocks · 81ms | 030"
-      - "🇽🇽 XX · Vmess · 135ms | 043"
-      - "🇽🇽 XX · Shadowsocks · 167ms | 050"
-      - "🇽🇽 XX · Shadowsocks · 172ms | 053"
-      - "🇽🇽 XX · Shadowsocks · 197ms | 081"
-      - "🇽🇽 XX · Shadowsocks · 202ms | 104"
-      - "🇽🇽 XX · Shadowsocks · 203ms | 108"
-      - "🇽🇽 XX · Shadowsocks · 204ms | 111"
-      - "🇽🇽 XX · Shadowsocks · 477ms | 177"
-      - "🇽🇽 XX · Vmess · 490ms | 179"
-  - name: "🇩🇪 Germany"
+      - "🇽🇽 XX · Shadowsocks · 319ms | 080"
+      - "🇽🇽 XX · Shadowsocks · 336ms | 108"
+      - "🇽🇽 XX · Shadowsocks · 364ms | 124"
+      - "🇽🇽 XX · Vless · 507ms | 139"
+      - "🇽🇽 XX · Shadowsocks · 565ms | 147"
+      - "🇽🇽 XX · Shadowsocks · 734ms | 154"
+      - "🇽🇽 XX · Shadowsocks · 921ms | 161"
+      - "🇽🇽 XX · Shadowsocks · 1017ms | 165"
+      - "🇽🇽 XX · Shadowsocks · 1206ms | 168"
+      - "🇽🇽 XX · Shadowsocks · 1360ms | 176"
+      - "🇽🇽 XX · Vmess · 2227ms | 193"
+  - name: "🇦🇺 Australia"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇩🇪 DE · Frankfurt · Shadowsocks · 183ms | 057"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 199ms | 091"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 227ms | 143"
-      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 309ms | 153"
-      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 398ms | 161"
-      - "🇩🇪 DE · Frankfurt am Main · Vmess · 498ms | 182"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 630ms | 191"
-      - "🇩🇪 DE · Düsseldorf · Vmess · 769ms | 196"
-      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2053ms | 212"
-  - name: "🇵🇱 Poland"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 213ms | 137"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 214ms | 138"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 225ms | 142"
-      - "🇵🇱 PL · Wroclaw · Shadowsocks · 260ms | 147"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 284ms | 152"
-      - "🇵🇱 PL · Wroclaw · Vmess · 405ms | 164"
-      - "🇵🇱 PL · Warsaw · Shadowsocks · 571ms | 188"
-  - name: "🇬🇧 United Kingdom"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇬🇧 GB · London · Shadowsocks · 159ms | 049"
-      - "🇬🇧 GB · London · Shadowsocks · 176ms | 054"
-      - "🇬🇧 GB · Stretford · Shadowsocks · 187ms | 060"
-      - "🇬🇧 GB · Bexley · Vmess · 266ms | 150"
-      - "🇬🇧 GB · Blackburn · Vmess · 477ms | 178"
-      - "🇬🇧 GB · City of London · Shadowsocks · 1662ms | 210"
-  - name: "🇰🇷 South Korea"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇰🇷 KR · Seoul · Shadowsocks · 397ms | 160"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 403ms | 162"
-      - "🇰🇷 KR · Seoul · Vmess · 425ms | 167"
-      - "🇰🇷 KR · Seoul · Shadowsocks · 456ms | 174"
-      - "🇰🇷 KR · Chuncheon · Vmess · 463ms | 176"
-      - "🇰🇷 KR · Seoul · Vmess · 1899ms | 211"
-  - name: "🇫🇮 Finland"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇫🇮 FI · Helsinki · Vmess · 493ms | 181"
-      - "🇫🇮 FI · Helsinki · Vmess · 500ms | 183"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 520ms | 185"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1137ms | 203"
-      - "🇫🇮 FI · Helsinki · Shadowsocks · 1596ms | 209"
-  - name: "🇫🇷 France"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇫🇷 FR · Paris · Trojan · 263ms | 148"
-      - "🇫🇷 FR · Paris · Trojan · 282ms | 151"
-      - "🇫🇷 FR · Wattrelos · Vmess · 504ms | 184"
-      - "🇫🇷 FR · Wattrelos · Vmess · 543ms | 187"
-      - "🇫🇷 FR · Gravelines · Vmess · 610ms | 189"
-  - name: "🇸🇪 Sweden"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇸🇪 SE · Spånga · Shadowsocks · 200ms | 096"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 367ms | 157"
-      - "🇸🇪 SE · Stockholm · Shadowsocks · 396ms | 159"
+      - "🇦🇺 AU · Sydney · Vmess · 155ms | 027"
+      - "🇦🇺 AU · Sydney · Vmess · 169ms | 030"
+      - "🇦🇺 AU · Sydney · Vmess · 193ms | 032"
+      - "🇦🇺 AU · Sydney · Vmess · 202ms | 036"
+      - "🇦🇺 AU · Sydney · Vmess · 259ms | 039"
+      - "🇦🇺 AU · Sydney · Vmess · 329ms | 102"
+      - "🇦🇺 AU · Sydney · Vmess · 332ms | 107"
+      - "🇦🇺 AU · Sydney · Vmess · 339ms | 112"
+      - "🇦🇺 AU · Sydney · Vmess · 595ms | 150"
+      - "🇦🇺 AU · Sydney · Vmess · 2650ms | 200"
   - name: "🇭🇰 Hong Kong"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
@@ -2823,67 +2624,87 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "🇭🇰 HK · Hong Kong · Vmess · 405ms | 165"
-      - "🇭🇰 HK · Hong Kong · Vmess · 726ms | 194"
-  - name: "🇮🇳 India"
+      - "🇭🇰 HK · Hong Kong · Vmess · 584ms | 148"
+      - "🇭🇰 HK · Hong Kong · Vmess · 587ms | 149"
+      - "🇭🇰 HK · Hong Kong · Vmess · 724ms | 153"
+      - "🇭🇰 HK · Hong Kong · Vmess · 774ms | 155"
+      - "🇭🇰 HK · Hong Kong · Vmess · 980ms | 163"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1282ms | 171"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1747ms | 185"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1765ms | 186"
+      - "🇭🇰 HK · Hong Kong · Vmess · 1925ms | 188"
+      - "🇭🇰 HK · Hong Kong · Vmess · 2215ms | 192"
+  - name: "🇮🇹 Italy"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇮🇳 IN · Mumbai · Shadowsocks · 1518ms | 208"
-      - "🇮🇳 IN · Mumbai · Vmess · 2813ms | 216"
-  - name: "🇺🇦 Ukraine"
+      - "🇮🇹 IT · Milan · Shadowsocks · 314ms | 066"
+      - "🇮🇹 IT · Milan · Shadowsocks · 317ms | 075"
+      - "🇮🇹 IT · Milan · Shadowsocks · 337ms | 109"
+      - "🇮🇹 IT · Milan · Shadowsocks · 348ms | 115"
+      - "🇮🇹 IT · Milan · Shadowsocks · 354ms | 117"
+      - "🇮🇹 IT · Milan · Shadowsocks · 410ms | 130"
+      - "🇮🇹 IT · Milan · Shadowsocks · 561ms | 146"
+      - "🇮🇹 IT · Milan · Shadowsocks · 903ms | 159"
+      - "🇮🇹 IT · Milan · Shadowsocks · 1079ms | 166"
+  - name: "🇨🇦 Canada"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 189ms | 061"
-      - "🇺🇦 UA · Kharkiv · Shadowsocks · 386ms | 158"
-  - name: "🇿🇦 South Africa"
+      - "🇨🇦 CA · Vancouver · Shadowsocks · 25ms | 001"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 150ms | 025"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 152ms | 026"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 206ms | 038"
+      - "🇨🇦 CA · Montreal · Shadowsocks · 281ms | 040"
+      - "🇨🇦 CA · Beauharnois · Shadowsocks · 318ms | 077"
+      - "🇨🇦 CA · Montreal · Vmess · 319ms | 078"
+      - "🇨🇦 CA · Montreal · Vmess · 551ms | 143"
+  - name: "🇩🇪 Germany"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 169"
-      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 442ms | 170"
-  - name: "🇦🇹 Austria"
+      - "🇩🇪 DE · Frankfurt · Shadowsocks · 297ms | 042"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 297ms | 043"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 514ms | 141"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 777ms | 156"
+      - "🇩🇪 DE · Frankfurt Am Main · Vmess · 909ms | 160"
+      - "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 1404ms | 177"
+      - "🇩🇪 DE · Frankfurt am Main · Vmess · 1493ms | 180"
+      - "🇩🇪 DE · Düsseldorf · Shadowsocks · 2963ms | 206"
+  - name: "🇵🇱 Poland"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇦🇹 AT · Vienna · Shadowsocks · 231ms | 144"
-  - name: "🇨🇭 Switzerland"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 370ms | 125"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 388ms | 128"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 420ms | 134"
+      - "🇵🇱 PL · Warsaw · Shadowsocks · 481ms | 137"
+      - "🇵🇱 PL · Wroclaw · Shadowsocks · 671ms | 151"
+      - "🇵🇱 PL · Wroclaw · Vmess · 1111ms | 167"
+  - name: "🇯🇵 Japan"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇨🇭 CH · Zurich · Shadowsocks · 201ms | 100"
-  - name: "🇮🇪 Ireland"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇮🇪 IE · Dublin · Vmess · 138ms | 044"
-  - name: "🇷🇴 Romania"
-    type: "url-test"
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: true
-    proxies:
-      - "🇷🇴 RO · Voluntari · Shadowsocks · 265ms | 149"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 198ms | 033"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 199ms | 034"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 200ms | 035"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 202ms | 037"
+      - "🇯🇵 JP · Tokyo · Shadowsocks · 1960ms | 189"
   - name: "🇸🇬 Singapore"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
@@ -2891,15 +2712,145 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "🇸🇬 SG · Singapore · Shadowsocks · 443ms | 171"
-  - name: "🇹🇷 Türkiye"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 325ms | 093"
+      - "🇸🇬 SG · Singapore · Shadowsocks · 326ms | 094"
+      - "🇸🇬 SG · Singapore · Vmess · 1501ms | 181"
+      - "🇸🇬 SG · Singapore · Vmess · 1812ms | 187"
+      - "🇸🇬 SG · Singapore · Vless · 2229ms | 194"
+  - name: "🇫🇷 France"
     type: "url-test"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - "🇹🇷 TR · Istanbul · Vmess · 436ms | 168"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 304ms | 050"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 313ms | 061"
+      - "🇫🇷 FR · Gravelines · Vmess · 883ms | 158"
+      - "🇫🇷 FR · Roubaix · Shadowsocks · 1314ms | 174"
+  - name: "🇰🇷 South Korea"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇰🇷 KR · Seoul · Shadowsocks · 319ms | 082"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 377ms | 126"
+      - "🇰🇷 KR · Seoul · Shadowsocks · 410ms | 131"
+      - "🇰🇷 KR · Seoul · Vmess · 1275ms | 170"
+  - name: "🇫🇮 Finland"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1321ms | 175"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 1535ms | 182"
+      - "🇫🇮 FI · Helsinki · Shadowsocks · 2575ms | 198"
+  - name: "🇬🇧 United Kingdom"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇬🇧 GB · London · Shadowsocks · 294ms | 041"
+      - "🇬🇧 GB · Stretford · Shadowsocks · 311ms | 057"
+      - "🇬🇧 GB · Blackburn · Vmess · 672ms | 152"
+  - name: "🇿🇦 South Africa"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 555ms | 144"
+      - "🇿🇦 ZA · Johannesburg · Shadowsocks · 560ms | 145"
+      - "🇿🇦 ZA · Isando · Shadowsocks · 1610ms | 183"
+  - name: "🇸🇪 Sweden"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 1238ms | 169"
+      - "🇸🇪 SE · Stockholm · Shadowsocks · 2568ms | 197"
+  - name: "🇺🇦 Ukraine"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 359ms | 121"
+      - "🇺🇦 UA · Kharkiv · Shadowsocks · 525ms | 142"
+  - name: "🇦🇱 Albania"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇦🇱 AL · Tirana · Shadowsocks · 430ms | 136"
+  - name: "🇦🇹 Austria"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇦🇹 AT · Vienna · Shadowsocks · 356ms | 119"
+  - name: "🇨🇭 Switzerland"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇨🇭 CH · Zurich · Shadowsocks · 313ms | 063"
+  - name: "🇮🇳 India"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇮🇳 IN · Mumbai · Shadowsocks · 2242ms | 195"
+  - name: "🇲🇾 Malaysia"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇲🇾 MY · Kuala Lumpur · Shadowsocks · 338ms | 111"
+  - name: "🇳🇴 Norway"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇳🇴 NO · Oslo · Shadowsocks · 358ms | 120"
+  - name: "🇷🇴 Romania"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇷🇴 RO · Bucharest · Shadowsocks · 2707ms | 201"
+  - name: "🇷🇺 Russia"
+    type: "url-test"
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - "🇷🇺 RU · Moscow · Shadowsocks · 482ms | 138"
 rules:
   - "DOMAIN-SUFFIX,ir,🎯 Direct"
   - "DOMAIN-KEYWORD,arvancloud,🎯 Direct"
