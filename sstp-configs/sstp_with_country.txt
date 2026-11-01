@@ -1,158 +1,169 @@
-Australia | vpn289936273.opengw.net:1763
-Australia | vpn289936273.opengw.net:443
-Canada | vpn491348575.opengw.net:1697
-Canada | vpn491348575.opengw.net:443
-Germany | vpn125443299.opengw.net:443
-Hong Kong | vpn569128005.opengw.net:443
-Ireland | vpn531861252.opengw.net:443
+Brazil | vpn655862232.opengw.net:443
+Indonesia | intranet-bpkskaboki.opengw.net:443
+Indonesia | intranet2-bpkskaboki.opengw.net:443
+Indonesia | kaboki.opengw.net:443
 Japan | laud.opengw.net:443
-Japan | opengw.opengw.net:443
-Japan | public-vpn-105.opengw.net:443
-Japan | public-vpn-117.opengw.net:443
-Japan | public-vpn-135.opengw.net:443
-Japan | public-vpn-142.opengw.net:443
-Japan | public-vpn-144.opengw.net:443
-Japan | public-vpn-154.opengw.net:443
-Japan | public-vpn-184.opengw.net:443
-Japan | public-vpn-202.opengw.net:443
-Japan | public-vpn-223.opengw.net:443
-Japan | public-vpn-241.opengw.net:443
-Japan | public-vpn-252.opengw.net:443
-Japan | public-vpn-48.opengw.net:443
-Japan | public-vpn-51.opengw.net:443
-Japan | public-vpn-81.opengw.net:443
-Japan | public-vpn-90.opengw.net:443
-Japan | public-vpn-98.opengw.net:443
-Japan | vpn110150972.opengw.net:1446
-Japan | vpn110150972.opengw.net:443
-Japan | vpn194891947.opengw.net:1301
-Japan | vpn194891947.opengw.net:443
-Japan | vpn227553496.opengw.net:1905
-Japan | vpn227553496.opengw.net:443
-Japan | vpn370389678.opengw.net:443
-Japan | vpn377259827.opengw.net:443
-Japan | vpn419460835.opengw.net:443
-Japan | vpn457843824.opengw.net:1436
-Japan | vpn457843824.opengw.net:443
-Japan | vpn458309789.opengw.net:1645
-Japan | vpn458309789.opengw.net:443
-Japan | vpn468833361.opengw.net:1259
-Japan | vpn468833361.opengw.net:443
-Japan | vpn525509155.opengw.net:1984
-Japan | vpn525509155.opengw.net:443
-Japan | vpn527341570.opengw.net:1600
-Japan | vpn527341570.opengw.net:443
-Japan | vpn546302090.opengw.net:1376
-Japan | vpn546302090.opengw.net:443
-Japan | vpn556108657.opengw.net:1702
-Japan | vpn556108657.opengw.net:443
-Japan | vpn563091289.opengw.net:1918
-Japan | vpn563091289.opengw.net:443
-Japan | vpn564748125.opengw.net:1491
-Japan | vpn564748125.opengw.net:443
-Japan | vpn588054750.opengw.net:443
-Japan | vpn609012261.opengw.net:1276
-Japan | vpn609012261.opengw.net:443
-Japan | vpn615046637.opengw.net:1341
-Japan | vpn615046637.opengw.net:443
-Japan | vpn655880510.opengw.net:1263
-Japan | vpn655880510.opengw.net:443
-Japan | vpn661982.opengw.net:443
-Japan | vpn661982.opengw.net:7551
-Japan | vpn686472682.opengw.net:1490
-Japan | vpn686472682.opengw.net:443
-Japan | vpn707684064.opengw.net:1588
-Japan | vpn707684064.opengw.net:443
-Japan | vpn747396066.opengw.net:1270
-Japan | vpn747396066.opengw.net:443
-Japan | vpn805356347.opengw.net:443
-Japan | vpn819073110.opengw.net:1460
-Japan | vpn819073110.opengw.net:443
-Japan | vpn880633907.opengw.net:1767
-Japan | vpn880633907.opengw.net:443
-Japan | vpn903967687.opengw.net:1408
-Japan | vpn903967687.opengw.net:443
-Japan | vpn945998841.opengw.net:443
-Japan | vpn952955676.opengw.net:1587
-Japan | vpn952955676.opengw.net:443
-Japan | vpn975550277.opengw.net:1514
-Japan | vpn975550277.opengw.net:443
-Japan | vpn99990120.opengw.net:443
-Russia | vpn286492021.opengw.net:1886
-Russia | vpn286492021.opengw.net:443
-Russia | vpn307601868.opengw.net:443
-Russia | vpn439081314.opengw.net:1442
-Russia | vpn439081314.opengw.net:443
-Russia | vpn507542265.opengw.net:443
-Russia | vpn742688514.opengw.net:443
-Russia | vpn820800079.opengw.net:443
-Russia | vpn834633647.opengw.net:443
-Russia | vpn954393983.opengw.net:443
-South Korea | vpn162954440.opengw.net:443
-South Korea | vpn162954440.opengw.net:995
-South Korea | vpn196454265.opengw.net:1666
-South Korea | vpn196454265.opengw.net:443
-South Korea | vpn213976710.opengw.net:443
-South Korea | vpn213976710.opengw.net:995
-South Korea | vpn231526020.opengw.net:1783
-South Korea | vpn231526020.opengw.net:443
-South Korea | vpn301436682.opengw.net:443
-South Korea | vpn301436682.opengw.net:995
-South Korea | vpn321359264.opengw.net:1989
-South Korea | vpn321359264.opengw.net:443
-South Korea | vpn339986467.opengw.net:1904
-South Korea | vpn339986467.opengw.net:443
-South Korea | vpn347862715.opengw.net:1549
-South Korea | vpn347862715.opengw.net:443
-South Korea | vpn372434275.opengw.net:1832
-South Korea | vpn372434275.opengw.net:443
+Japan | public-vpn-108.opengw.net:443
+Japan | public-vpn-122.opengw.net:443
+Japan | public-vpn-136.opengw.net:443
+Japan | public-vpn-138.opengw.net:443
+Japan | public-vpn-162.opengw.net:443
+Japan | public-vpn-183.opengw.net:443
+Japan | public-vpn-218.opengw.net:443
+Japan | public-vpn-220.opengw.net:443
+Japan | public-vpn-234.opengw.net:443
+Japan | public-vpn-41.opengw.net:443
+Japan | public-vpn-46.opengw.net:443
+Japan | public-vpn-88.opengw.net:443
+Japan | vpn152163819.opengw.net:1805
+Japan | vpn152163819.opengw.net:443
+Japan | vpn167421173.opengw.net:1771
+Japan | vpn167421173.opengw.net:443
+Japan | vpn232935241.opengw.net:1775
+Japan | vpn232935241.opengw.net:443
+Japan | vpn282026883.opengw.net:1341
+Japan | vpn282026883.opengw.net:443
+Japan | vpn300383436.opengw.net:1554
+Japan | vpn300383436.opengw.net:443
+Japan | vpn313091159.opengw.net:1308
+Japan | vpn313091159.opengw.net:443
+Japan | vpn323765096.opengw.net:443
+Japan | vpn330446180.opengw.net:1542
+Japan | vpn330446180.opengw.net:443
+Japan | vpn339013576.opengw.net:1397
+Japan | vpn339013576.opengw.net:443
+Japan | vpn355445525.opengw.net:443
+Japan | vpn355445525.opengw.net:995
+Japan | vpn398717146.opengw.net:1289
+Japan | vpn398717146.opengw.net:443
+Japan | vpn407145859.opengw.net:1743
+Japan | vpn407145859.opengw.net:443
+Japan | vpn441877979.opengw.net:443
+Japan | vpn464496826.opengw.net:1671
+Japan | vpn464496826.opengw.net:443
+Japan | vpn488509501.opengw.net:1236
+Japan | vpn488509501.opengw.net:443
+Japan | vpn494800987.opengw.net:1390
+Japan | vpn494800987.opengw.net:443
+Japan | vpn495179031.opengw.net:1426
+Japan | vpn495179031.opengw.net:443
+Japan | vpn506288440.opengw.net:1598
+Japan | vpn506288440.opengw.net:443
+Japan | vpn544035541.opengw.net:1500
+Japan | vpn544035541.opengw.net:443
+Japan | vpn555449302.opengw.net:443
+Japan | vpn571931610.opengw.net:1909
+Japan | vpn571931610.opengw.net:443
+Japan | vpn579347997.opengw.net:1606
+Japan | vpn579347997.opengw.net:443
+Japan | vpn597991053.opengw.net:1861
+Japan | vpn597991053.opengw.net:443
+Japan | vpn604676767.opengw.net:1463
+Japan | vpn604676767.opengw.net:443
+Japan | vpn680872403.opengw.net:443
+Japan | vpn692840237.opengw.net:1402
+Japan | vpn692840237.opengw.net:443
+Japan | vpn705687526.opengw.net:1932
+Japan | vpn705687526.opengw.net:443
+Japan | vpn706932236.opengw.net:443
+Japan | vpn710141337.opengw.net:1289
+Japan | vpn710141337.opengw.net:443
+Japan | vpn757848378.opengw.net:1362
+Japan | vpn757848378.opengw.net:443
+Japan | vpn758610310.opengw.net:1891
+Japan | vpn758610310.opengw.net:443
+Japan | vpn791379006.opengw.net:443
+Japan | vpn837693710.opengw.net:1460
+Japan | vpn837693710.opengw.net:443
+Japan | vpn849985359.opengw.net:1773
+Japan | vpn849985359.opengw.net:443
+Japan | vpn854025244.opengw.net:1615
+Japan | vpn854025244.opengw.net:443
+Japan | vpn873220267.opengw.net:1890
+Japan | vpn873220267.opengw.net:443
+Japan | vpn890321947.opengw.net:1630
+Japan | vpn890321947.opengw.net:443
+Japan | vpn910329740.opengw.net:443
+Japan | vpn910767930.opengw.net:1769
+Japan | vpn910767930.opengw.net:443
+Japan | vpn926161461.opengw.net:1875
+Japan | vpn926161461.opengw.net:443
+Japan | vpn953960224.opengw.net:1223
+Japan | vpn953960224.opengw.net:443
+Japan | vpn970034535.opengw.net:1598
+Japan | vpn970034535.opengw.net:443
+Japan | vpn980675302.opengw.net:1765
+Japan | vpn980675302.opengw.net:443
+Jordan | vpn612902556.opengw.net:443
+Peru | vpn255850086.opengw.net:443
+Russia | vpn283848438.opengw.net:1695
+Russia | vpn283848438.opengw.net:443
+Russia | vpn345334780.opengw.net:443
+Russia | vpn364802490.opengw.net:1246
+Russia | vpn364802490.opengw.net:443
+Russia | vpn535130688.opengw.net:1563
+Russia | vpn535130688.opengw.net:443
+Russia | vpn581959162.opengw.net:443
+South Korea | vpn116864693.opengw.net:443
+South Korea | vpn116864693.opengw.net:995
+South Korea | vpn167045861.opengw.net:443
+South Korea | vpn167045861.opengw.net:995
+South Korea | vpn210064848.opengw.net:1784
+South Korea | vpn210064848.opengw.net:443
+South Korea | vpn265457647.opengw.net:1676
+South Korea | vpn265457647.opengw.net:443
+South Korea | vpn311787559.opengw.net:1249
+South Korea | vpn311787559.opengw.net:443
+South Korea | vpn345053404.opengw.net:1491
+South Korea | vpn345053404.opengw.net:443
 South Korea | vpn386579301.opengw.net:443
 South Korea | vpn386579301.opengw.net:995
-South Korea | vpn408889832.opengw.net:1739
-South Korea | vpn408889832.opengw.net:443
-South Korea | vpn447441184.opengw.net:443
-South Korea | vpn447441184.opengw.net:995
-South Korea | vpn458987833.opengw.net:1252
-South Korea | vpn458987833.opengw.net:443
-South Korea | vpn547262745.opengw.net:443
-South Korea | vpn547262745.opengw.net:995
-South Korea | vpn574892662.opengw.net:443
-South Korea | vpn574892662.opengw.net:995
-South Korea | vpn638006218.opengw.net:443
-South Korea | vpn638006218.opengw.net:995
-South Korea | vpn646117522.opengw.net:443
-South Korea | vpn646117522.opengw.net:995
-South Korea | vpn771151831.opengw.net:1761
-South Korea | vpn771151831.opengw.net:443
-South Korea | vpn816469082.opengw.net:1341
-South Korea | vpn816469082.opengw.net:443
-South Korea | vpn825962387.opengw.net:443
-South Korea | vpn825962387.opengw.net:995
-South Korea | vpn870877609.opengw.net:443
-South Korea | vpn870877609.opengw.net:995
-South Korea | vpn876260651.opengw.net:443
-South Korea | vpn876260651.opengw.net:995
-South Korea | vpn881639660.opengw.net:443
-South Korea | vpn881639660.opengw.net:995
-South Korea | vpn886732865.opengw.net:1406
-South Korea | vpn886732865.opengw.net:443
-South Korea | vpn964247477.opengw.net:1573
-South Korea | vpn964247477.opengw.net:443
-South Korea | vpn974047537.opengw.net:443
-South Korea | vpn974047537.opengw.net:995
-South Korea | vpn991682963.opengw.net:1556
-South Korea | vpn991682963.opengw.net:443
-Thailand | vpn326434950.opengw.net:443
-Thailand | vpn527493944.opengw.net:443
-Thailand | vpn652782433.opengw.net:443
-Thailand | vpn719752522.opengw.net:443
-Thailand | vpn812348403.opengw.net:443
-Thailand | vpn988000699.opengw.net:443
-Thailand | vpn995401268.opengw.net:443
-United States | vpn518122287.opengw.net:1960
-United States | vpn518122287.opengw.net:443
-Vietnam | vpn121728946.opengw.net:443
-Vietnam | vpn630618755.opengw.net:1956
-Vietnam | vpn630618755.opengw.net:443
-Vietnam | vpn864131273.opengw.net:443
-Vietnam | vpn864131273.opengw.net:995
+South Korea | vpn413571266.opengw.net:443
+South Korea | vpn413571266.opengw.net:995
+South Korea | vpn484776697.opengw.net:443
+South Korea | vpn484776697.opengw.net:995
+South Korea | vpn486404568.opengw.net:1595
+South Korea | vpn486404568.opengw.net:443
+South Korea | vpn529583355.opengw.net:1231
+South Korea | vpn529583355.opengw.net:443
+South Korea | vpn554718442.opengw.net:1283
+South Korea | vpn554718442.opengw.net:443
+South Korea | vpn590860386.opengw.net:1974
+South Korea | vpn590860386.opengw.net:443
+South Korea | vpn598832486.opengw.net:1918
+South Korea | vpn598832486.opengw.net:443
+South Korea | vpn610812005.opengw.net:443
+South Korea | vpn610812005.opengw.net:995
+South Korea | vpn648203125.opengw.net:443
+South Korea | vpn648203125.opengw.net:995
+South Korea | vpn661206485.opengw.net:1583
+South Korea | vpn661206485.opengw.net:443
+South Korea | vpn692929280.opengw.net:443
+South Korea | vpn692929280.opengw.net:995
+South Korea | vpn708024241.opengw.net:1937
+South Korea | vpn708024241.opengw.net:443
+South Korea | vpn716105516.opengw.net:443
+South Korea | vpn716105516.opengw.net:995
+South Korea | vpn767479473.opengw.net:443
+South Korea | vpn867088117.opengw.net:1598
+South Korea | vpn867088117.opengw.net:443
+South Korea | vpn893273760.opengw.net:1572
+South Korea | vpn893273760.opengw.net:443
+South Korea | vpn898274948.opengw.net:443
+South Korea | vpn898274948.opengw.net:995
+South Korea | vpn943218848.opengw.net:1956
+South Korea | vpn943218848.opengw.net:443
+South Korea | vpn960418984.opengw.net:1679
+South Korea | vpn960418984.opengw.net:443
+South Korea | vpn965205483.opengw.net:1800
+South Korea | vpn965205483.opengw.net:443
+South Korea | vpn979174395.opengw.net:1261
+South Korea | vpn979174395.opengw.net:443
+South Korea | vpn980149511.opengw.net:443
+South Korea | vpn980149511.opengw.net:995
+South Korea | vpn983328577.opengw.net:1499
+South Korea | vpn983328577.opengw.net:443
+Thailand | vpn441482379.opengw.net:443
+Thailand | vpn900296010.opengw.net:443
+United States | vpn832084507.opengw.net:1202
+United States | vpn832084507.opengw.net:443
