@@ -1,10 +1,7 @@
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@193.29.139.188:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-321ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-326ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-329ms-Unknown
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0=@129.150.59.74:14384?#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-330ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-339ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-367ms-Unknown
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-762ms-Unknown
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-896ms-Unknown
-vmess://eyJhZGQiOiIxNzIuNjcuMjIxLjc3IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJpZCI6IjgzYjA5YTY0LTFlYWYtNGM0ZC04OWVkLTg2NmQ0YjZiODExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii90cnV0aCIsInBvcnQiOiI0NDMiLCJwcyI6Imh0dHBzOi8vdC5tZS9Gb3JjZVJ1blZQTi3wn4+BLTEzMTRtcy1Vbmtub3duIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiI4MCIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfj4EtMTM5OG1zLVVua25vd24iLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NWRNMFpyTmRBazRPSGlN@20.107.206.186:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-149ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-192ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-197ms-Unknown
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-204ms-Unknown
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-558ms-Unknown
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-648ms-Unknown
+vmess://eyJhZGQiOiI0Ny4yNDMuNjUuMjQzIiwiYWlkIjowLCJob3N0IjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfj4EtMjg4OW1zLVVua25vd24iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
