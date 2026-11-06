@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-263ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-265ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-274ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-376ms-Unknown
-vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@95.142.32.42:8444?path=%2Fapi%2Fv1%2Fdevices%2F86f81c4330%2Ftelemetry&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl18.meshbeat.online&fp=qq&type=ws&allowInsecure=0&sni=nl18.meshbeat.online#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-572ms-Unknown
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-665ms-Unknown
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOiI0NDg2NyIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfj4EtODMzbXMtVW5rbm93biIsInNuaSI6IjQ3LjI0NC4xMjAuMTk3IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-1892ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-301ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-310ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-321ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-513ms-Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-560ms-Unknown
+vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjUxIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsImlkIjoiYmExMTE2ZTItOGMyZi00ZTNkLThlNTAtYzk1NDM2MGNmOTcwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicG9ydCI6IjQ0MyIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfj4EtOTY2bXMtVW5rbm93biIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
