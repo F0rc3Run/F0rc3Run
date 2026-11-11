@@ -1,162 +1,346 @@
 # Clash.Meta (mihomo) configuration
 # https://t.me/ForceRunVPN
-# 257 working proxies
+# 255 working proxies
 
 proxies:
-  - name: "🇦🇺 AU · Sydney · Vmess · 13ms | 001"
-    type: "vmess"
-    server: "84.17.41.2"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Tukwila · Shadowsocks · 15ms | 002"
-    type: "ss"
-    server: "216.244.76.140"
-    port: 16955
-    cipher: "aes-128-gcm"
-    password: "e57bcdf5175e23decbf7ebd68188edc3"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 22ms | 003"
-    type: "vmess"
-    server: "84.17.41.2"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Seattle · Shadowsocks · 35ms | 004"
-    type: "ss"
-    server: "38.143.66.146"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Santa Clara · Shadowsocks · 52ms | 005"
+  - name: "🇺🇸 US · Santa Clara · Shadowsocks · 6ms | 001"
     type: "ss"
     server: "137.184.89.151"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Santa Clara · Shadowsocks · 52ms | 006"
-    type: "ss"
-    server: "169.197.142.68"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Redondo Beach · Shadowsocks · 61ms | 007"
-    type: "ss"
-    server: "38.145.220.193"
-    port: 8443
-    cipher: "2022-blake3-aes-128-gcm"
-    password: "jUbDNsFamcyDfpm+rI3Zyw=="
-    udp: true
-  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 63ms | 008"
-    type: "ss"
-    server: "216.105.168.18"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "hCCWOcIsK5wrFz4OX70rWf"
-    udp: true
-  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 70ms | 009"
+  - name: "🇺🇸 US · Los Angeles · Shadowsocks · 23ms | 002"
     type: "ss"
     server: "23.150.152.38"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Santa Clara · Vmess · 82ms | 010"
-    type: "vmess"
-    server: "169.197.142.68"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Phoenix · Vmess · 85ms | 011"
-    type: "vmess"
-    server: "129.146.143.80"
-    port: 48111
-    uuid: "d4603cc2-e0ee-4651-83f5-1db5b7168177"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 91ms | 012"
+  - name: "🇺🇸 US · Redondo Beach · Shadowsocks · 23ms | 003"
     type: "ss"
-    server: "167.88.62.203"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    server: "38.145.220.193"
+    port: 8443
+    cipher: "2022-blake3-aes-128-gcm"
+    password: "jUbDNsFamcyDfpm+rI3Zyw=="
     udp: true
-  - name: "🇺🇸 US · Phoenix · Shadowsocks · 91ms | 013"
+  - name: "🇺🇸 US · Phoenix · Shadowsocks · 46ms | 004"
     type: "ss"
     server: "95.215.201.18"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 92ms | 014"
+  - name: "🇺🇸 US · Seattle · Shadowsocks · 49ms | 005"
     type: "ss"
-    server: "167.17.67.171"
+    server: "38.143.66.146"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Phoenix · Shadowsocks · 95ms | 015"
-    type: "ss"
-    server: "173.244.56.9"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
+  - name: "🇦🇺 AU · Sydney · Vmess · 66ms | 006"
+    type: "vmess"
+    server: "84.17.41.2"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 104ms | 016"
-    type: "ss"
-    server: "167.88.62.56"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Chicago · Shadowsocks · 109ms | 017"
-    type: "ss"
-    server: "67.220.73.178"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Chicago · Shadowsocks · 110ms | 018"
-    type: "ss"
-    server: "216.106.178.169"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 113ms | 019"
-    type: "ss"
-    server: "156.146.38.169"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 117ms | 020"
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 84ms | 007"
     type: "ss"
     server: "156.146.38.167"
     port: 443
     cipher: "aes-128-gcm"
     password: "shadowsocks"
     udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 118ms | 021"
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 87ms | 008"
+    type: "ss"
+    server: "167.17.67.171"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 88ms | 009"
+    type: "ss"
+    server: "156.146.38.169"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 89ms | 010"
     type: "ss"
     server: "156.146.38.170"
     port: 443
     cipher: "aes-128-gcm"
     password: "shadowsocks"
     udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 118ms | 022"
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 92ms | 011"
+    type: "ss"
+    server: "156.146.38.168"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 93ms | 012"
+    type: "ss"
+    server: "167.88.62.203"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Dallas · Shadowsocks · 93ms | 013"
+    type: "ss"
+    server: "167.88.62.56"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Chicago · Shadowsocks · 102ms | 014"
+    type: "ss"
+    server: "67.220.73.178"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Chicago · Shadowsocks · 102ms | 015"
+    type: "ss"
+    server: "38.128.66.32"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Chicago · Shadowsocks · 103ms | 016"
+    type: "ss"
+    server: "38.64.138.135"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇲🇽 MX · Querétaro City · Shadowsocks · 106ms | 017"
+    type: "ss"
+    server: "64.177.90.30"
+    port: 8388
+    cipher: "aes-256-gcm"
+    password: "BWyPPTusFKhGgzKh"
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 113ms | 018"
+    type: "ss"
+    server: "149.40.57.133"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 115ms | 019"
+    type: "ss"
+    server: "149.40.57.135"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 115ms | 020"
+    type: "ss"
+    server: "149.40.57.138"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 117ms | 021"
+    type: "ss"
+    server: "185.215.132.9"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 117ms | 022"
+    type: "ss"
+    server: "185.215.132.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 118ms | 023"
+    type: "ss"
+    server: "38.121.43.231"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 118ms | 024"
+    type: "ss"
+    server: "38.121.43.225"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 118ms | 025"
+    type: "ss"
+    server: "38.22.17.219"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 118ms | 026"
+    type: "ss"
+    server: "38.121.43.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 118ms | 027"
+    type: "ss"
+    server: "172.111.36.123"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 118ms | 028"
+    type: "ss"
+    server: "149.40.57.134"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 119ms | 029"
+    type: "ss"
+    server: "38.22.17.129"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 119ms | 030"
+    type: "ss"
+    server: "38.22.17.214"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 120ms | 031"
+    type: "ss"
+    server: "38.22.17.139"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 121ms | 032"
+    type: "ss"
+    server: "167.88.63.99"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Shadowsocks · 123ms | 033"
+    type: "ss"
+    server: "167.88.63.39"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Reston · Shadowsocks · 130ms | 034"
+    type: "ss"
+    server: "15.204.247.206"
+    port: 4444
+    cipher: "aes-256-gcm"
+    password: "pKEW8JPByTVTLtM"
+    udp: true
+  - name: "🇺🇸 US · Reston · Shadowsocks · 130ms | 035"
+    type: "ss"
+    server: "15.204.247.244"
+    port: 4444
+    cipher: "aes-256-gcm"
+    password: "pKEW8JPByTVTLtM"
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 134ms | 036"
+    type: "ss"
+    server: "162.251.62.31"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Newark · Shadowsocks · 134ms | 037"
+    type: "ss"
+    server: "193.151.163.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · New York · Shadowsocks · 134ms | 038"
+    type: "ss"
+    server: "38.91.100.39"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 135ms | 039"
+    type: "ss"
+    server: "193.151.160.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 135ms | 040"
+    type: "ss"
+    server: "193.151.160.9"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 136ms | 041"
+    type: "ss"
+    server: "66.163.125.120"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 137ms | 042"
+    type: "ss"
+    server: "51.222.155.32"
+    port: 5003
+    cipher: "aes-256-gcm"
+    password: "g5MeD6Ft3CWlJId"
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 137ms | 043"
+    type: "ss"
+    server: "38.91.107.19"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 137ms | 044"
+    type: "ss"
+    server: "169.197.140.247"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 137ms | 045"
+    type: "ss"
+    server: "38.91.107.57"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 140ms | 046"
+    type: "ss"
+    server: "51.222.200.165"
+    port: 5000
+    cipher: "aes-256-gcm"
+    password: "Y6R9pAtvxxzmGC"
+    udp: true
+  - name: "🇺🇸 US · Clifton · Shadowsocks · 143ms | 047"
+    type: "ss"
+    server: "138.197.89.234"
+    port: 28960
+    cipher: "chacha20-ietf-poly1305"
+    password: "DZRy4Q3QH0jUGfKFl2jDCZ"
+    udp: true
+  - name: "🇨🇦 CA · Montreal · Shadowsocks · 144ms | 048"
+    type: "ss"
+    server: "51.222.136.236"
+    port: 8882
+    cipher: "aes-256-gcm"
+    password: "kDWvXYZoTBcGkC4"
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 152ms | 049"
     type: "vmess"
     server: "134.195.196.211"
     port: 18000
@@ -164,14 +348,66 @@ proxies:
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Chicago · Shadowsocks · 119ms | 023"
+  - name: "🇺🇸 US · Ashburn · Shadowsocks · 152ms | 050"
     type: "ss"
-    server: "38.128.66.32"
+    server: "45.86.51.18"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Los Angeles · Vmess · 120ms | 024"
+  - name: "🇺🇸 US · Washington · Shadowsocks · 157ms | 051"
+    type: "ss"
+    server: "172.111.38.72"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇲🇽 MX · Mexico City · Vmess · 158ms | 052"
+    type: "vmess"
+    server: "38.60.224.173"
+    port: 32153
+    uuid: "5cf1f470-3f70-4589-a2a4-4657ea3a1edf"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇺🇸 US · Washington · Shadowsocks · 160ms | 053"
+    type: "ss"
+    server: "185.230.230.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 161ms | 054"
+    type: "vmess"
+    server: "67.220.85.46"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇺🇸 US · Miami · Shadowsocks · 162ms | 055"
+    type: "ss"
+    server: "38.91.107.188"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 174ms | 056"
+    type: "vmess"
+    server: "38.110.1.246"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇨🇦 CA · Montreal · Shadowsocks · 175ms | 057"
+    type: "ss"
+    server: "158.51.121.221"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Los Angeles · Vmess · 176ms | 058"
     type: "vmess"
     server: "23.150.152.65"
     port: 1270
@@ -181,126 +417,28 @@ proxies:
     udp: true
     tls: true
     servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 122ms | 025"
+  - name: "🇨🇦 CA · Montreal · Shadowsocks · 184ms | 059"
     type: "ss"
-    server: "185.215.132.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 122ms | 026"
-    type: "ss"
-    server: "15.204.246.132"
-    port: 7307
-    cipher: "aes-256-gcm"
-    password: "FoOiGlkAA9yPEGP"
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 122ms | 027"
-    type: "ss"
-    server: "185.215.132.9"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 122ms | 028"
-    type: "ss"
-    server: "149.40.57.133"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Dallas · Shadowsocks · 123ms | 029"
-    type: "ss"
-    server: "156.146.38.168"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 123ms | 030"
-    type: "ss"
-    server: "38.121.43.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 123ms | 031"
-    type: "ss"
-    server: "38.121.43.225"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 123ms | 032"
-    type: "ss"
-    server: "149.40.57.138"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 123ms | 033"
-    type: "ss"
-    server: "149.40.57.134"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 123ms | 034"
-    type: "ss"
-    server: "38.22.17.214"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 124ms | 035"
-    type: "ss"
-    server: "38.22.17.129"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 124ms | 036"
-    type: "ss"
-    server: "38.121.43.231"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 124ms | 037"
-    type: "ss"
-    server: "38.22.17.219"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 124ms | 038"
-    type: "ss"
-    server: "167.88.63.99"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 124ms | 039"
-    type: "ss"
-    server: "167.88.63.39"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 124ms | 040"
-    type: "ss"
-    server: "149.40.57.135"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Reston · Shadowsocks · 125ms | 041"
-    type: "ss"
-    server: "15.204.246.108"
-    port: 8881
+    server: "51.79.49.116"
+    port: 8882
     cipher: "aes-256-gcm"
     password: "kDWvXYZoTBcGkC4"
     udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 127ms | 042"
+  - name: "🇨🇦 CA · Montreal · Shadowsocks · 188ms | 060"
+    type: "ss"
+    server: "51.79.64.198"
+    port: 8119
+    cipher: "aes-256-gcm"
+    password: "cdBIDV42DCwnfIN"
+    udp: true
+  - name: "🇺🇸 US · Santa Clara · Shadowsocks · 190ms | 061"
+    type: "ss"
+    server: "169.197.142.68"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 205ms | 062"
     type: "vmess"
     server: "23.162.200.198"
     port: 18000
@@ -308,139 +446,74 @@ proxies:
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Atlanta · Shadowsocks · 129ms | 043"
-    type: "ss"
-    server: "38.22.17.139"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  - name: "🇺🇸 US · Miami · Vmess · 230ms | 063"
+    type: "vmess"
+    server: "67.220.74.250"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Newark · Shadowsocks · 133ms | 044"
-    type: "ss"
-    server: "193.151.163.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇺🇸 US · Atlanta · Vmess · 233ms | 064"
+    type: "vmess"
+    server: "38.22.17.251"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 134ms | 045"
-    type: "ss"
-    server: "51.222.136.236"
-    port: 8882
-    cipher: "aes-256-gcm"
-    password: "kDWvXYZoTBcGkC4"
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇺🇸 US · Miami · Vmess · 236ms | 065"
+    type: "vmess"
+    server: "67.220.74.188"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · Chicago · Shadowsocks · 135ms | 046"
-    type: "ss"
-    server: "38.64.138.135"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇺🇸 US · Santa Clara · Vmess · 240ms | 066"
+    type: "vmess"
+    server: "169.197.142.68"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 136ms | 047"
-    type: "ss"
-    server: "51.79.49.116"
-    port: 8882
-    cipher: "aes-256-gcm"
-    password: "kDWvXYZoTBcGkC4"
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇺🇸 US · Ashburn · Vmess · 240ms | 067"
+    type: "vmess"
+    server: "67.220.95.49"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
     udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 137ms | 048"
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇺🇸 US · Miami · Vmess · 240ms | 068"
+    type: "vmess"
+    server: "67.220.74.197"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇽🇽 XX · Shadowsocks · 260ms | 069"
     type: "ss"
-    server: "198.98.53.130"
+    server: "68.219.96.146"
     port: 443
     cipher: "chacha20-ietf-poly1305"
-    password: "eDfN7SODQceIOmIAbtJJtK"
+    password: "G2shlbeRXdE45aVA"
     udp: true
-  - name: "🇺🇸 US · New York · Shadowsocks · 139ms | 049"
-    type: "ss"
-    server: "38.91.100.39"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Dallas · Vmess · 142ms | 050"
-    type: "vmess"
-    server: "167.88.62.134"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Clifton · Shadowsocks · 147ms | 051"
-    type: "ss"
-    server: "138.197.89.234"
-    port: 28960
-    cipher: "chacha20-ietf-poly1305"
-    password: "DZRy4Q3QH0jUGfKFl2jDCZ"
-    udp: true
-  - name: "🇺🇸 US · Dallas · Vmess · 147ms | 052"
-    type: "vmess"
-    server: "167.88.62.56"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Washington · Shadowsocks · 149ms | 053"
-    type: "ss"
-    server: "172.111.38.72"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 150ms | 054"
-    type: "ss"
-    server: "158.51.121.221"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇺🇸 US · Dallas · Vmess · 150ms | 055"
-    type: "vmess"
-    server: "167.88.62.51"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Reston · Shadowsocks · 150ms | 056"
-    type: "ss"
-    server: "15.204.233.41"
-    port: 8882
-    cipher: "aes-256-gcm"
-    password: "kDWvXYZoTBcGkC4"
-    udp: true
-  - name: "🇺🇸 US · Ashburn · Shadowsocks · 153ms | 057"
-    type: "ss"
-    server: "45.86.51.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 154ms | 058"
-    type: "vmess"
-    server: "38.91.107.49"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Chicago · Vmess · 156ms | 059"
-    type: "vmess"
-    server: "38.128.66.212"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Chicago · Vmess · 157ms | 060"
+  - name: "🇺🇸 US · Chicago · Vmess · 264ms | 070"
     type: "vmess"
     server: "38.64.138.187"
     port: 1270
@@ -450,30 +523,16 @@ proxies:
     udp: true
     tls: true
     servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Miami · Shadowsocks · 158ms | 061"
+  - name: "🇽🇽 XX · Shadowsocks · 264ms | 071"
     type: "ss"
-    server: "38.91.107.57"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    server: "68.219.96.146"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "8ds10bQrvY4KE8Tz"
     udp: true
-  - name: "🇺🇸 US · Miami · Shadowsocks · 162ms | 062"
-    type: "ss"
-    server: "66.163.125.120"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 163ms | 063"
-    type: "ss"
-    server: "51.79.64.198"
-    port: 8119
-    cipher: "aes-256-gcm"
-    password: "cdBIDV42DCwnfIN"
-    udp: true
-  - name: "🇺🇸 US · Chicago · Vmess · 167ms | 064"
+  - name: "🇺🇸 US · Chicago · Vmess · 266ms | 072"
     type: "vmess"
-    server: "162.251.61.46"
+    server: "162.251.60.97"
     port: 1270
     uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
     alterId: 0
@@ -481,23 +540,16 @@ proxies:
     udp: true
     tls: true
     servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Washington · Shadowsocks · 169ms | 065"
+  - name: "🇬🇧 GB · London · Shadowsocks · 274ms | 073"
     type: "ss"
-    server: "185.230.230.18"
+    server: "198.244.201.129"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇲🇽 MX · Querétaro City · Shadowsocks · 169ms | 066"
-    type: "ss"
-    server: "64.177.90.30"
-    port: 8388
-    cipher: "aes-256-gcm"
-    password: "BWyPPTusFKhGgzKh"
-    udp: true
-  - name: "🇺🇸 US · Chicago · Vmess · 174ms | 067"
+  - name: "🇺🇸 US · New York · Vmess · 277ms | 074"
     type: "vmess"
-    server: "38.128.66.241"
+    server: "38.91.100.69"
     port: 1270
     uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
     alterId: 0
@@ -505,14 +557,28 @@ proxies:
     udp: true
     tls: true
     servername: "xmfhlpy.com"
-  - name: "🇺🇸 US · Miami · Shadowsocks · 177ms | 068"
+  - name: "🇬🇧 GB · London · Shadowsocks · 279ms | 075"
     type: "ss"
-    server: "38.91.107.188"
+    server: "158.173.24.73"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇹🇼 TW · Taipei · Shadowsocks · 284ms | 076"
+    type: "ss"
+    server: "amasoid.ddns.net"
+    port: 14514
+    cipher: "2022-blake3-aes-128-gcm"
+    password: "b7I6g7l7fJhBaMInJ+zkzw=="
+    udp: true
+  - name: "🇬🇧 GB · City of London · Shadowsocks · 287ms | 077"
+    type: "ss"
+    server: "185.176.206.9"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇺🇸 US · Chicago · Vmess · 177ms | 069"
+  - name: "🇺🇸 US · Chicago · Vmess · 290ms | 078"
     type: "vmess"
     server: "38.128.66.249"
     port: 1270
@@ -522,44 +588,830 @@ proxies:
     udp: true
     tls: true
     servername: "xmfhlpy.com"
-  - name: "🇲🇽 MX · Mexico City · Vmess · 179ms | 070"
-    type: "vmess"
-    server: "38.60.224.173"
-    port: 32153
-    uuid: "5cf1f470-3f70-4589-a2a4-4657ea3a1edf"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇺🇸 US · Miami · Shadowsocks · 182ms | 071"
+  - name: "🇬🇧 GB · City of London · Shadowsocks · 290ms | 079"
     type: "ss"
-    server: "162.251.62.31"
+    server: "38.114.120.221"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 191ms | 072"
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 291ms | 080"
     type: "ss"
-    server: "51.222.200.165"
-    port: 5000
+    server: "193.108.117.84"
+    port: 19999
     cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 197ms | 073"
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 293ms | 081"
+    type: "ss"
+    server: "193.108.117.111"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 293ms | 082"
+    type: "ss"
+    server: "185.176.204.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 294ms | 083"
+    type: "ss"
+    server: "151.241.19.29"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇬🇧 GB · Slough · Shadowsocks · 294ms | 084"
+    type: "ss"
+    server: "67.159.56.79"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "~4HT,}bC@heiRai"
+    udp: true
+  - name: "🇫🇷 FR · Wattrelos · Shadowsocks · 296ms | 085"
+    type: "ss"
+    server: "79.137.99.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 297ms | 086"
+    type: "ss"
+    server: "193.108.119.2"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇬🇧 GB · City of London · Shadowsocks · 298ms | 087"
+    type: "ss"
+    server: "142.202.51.22"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇺🇸 US · Atlanta · Vmess · 299ms | 088"
     type: "vmess"
-    server: "38.110.1.246"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    server: "38.22.17.64"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 198ms | 074"
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 299ms | 089"
     type: "ss"
-    server: "149.22.87.241"
+    server: "185.226.172.8"
+    port: 8008
+    cipher: "aes-256-gcm"
+    password: "XKFKl2rULjIp74"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 299ms | 090"
+    type: "ss"
+    server: "194.127.178.161"
+    port: 8080
+    cipher: "xchacha20-ietf-poly1305"
+    password: "E4Q4BZABVWD/ycEe07kXlEAKJCmw9NargKjkLZ0kmaY="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 300ms | 091"
+    type: "ss"
+    server: "23.157.88.43"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 301ms | 092"
+    type: "ss"
+    server: "193.108.119.3"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇬🇧 GB · Stretford · Shadowsocks · 305ms | 093"
+    type: "ss"
+    server: "141.98.101.178"
     port: 443
     cipher: "aes-128-gcm"
     password: "shadowsocks"
     udp: true
-  - name: "🇨🇦 CA · Montreal · Vmess · 221ms | 075"
+  - name: "🇫🇷 FR · Paris · Shadowsocks · 306ms | 094"
+    type: "ss"
+    server: "167.17.64.22"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 307ms | 095"
+    type: "ss"
+    server: "193.108.116.98"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 309ms | 096"
+    type: "ss"
+    server: "193.108.119.83"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇫🇷 FR · Paris · Shadowsocks · 309ms | 097"
+    type: "ss"
+    server: "167.17.64.175"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 310ms | 098"
+    type: "ss"
+    server: "156.67.120.205"
+    port: 51628
+    cipher: "chacha20-ietf-poly1305"
+    password: "29ZZXVa34x7sC48w9FKQ54UKHiJJGTVgKFppBRgviLrVCAYVVyKZdD3obbpjCyk31V5b2G2d7xzqmaPBFdcheCVB9UQ4ZghF"
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 310ms | 099"
+    type: "ss"
+    server: "193.108.118.247"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 310ms | 100"
+    type: "ss"
+    server: "193.29.139.132"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 310ms | 101"
+    type: "ss"
+    server: "82.38.31.187"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 102"
+    type: "ss"
+    server: "82.38.31.185"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 103"
+    type: "ss"
+    server: "151.241.19.36"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 104"
+    type: "ss"
+    server: "82.38.31.170"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 105"
+    type: "ss"
+    server: "82.38.31.156"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 312ms | 106"
+    type: "ss"
+    server: "141.98.101.181"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 312ms | 107"
+    type: "ss"
+    server: "178.83.185.156"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇫🇷 FR · Paris · Shadowsocks · 313ms | 108"
+    type: "ss"
+    server: "23.162.152.22"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 109"
+    type: "ss"
+    server: "82.38.31.194"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇫🇷 FR · Paris · Shadowsocks · 315ms | 110"
+    type: "ss"
+    server: "172.99.189.142"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇨🇭 CH · Zurich · Shadowsocks · 316ms | 111"
+    type: "ss"
+    server: "23.166.88.127"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 318ms | 112"
+    type: "ss"
+    server: "202.50.253.90"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 318ms | 113"
+    type: "ss"
+    server: "82.38.31.191"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 114"
+    type: "ss"
+    server: "82.38.31.204"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 115"
+    type: "ss"
+    server: "82.38.31.35"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 116"
+    type: "ss"
+    server: "82.38.31.66"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 117"
+    type: "ss"
+    server: "82.38.31.201"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 118"
+    type: "ss"
+    server: "82.38.31.165"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 119"
+    type: "ss"
+    server: "82.38.31.47"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 321ms | 120"
+    type: "ss"
+    server: "185.164.175.81"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 121"
+    type: "ss"
+    server: "82.38.31.62"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 321ms | 122"
+    type: "ss"
+    server: "57.129.76.233"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 123"
+    type: "ss"
+    server: "82.38.31.162"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 124"
+    type: "ss"
+    server: "82.38.31.212"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 323ms | 125"
+    type: "ss"
+    server: "193.29.139.198"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 324ms | 126"
+    type: "ss"
+    server: "57.129.83.85"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 324ms | 127"
+    type: "ss"
+    server: "82.38.31.39"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇫🇷 FR · Paris · Shadowsocks · 325ms | 128"
+    type: "ss"
+    server: "38.109.228.110"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 326ms | 129"
+    type: "ss"
+    server: "82.38.31.186"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 326ms | 130"
+    type: "ss"
+    server: "82.38.31.49"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 326ms | 131"
+    type: "ss"
+    server: "104.222.183.180"
+    port: 47195
+    cipher: "chacha20-ietf-poly1305"
+    password: "DYVqFDnYoMquRQunXC1xd2FyuDhd7JWs5jtf2eb7VkKLzXgZv8pt8gY1e91TT71V762zRX7MWW4HmjavanYdUF9bij8gG8AP"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 326ms | 132"
+    type: "ss"
+    server: "82.38.31.218"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇫🇷 FR · Paris · Shadowsocks · 326ms | 133"
+    type: "ss"
+    server: "167.17.64.27"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 134"
+    type: "ss"
+    server: "82.38.31.203"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 327ms | 135"
+    type: "ss"
+    server: "202.50.253.72"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 136"
+    type: "ss"
+    server: "82.38.31.184"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 137"
+    type: "ss"
+    server: "82.38.31.220"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 327ms | 138"
+    type: "ss"
+    server: "202.50.253.81"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 327ms | 139"
+    type: "ss"
+    server: "82.38.31.198"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 140"
+    type: "ss"
+    server: "82.38.31.215"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 328ms | 141"
+    type: "ss"
+    server: "202.50.253.27"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 142"
+    type: "ss"
+    server: "82.38.31.182"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 143"
+    type: "ss"
+    server: "82.38.31.181"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 144"
+    type: "ss"
+    server: "82.38.31.192"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 328ms | 145"
+    type: "ss"
+    server: "82.38.31.193"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇨🇭 CH · Zurich · Shadowsocks · 329ms | 146"
+    type: "ss"
+    server: "186.190.215.251"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 329ms | 147"
+    type: "ss"
+    server: "82.38.31.179"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 148"
+    type: "ss"
+    server: "82.38.31.171"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 330ms | 149"
+    type: "ss"
+    server: "82.38.31.214"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 331ms | 150"
+    type: "ss"
+    server: "194.87.233.93"
+    port: 46190
+    cipher: "chacha20-ietf-poly1305"
+    password: "2Ef8X21WALqK7H6N8A78j5WYtzZ999PP8rF8DaLsb5LLyDLQpf5dGVAjdA3mj1wudigKXTt5heYU9jmaBbfxXBJJAqhPHkxe"
+    udp: true
+  - name: "🇨🇭 CH · Zurich · Shadowsocks · 331ms | 151"
+    type: "ss"
+    server: "23.166.88.189"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 333ms | 152"
+    type: "ss"
+    server: "82.38.31.46"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 333ms | 153"
+    type: "ss"
+    server: "193.29.139.235"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇪🇸 ES · Madrid · Shadowsocks · 333ms | 154"
+    type: "ss"
+    server: "62.93.179.117"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 334ms | 155"
+    type: "ss"
+    server: "202.50.253.18"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 334ms | 156"
+    type: "ss"
+    server: "82.38.31.202"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 334ms | 157"
+    type: "ss"
+    server: "82.38.31.207"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 335ms | 158"
+    type: "ss"
+    server: "82.38.31.213"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 336ms | 159"
+    type: "ss"
+    server: "82.38.31.61"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 336ms | 160"
+    type: "ss"
+    server: "82.38.31.206"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇪🇸 ES · Madrid · Shadowsocks · 337ms | 161"
+    type: "ss"
+    server: "62.93.179.97"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 338ms | 162"
+    type: "ss"
+    server: "149.88.107.74"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 338ms | 163"
+    type: "ss"
+    server: "193.29.139.168"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "QCXDxuDlTTMD7jtgHUjIoj"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 164"
+    type: "ss"
+    server: "82.38.31.190"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 339ms | 165"
+    type: "ss"
+    server: "202.50.253.36"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 339ms | 166"
+    type: "ss"
+    server: "51.79.228.131"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 339ms | 167"
+    type: "ss"
+    server: "149.88.106.74"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇨🇭 CH · Zurich · Shadowsocks · 339ms | 168"
+    type: "ss"
+    server: "79.127.184.104"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇵🇱 PL · Wroclaw · Shadowsocks · 339ms | 169"
+    type: "ss"
+    server: "54.36.174.140"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "eetk7pw"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 339ms | 170"
+    type: "ss"
+    server: "82.38.31.200"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 340ms | 171"
+    type: "ss"
+    server: "149.88.107.47"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 340ms | 172"
+    type: "ss"
+    server: "202.50.253.45"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 340ms | 173"
+    type: "ss"
+    server: "129.150.59.74"
+    port: 14384
+    cipher: "2022-blake3-aes-256-gcm"
+    password: "sUR6Ny8Y6PSvHhl/DUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA="
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 341ms | 174"
+    type: "ss"
+    server: "15.235.164.133"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇦🇹 AT · Vienna · Shadowsocks · 343ms | 175"
+    type: "ss"
+    server: "82.110.60.9"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 343ms | 176"
+    type: "ss"
+    server: "82.38.31.216"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 343ms | 177"
+    type: "ss"
+    server: "62.182.193.228"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "2e555e46dbc421452416834962fd014f"
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 345ms | 178"
+    type: "ss"
+    server: "15.235.182.183"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 347ms | 179"
+    type: "ss"
+    server: "77.221.132.206"
+    port: 24759
+    cipher: "chacha20-ietf-poly1305"
+    password: "hCgbUnMaoAfSgvE8IKdnGu"
+    udp: true
+  - name: "🇸🇬 SG · Singapore · Shadowsocks · 348ms | 180"
+    type: "ss"
+    server: "149.88.106.73"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 350ms | 181"
+    type: "ss"
+    server: "149.50.215.234"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇪🇸 ES · Barcelona · Shadowsocks · 350ms | 182"
+    type: "ss"
+    server: "108.181.71.165"
+    port: 10840
+    cipher: "aes-128-gcm"
+    password: "cac96c2692d85bc2dceec378cea6c83f"
+    udp: true
+  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 353ms | 183"
+    type: "ss"
+    server: "138.199.55.243"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇦🇹 AT · Vienna · Shadowsocks · 353ms | 184"
+    type: "ss"
+    server: "152.53.1.57"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "AdawffFMHymlasRb0VOP3HFf7sTG5sJx"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 363ms | 185"
+    type: "ss"
+    server: "82.38.31.210"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇴 NO · Oslo · Shadowsocks · 363ms | 186"
+    type: "ss"
+    server: "185.213.23.63"
+    port: 990
+    cipher: "chacha20-ietf-poly1305"
+    password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+    udp: true
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 366ms | 187"
+    type: "ss"
+    server: "84.247.155.196"
+    port: 443
+    cipher: "aes-256-gcm"
+    password: "3eOFeNssde7PYYMv"
+    udp: true
+  - name: "🇰🇷 KR · Chuncheon · Vmess · 369ms | 188"
+    type: "vmess"
+    server: "146.56.112.110"
+    port: 8888
+    uuid: "e7c302f3-90d6-42dd-9d7d-94a3683a3707"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇪🇸 ES · Madrid · Shadowsocks · 377ms | 189"
+    type: "ss"
+    server: "66.163.118.103"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇪🇸 ES · Madrid · Shadowsocks · 381ms | 190"
+    type: "ss"
+    server: "79.127.139.242"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇪🇸 ES · Madrid · Shadowsocks · 395ms | 191"
+    type: "ss"
+    server: "167.17.71.167"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇷🇴 RO · Voluntari · Shadowsocks · 402ms | 192"
+    type: "ss"
+    server: "154.46.31.106"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "QFWzCw2uX9B9i6qAYeFBIE"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 406ms | 193"
+    type: "ss"
+    server: "216.172.144.199"
+    port: 40643
+    cipher: "chacha20-ietf-poly1305"
+    password: "Xd4G9xn7AgT88msCYC9MZfavMUqd3dWFNAvswi6KfaD9YcexptMbPn4cSECEMzDgvAMomAWJHyweqJer99ssMVYGH6TK8k4c"
+    udp: true
+  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 407ms | 194"
+    type: "ss"
+    server: "213.176.92.148"
+    port: 40647
+    cipher: "aes-256-gcm"
+    password: "DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg/cUUY="
+    udp: true
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 407ms | 195"
+    type: "ss"
+    server: "202.50.253.99"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇨🇦 CA · Montreal · Vmess · 419ms | 196"
     type: "vmess"
     server: "158.51.121.246"
     port: 1270
@@ -569,991 +1421,54 @@ proxies:
     udp: true
     tls: true
     servername: "xmfhlpy.com"
-  - name: "🇽🇽 XX · Shadowsocks · 251ms | 076"
-    type: "ss"
-    server: "68.219.96.146"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "8ds10bQrvY4KE8Tz"
-    udp: true
-  - name: "🇮🇪 IE · Dublin · Shadowsocks · 258ms | 077"
-    type: "ss"
-    server: "18.202.232.173"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "KoJrr14BKAiBUHEoWHFsAVrNzbNVzjKN"
-    udp: true
-  - name: "🇮🇪 IE · Dublin · Vmess · 263ms | 078"
-    type: "vmess"
-    server: "54.229.151.97"
-    port: 59236
-    uuid: "2387bfbc-10a6-4bd7-dc55-7cba954ce6e8"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "http"
-    http-opts:
-      method: "GET"
-      path:
-        - "/"
-  - name: "🇮🇪 IE · Dublin · Vmess · 269ms | 079"
-    type: "vmess"
-    server: "54.229.151.97"
-    port: 59236
-    uuid: "2387bfbc-10a6-4bd7-dc55-7cba954ce6e8"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "http"
-    http-opts:
-      method: "GET"
-      path:
-        - "/"
-      headers:
-        Host:
-          - "tms.dingtalk.com"
-  - name: "🇬🇧 GB · London · Shadowsocks · 272ms | 080"
-    type: "ss"
-    server: "198.244.201.129"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇹🇼 TW · Taipei · Shadowsocks · 274ms | 081"
-    type: "ss"
-    server: "amasoid.ddns.net"
-    port: 14514
-    cipher: "2022-blake3-aes-128-gcm"
-    password: "b7I6g7l7fJhBaMInJ+zkzw=="
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 275ms | 082"
-    type: "ss"
-    server: "68.219.96.146"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "G2shlbeRXdE45aVA"
-    udp: true
-  - name: "🇬🇧 GB · London · Shadowsocks · 278ms | 083"
-    type: "ss"
-    server: "198.244.202.215"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 283ms | 084"
-    type: "ss"
-    server: "151.241.19.29"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 284ms | 085"
-    type: "ss"
-    server: "151.241.19.36"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 287ms | 086"
-    type: "ss"
-    server: "193.108.119.83"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 288ms | 087"
-    type: "ss"
-    server: "23.157.88.43"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇪 IE · Dublin · Shadowsocks · 289ms | 088"
-    type: "ss"
-    server: "146.70.90.198"
-    port: 17456
-    cipher: "aes-128-gcm"
-    password: "881cf39affc5286799a585f1acd24d11"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 289ms | 089"
-    type: "ss"
-    server: "193.108.119.3"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 290ms | 090"
-    type: "ss"
-    server: "193.108.119.2"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Naaldwijk · Shadowsocks · 291ms | 091"
-    type: "ss"
-    server: "185.4.115.146"
-    port: 8044
-    cipher: "chacha20-ietf-poly1305"
-    password: "H4JHkHU2pIRZ1sbruQ-p39Grh1z6nxY8"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 291ms | 092"
-    type: "ss"
-    server: "193.108.117.111"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 291ms | 093"
-    type: "ss"
-    server: "193.108.116.98"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇫🇷 FR · Wattrelos · Shadowsocks · 293ms | 094"
-    type: "ss"
-    server: "79.137.99.183"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇬🇧 GB · Stretford · Shadowsocks · 297ms | 095"
-    type: "ss"
-    server: "141.98.101.182"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "🇬🇧 GB · City of London · Shadowsocks · 298ms | 096"
-    type: "ss"
-    server: "185.176.206.9"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 298ms | 097"
-    type: "ss"
-    server: "193.108.117.84"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇬🇧 GB · City of London · Shadowsocks · 299ms | 098"
-    type: "ss"
-    server: "38.114.120.221"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 299ms | 099"
-    type: "ss"
-    server: "185.176.204.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 100"
-    type: "ss"
-    server: "156.67.120.205"
-    port: 51628
-    cipher: "chacha20-ietf-poly1305"
-    password: "29ZZXVa34x7sC48w9FKQ54UKHiJJGTVgKFppBRgviLrVCAYVVyKZdD3obbpjCyk31V5b2G2d7xzqmaPBFdcheCVB9UQ4ZghF"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 300ms | 101"
-    type: "ss"
-    server: "193.108.118.247"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 102"
-    type: "ss"
-    server: "82.38.31.49"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 103"
-    type: "ss"
-    server: "82.38.31.47"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 104"
-    type: "ss"
-    server: "82.38.31.204"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 300ms | 105"
-    type: "ss"
-    server: "216.172.144.199"
-    port: 40643
-    cipher: "chacha20-ietf-poly1305"
-    password: "Xd4G9xn7AgT88msCYC9MZfavMUqd3dWFNAvswi6KfaD9YcexptMbPn4cSECEMzDgvAMomAWJHyweqJer99ssMVYGH6TK8k4c"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 301ms | 106"
-    type: "ss"
-    server: "185.226.172.8"
-    port: 8008
-    cipher: "aes-256-gcm"
-    password: "XKFKl2rULjIp74"
-    udp: true
-  - name: "🇳🇱 NL · Naaldwijk · Shadowsocks · 301ms | 107"
-    type: "ss"
-    server: "dns27.m3hrzd.ir"
-    port: 8044
-    cipher: "chacha20-ietf-poly1305"
-    password: "H4JHkHU2pIRZ1sbruQ-p39Grh1z6nxY8"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 301ms | 108"
-    type: "ss"
-    server: "82.38.31.157"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 302ms | 109"
-    type: "ss"
-    server: "57.129.83.85"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 302ms | 110"
-    type: "ss"
-    server: "82.38.31.165"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 111"
-    type: "ss"
-    server: "82.38.31.194"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 303ms | 112"
-    type: "ss"
-    server: "82.38.31.39"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 304ms | 113"
-    type: "ss"
-    server: "193.29.139.147"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 305ms | 114"
-    type: "ss"
-    server: "82.38.31.187"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 307ms | 115"
-    type: "ss"
-    server: "82.38.31.66"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 307ms | 116"
-    type: "ss"
-    server: "82.38.31.170"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 307ms | 117"
-    type: "ss"
-    server: "193.29.139.132"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 118"
-    type: "ss"
-    server: "82.38.31.186"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 119"
-    type: "ss"
-    server: "82.38.31.62"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 120"
-    type: "ss"
-    server: "82.38.31.46"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 122"
-    type: "ss"
-    server: "82.38.31.171"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 123"
-    type: "ss"
-    server: "178.83.185.156"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 308ms | 124"
-    type: "ss"
-    server: "82.38.31.156"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 308ms | 125"
-    type: "ss"
-    server: "82.38.31.176"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇬🇧 GB · Slough · Shadowsocks · 308ms | 126"
-    type: "ss"
-    server: "67.159.56.79"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "~4HT,}bC@heiRai"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 127"
-    type: "ss"
-    server: "193.29.139.235"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 128"
-    type: "ss"
-    server: "193.29.139.223"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 129"
-    type: "ss"
-    server: "82.38.31.198"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 130"
-    type: "ss"
-    server: "82.38.31.191"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 131"
-    type: "ss"
-    server: "82.38.31.220"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 132"
-    type: "ss"
-    server: "82.38.31.205"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 309ms | 133"
-    type: "ss"
-    server: "82.38.31.216"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 310ms | 134"
-    type: "ss"
-    server: "193.29.139.168"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "QCXDxuDlTTMD7jtgHUjIoj"
-    udp: true
-  - name: "🇫🇷 FR · Paris · Shadowsocks · 310ms | 135"
-    type: "ss"
-    server: "172.99.189.142"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 310ms | 136"
-    type: "ss"
-    server: "82.38.31.210"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 310ms | 137"
-    type: "ss"
-    server: "82.38.31.200"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 311ms | 138"
-    type: "ss"
-    server: "82.38.31.171"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇫🇷 FR · Paris · Shadowsocks · 312ms | 139"
-    type: "ss"
-    server: "167.17.64.22"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 312ms | 140"
-    type: "ss"
-    server: "82.38.31.181"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇫🇷 FR · Paris · Shadowsocks · 312ms | 141"
-    type: "ss"
-    server: "23.162.152.22"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 142"
-    type: "ss"
-    server: "82.38.31.215"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 143"
-    type: "ss"
-    server: "82.38.31.192"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 144"
-    type: "ss"
-    server: "82.38.31.218"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 313ms | 145"
-    type: "ss"
-    server: "57.129.76.233"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 146"
-    type: "ss"
-    server: "82.38.31.184"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 147"
-    type: "ss"
-    server: "82.38.31.213"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 148"
-    type: "ss"
-    server: "82.38.31.180"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 313ms | 149"
-    type: "ss"
-    server: "82.38.31.193"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 314ms | 150"
-    type: "ss"
-    server: "82.38.31.212"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 151"
-    type: "ss"
-    server: "82.38.31.217"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 152"
-    type: "ss"
-    server: "193.29.139.212"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "QCXDxuDlTTMD7jtgHUjIoj"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 153"
-    type: "ss"
-    server: "82.38.31.201"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 154"
-    type: "ss"
-    server: "82.38.31.203"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 155"
-    type: "ss"
-    server: "82.38.31.199"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 156"
-    type: "ss"
-    server: "82.38.31.35"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 315ms | 157"
-    type: "ss"
-    server: "82.38.31.185"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 316ms | 158"
-    type: "ss"
-    server: "185.164.175.81"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 159"
-    type: "ss"
-    server: "82.38.31.219"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 160"
-    type: "ss"
-    server: "82.38.31.195"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 316ms | 161"
-    type: "ss"
-    server: "82.38.31.211"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 317ms | 162"
-    type: "ss"
-    server: "202.50.253.27"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 317ms | 163"
-    type: "ss"
-    server: "82.38.31.178"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 318ms | 164"
-    type: "ss"
-    server: "82.38.31.162"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 318ms | 165"
-    type: "ss"
-    server: "202.50.253.36"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 318ms | 166"
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 428ms | 197"
     type: "ss"
     server: "202.50.253.63"
     port: 19999
     cipher: "aes-256-gcm"
     password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 318ms | 167"
+  - name: "🇳🇱 NL · Haarlem · Vless · 431ms | 198"
+    type: "vless"
+    server: "51.158.206.86"
+    port: 23576
+    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "fuck.rkn"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
+      short-id: "01"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 434ms | 199"
     type: "ss"
-    server: "202.50.253.90"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 319ms | 168"
-    type: "ss"
-    server: "202.50.253.54"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 319ms | 169"
-    type: "ss"
-    server: "82.38.31.207"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 319ms | 170"
-    type: "ss"
-    server: "202.50.253.18"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 320ms | 171"
-    type: "ss"
-    server: "82.38.31.214"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "🇨🇭 CH · Zurich · Shadowsocks · 320ms | 172"
-    type: "ss"
-    server: "79.127.184.104"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 320ms | 173"
-    type: "ss"
-    server: "202.50.253.45"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 321ms | 174"
-    type: "ss"
-    server: "193.29.139.234"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "4a2rfixophdjffa8KVA4Aa"
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 323ms | 175"
-    type: "ss"
-    server: "15.235.164.133"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 324ms | 176"
-    type: "ss"
-    server: "15.235.182.183"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇨🇭 CH · Zurich · Shadowsocks · 325ms | 177"
-    type: "ss"
-    server: "23.166.88.127"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 326ms | 178"
-    type: "ss"
-    server: "149.88.106.74"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 328ms | 179"
-    type: "ss"
-    server: "149.88.106.73"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 329ms | 180"
-    type: "ss"
-    server: "149.50.215.234"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 329ms | 181"
-    type: "ss"
-    server: "202.50.253.72"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 330ms | 182"
-    type: "ss"
-    server: "149.88.107.74"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇪🇸 ES · Barcelona · Shadowsocks · 330ms | 183"
-    type: "ss"
-    server: "193.148.19.214"
-    port: 12798
-    cipher: "aes-128-gcm"
-    password: "cd706a104284a70f9cffe6ac1df63c18"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 330ms | 184"
-    type: "ss"
-    server: "202.50.253.99"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇨🇭 CH · Zurich · Shadowsocks · 331ms | 185"
-    type: "ss"
-    server: "23.166.88.189"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇮🇹 IT · Milan · Shadowsocks · 331ms | 186"
-    type: "ss"
-    server: "202.50.253.81"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 331ms | 187"
-    type: "ss"
-    server: "129.150.59.74"
-    port: 14384
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "sUR6Ny8Y6PSvHhl/DUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 332ms | 188"
-    type: "ss"
-    server: "149.88.107.47"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Shadowsocks · 332ms | 189"
-    type: "ss"
-    server: "51.79.228.131"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 333ms | 190"
-    type: "vmess"
-    server: "149.88.23.202"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 335ms | 191"
-    type: "ss"
-    server: "62.182.193.228"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "2e555e46dbc421452416834962fd014f"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 336ms | 192"
-    type: "vmess"
-    server: "149.88.23.207"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇦🇹 AT · Vienna · Shadowsocks · 338ms | 193"
-    type: "ss"
-    server: "82.110.60.9"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇪 SE · Stockholm · Shadowsocks · 338ms | 194"
-    type: "ss"
-    server: "138.199.55.243"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇪🇸 ES · Madrid · Shadowsocks · 338ms | 195"
-    type: "ss"
-    server: "62.93.179.117"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇸🇪 SE · Spånga · Shadowsocks · 339ms | 196"
-    type: "ss"
-    server: "70.34.212.124"
-    port: 8388
-    cipher: "aes-256-gcm"
-    password: "AxIYWtskJWIIaefW"
-    udp: true
-  - name: "🇸🇬 SG · Singapore · Vmess · 339ms | 197"
-    type: "vmess"
-    server: "116.88.224.217"
-    port: 8080
-    uuid: "6f4f0eb5-fe86-41ca-eccb-a6ca68f88d9b"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇦🇹 AT · Vienna · Shadowsocks · 340ms | 198"
-    type: "ss"
-    server: "152.53.1.57"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "AdawffFMHymlasRb0VOP3HFf7sTG5sJx"
-    udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Shadowsocks · 340ms | 199"
-    type: "ss"
-    server: "57.129.113.16"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "NcAXc0UZI6yQJE1p8QmOv8"
-    udp: true
-  - name: "🇪🇸 ES · Madrid · Shadowsocks · 341ms | 200"
-    type: "ss"
-    server: "62.93.179.97"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 348ms | 201"
-    type: "ss"
-    server: "154.36.158.197"
-    port: 8388
-    cipher: "aes-256-gcm"
-    password: "BeaUf9c0AEWH40Pu"
-    udp: true
-  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 353ms | 202"
-    type: "ss"
-    server: "2.29.138.56"
-    port: 26412
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "L9F2GjYbyk6gICuLp2LFmHC0lKaEW7HOA32XTf29C6Y=:OvfxPVBCAsZFpN0pIx9AwgxwxV+U3A7XtRagdUwio+U="
-    udp: true
-  - name: "🇫🇷 FR · Paris · Shadowsocks · 353ms | 203"
-    type: "ss"
-    server: "167.17.64.27"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇨🇭 CH · Zurich · Shadowsocks · 354ms | 204"
-    type: "ss"
-    server: "186.190.215.251"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇪🇸 ES · Madrid · Shadowsocks · 361ms | 205"
-    type: "ss"
-    server: "79.127.139.242"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇫🇷 FR · Paris · Shadowsocks · 369ms | 206"
-    type: "ss"
-    server: "38.109.228.110"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇪🇸 ES · Madrid · Shadowsocks · 376ms | 207"
-    type: "ss"
-    server: "167.17.71.167"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 388ms | 208"
-    type: "ss"
-    server: "213.176.92.148"
-    port: 40647
-    cipher: "aes-256-gcm"
-    password: "DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg/cUUY="
-    udp: true
-  - name: "🇬🇧 GB · City of London · Shadowsocks · 388ms | 209"
-    type: "ss"
-    server: "142.202.51.22"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇷🇴 RO · Voluntari · Shadowsocks · 389ms | 210"
-    type: "ss"
-    server: "154.46.31.106"
+    server: "82.38.31.171"
     port: 443
     cipher: "chacha20-ietf-poly1305"
-    password: "QFWzCw2uX9B9i6qAYeFBIE"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
     udp: true
-  - name: "🇪🇸 ES · Madrid · Shadowsocks · 391ms | 211"
-    type: "ss"
-    server: "66.163.118.103"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  - name: "🇳🇱 NL · Haarlem · Vless · 439ms | 200"
+    type: "vless"
+    server: "51.158.206.26"
+    port: 23576
+    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
     udp: true
-  - name: "🇫🇷 FR · Paris · Shadowsocks · 412ms | 212"
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "fuck.rkn"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
+      short-id: "01"
+  - name: "🇽🇽 XX · Shadowsocks · 448ms | 201"
     type: "ss"
-    server: "167.17.64.175"
-    port: 19999
-    cipher: "aes-256-gcm"
-    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-    udp: true
-  - name: "🇫🇮 FI · Helsinki · Shadowsocks · 413ms | 213"
-    type: "ss"
-    server: "oztq9osla2ad.dop15.com"
-    port: 26412
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "L9F2GjYbyk6gICuLp2LFmHC0lKaEW7HOA32XTf29C6Y=:OvfxPVBCAsZFpN0pIx9AwgxwxV+U3A7XtRagdUwio+U="
-    udp: true
-  - name: "🇦🇱 AL · Tirana · Shadowsocks · 418ms | 214"
-    type: "ss"
-    server: "130.49.189.158"
-    port: 43558
+    server: "82.38.31.211"
+    port: 8080
     cipher: "chacha20-ietf-poly1305"
-    password: "LNc9h/4NA9Q6ZHNeYHoT5X/fR9aoE9KQR1SWhVDHBog="
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "🇰🇷 KR · Chuncheon · Vmess · 420ms | 215"
+  - name: "🇰🇷 KR · Chuncheon · Vmess · 468ms | 202"
     type: "vmess"
     server: "129.154.61.196"
     port: 800
@@ -1561,18 +1476,265 @@ proxies:
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇭🇰 HK · Hong Kong · Vmess · 422ms | 216"
+  - name: "🇹🇷 TR · Istanbul · Shadowsocks · 468ms | 203"
+    type: "ss"
+    server: "206.1.103.120"
+    port: 24374
+    cipher: "2022-blake3-aes-256-gcm"
+    password: "hEzBZw+S3SFV5kRjyKhvnfu7NASZXlfkzCosaqj+ios=:CIGAOWB9WI6ThC+rRufkyyEld6B5Z0AUICHiXPXfYHg="
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 475ms | 204"
+    type: "ss"
+    server: "38.60.223.125"
+    port: 13108
+    cipher: "aes-128-gcm"
+    password: "8722de56b6c0b3f6a4d01cf91c07e6aa"
+    udp: true
+  - name: "🇷🇺 RU · Moscow · Shadowsocks · 495ms | 205"
+    type: "ss"
+    server: "46.17.47.58"
+    port: 18443
+    cipher: "aes-256-gcm"
+    password: "cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa"
+    udp: true
+  - name: "🇷🇺 RU · Moscow · Shadowsocks · 502ms | 206"
+    type: "ss"
+    server: "185.22.153.117"
+    port: 18443
+    cipher: "aes-256-gcm"
+    password: "NTiHBg64fsY8u8DbGrtypD9gPGSL386p"
+    udp: true
+  - name: "🇦🇱 AL · Tirana · Shadowsocks · 507ms | 207"
+    type: "ss"
+    server: "130.49.189.158"
+    port: 43558
+    cipher: "chacha20-ietf-poly1305"
+    password: "LNc9h/4NA9Q6ZHNeYHoT5X/fR9aoE9KQR1SWhVDHBog="
+    udp: true
+  - name: "🇩🇪 DE · Frankfurt am Main · Vmess · 516ms | 208"
     type: "vmess"
-    server: "47.244.120.197"
-    port: 36703
-    uuid: "45b83519-9c4f-4052-a11b-02e017b636d4"
+    server: "193.108.117.61"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
     alterId: 0
     cipher: "auto"
     udp: true
-    network: "ws"
-    ws-opts:
-      path: "/arki"
-  - name: "🇭🇰 HK · Hong Kong · Vmess · 423ms | 217"
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇫🇷 FR · Lille · Vmess · 518ms | 209"
+    type: "vmess"
+    server: "46.105.222.155"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 525ms | 210"
+    type: "ss"
+    server: "84.247.155.196"
+    port: 80
+    cipher: "aes-256-gcm"
+    password: "3eOFeNssde7PYYMv"
+    udp: true
+  - name: "🇫🇷 FR · Lille · Vmess · 526ms | 211"
+    type: "vmess"
+    server: "46.105.222.157"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇪🇪 EE · Narva · Vless · 533ms | 212"
+    type: "vless"
+    server: "185.215.184.53"
+    port: 443
+    uuid: "90157e25-cee1-4217-921e-91f300bc1a24"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "dvizhok.su"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs"
+      short-id: "428ef87fd47a3a32"
+  - name: "🇸🇪 SE · Stockholm · Vmess · 535ms | 213"
+    type: "vmess"
+    server: "62.93.166.184"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇮🇹 IT · Milan · Vmess · 541ms | 214"
+    type: "vmess"
+    server: "149.50.215.240"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇦🇹 AT · Vienna · Vmess · 543ms | 215"
+    type: "vmess"
+    server: "154.47.19.225"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 546ms | 216"
+    type: "ss"
+    server: "102.37.156.224"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "aduB9HGxQHjA2SBMRjkHX6"
+    udp: true
+  - name: "🇫🇷 FR · Gravelines · Vmess · 549ms | 217"
+    type: "vmess"
+    server: "162.19.82.57"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇮🇹 IT · Milan · Vmess · 549ms | 218"
+    type: "vmess"
+    server: "149.50.215.238"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇸🇬 SG · Singapore · Vmess · 550ms | 219"
+    type: "vmess"
+    server: "15.235.144.92"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 552ms | 220"
+    type: "ss"
+    server: "193.29.139.212"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "QCXDxuDlTTMD7jtgHUjIoj"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 562ms | 221"
+    type: "ss"
+    server: "20.164.212.218"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "2tEG6QDaFjEic05o"
+    udp: true
+  - name: "🇹🇭 TH · Pak Kret · Vmess · 563ms | 222"
+    type: "vmess"
+    server: "119.46.51.45"
+    port: 37515
+    uuid: "9b76bc31-17a5-4454-934a-8d5fb602cd70"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 563ms | 223"
+    type: "ss"
+    server: "102.133.165.160"
+    port: 16233
+    cipher: "chacha20-ietf-poly1305"
+    password: "Xsy8Ox4yOV3xLlpxtjzs3X"
+    udp: true
+  - name: "🇽🇽 XX · Shadowsocks · 564ms | 224"
+    type: "ss"
+    server: "20.164.212.218"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "SLFwIpUe79MuuFcq"
+    udp: true
+  - name: "🇦🇺 AU · Sydney · Vmess · 577ms | 225"
+    type: "vmess"
+    server: "ww11.levikogjgfdd.ir"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+  - name: "🇱🇻 LV · Riga · Vless · 577ms | 226"
+    type: "vless"
+    server: "217.60.60.243"
+    port: 443
+    uuid: "42a64b9a-ab79-4094-8656-30366a7c2ea3"
+    udp: true
+    tls: true
+    servername: "lv.peregrine-sub.net"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw"
+  - name: "🇬🇧 GB · City of London · Vmess · 593ms | 227"
+    type: "vmess"
+    server: "149.7.16.228"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇸🇪 SE · Stockholm · Vmess · 618ms | 228"
+    type: "vmess"
+    server: "138.199.55.230"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇮🇹 IT · Palermo · Vmess · 654ms | 229"
+    type: "vmess"
+    server: "149.22.91.20"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 667ms | 230"
+    type: "ss"
+    server: "193.29.139.147"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇳🇱 NL · Eygelshoven · Shadowsocks · 671ms | 231"
+    type: "ss"
+    server: "177.202.64.67"
+    port: 1080
+    cipher: "aes-256-gcm"
+    password: "FJo_V-KMvriDekN0CYkdNH0C"
+    udp: true
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 676ms | 232"
+    type: "ss"
+    server: "82.38.31.199"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 696ms | 233"
     type: "vmess"
     server: "47.244.120.197"
     port: 44867
@@ -1585,275 +1747,75 @@ proxies:
       path: "/arki"
       headers:
         Host: "47.244.120.197"
-  - name: "🇮🇳 IN · Mumbai · Shadowsocks · 429ms | 218"
+  - name: "🇳🇱 NL · Amsterdam · Shadowsocks · 698ms | 234"
     type: "ss"
-    server: "172.105.39.124"
-    port: 7002
-    cipher: "aes-256-gcm"
-    password: "RexnBgU7EV5ADxG"
+    server: "82.38.31.205"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "🇫🇷 FR · Lille · Vmess · 436ms | 219"
-    type: "vmess"
-    server: "46.105.222.155"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇽🇽 XX · Shadowsocks · 440ms | 220"
+  - name: "🇷🇴 RO · Bucharest · Shadowsocks · 748ms | 235"
     type: "ss"
-    server: "38.60.223.125"
-    port: 13108
-    cipher: "aes-128-gcm"
-    password: "8722de56b6c0b3f6a4d01cf91c07e6aa"
+    server: "194.68.44.42"
+    port: 64546
+    cipher: "chacha20-ietf-poly1305"
+    password: "U83u9OGpvSatIUW7LsWffr"
     udp: true
-  - name: "🇩🇪 DE · Frankfurt am Main · Vmess · 440ms | 221"
-    type: "vmess"
-    server: "193.108.117.61"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
+  - name: "🇹🇭 TH · Bangkok · Trojan · 775ms | 236"
+    type: "trojan"
+    server: "th001.zestapp778.com"
+    port: 33079
+    password: "5t6i121em5lkmsmk"
     udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇫🇷 FR · Lille · Vmess · 444ms | 222"
-    type: "vmess"
-    server: "46.105.222.157"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
+    sni: "th001.zestapp778.com"
+  - name: "🇷🇸 RS · Belgrade · Vless · 852ms | 237"
+    type: "vless"
+    server: "rs4.univesalsrv.com"
+    port: 443
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
     udp: true
     tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇫🇷 FR · Wattrelos · Vmess · 449ms | 223"
+    servername: "rs4.univesalsrv.com"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs"
+      short-id: "861ac7d66953e55f"
+    network: "grpc"
+    grpc-opts:
+      grpc-service-name: "media.v1.StreamService"
+  - name: "🇦🇺 AU · Sydney · Vmess · 865ms | 238"
     type: "vmess"
-    server: "79.137.99.183"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇬🇧 GB · City of London · Vmess · 461ms | 224"
-    type: "vmess"
-    server: "149.7.16.228"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇫🇷 FR · Gravelines · Vmess · 461ms | 225"
-    type: "vmess"
-    server: "162.19.82.57"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇹🇭 TH · Pak Kret · Vmess · 461ms | 226"
-    type: "vmess"
-    server: "119.46.51.45"
-    port: 37515
-    uuid: "9b76bc31-17a5-4454-934a-8d5fb602cd70"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇷🇺 RU · Moscow · Shadowsocks · 473ms | 227"
-    type: "ss"
-    server: "185.22.153.117"
-    port: 18443
-    cipher: "aes-256-gcm"
-    password: "NTiHBg64fsY8u8DbGrtypD9gPGSL386p"
-    udp: true
-  - name: "🇦🇺 AU · Sydney · Vmess · 488ms | 228"
-    type: "vmess"
-    server: "ww11.levikogjgfdd.ir"
+    server: "149.88.23.207"
     port: 18000
     uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
     alterId: 0
     cipher: "auto"
     udp: true
-  - name: "🇮🇹 IT · Milan · Vmess · 494ms | 229"
+  - name: "🇲🇾 MY · Kuala Lumpur · Vmess · 869ms | 239"
     type: "vmess"
-    server: "149.50.215.240"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    server: "47.250.135.244"
+    port: 10000
+    uuid: "aedc66b8-99d7-4a21-8310-61870e7f870d"
     alterId: 0
     cipher: "auto"
     udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇸🇬 SG · Singapore · Vmess · 498ms | 230"
+  - name: "🇦🇺 AU · Sydney · Vmess · 979ms | 240"
     type: "vmess"
-    server: "15.235.144.92"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    server: "149.88.23.202"
+    port: 18000
+    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
     alterId: 0
     cipher: "auto"
     udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇸🇪 SE · Stockholm · Vmess · 499ms | 231"
+  - name: "🇽🇽 XX · Vmess · 1008ms | 241"
     type: "vmess"
-    server: "138.199.55.230"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    server: "zfd-boardv2.kunlun01dns.com"
+    port: 16272
+    uuid: "0802ac03-7973-39ef-a019-ba02de6c01e1"
     alterId: 0
     cipher: "auto"
     udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇽🇽 XX · Vmess · 500ms | 232"
-    type: "vmess"
-    server: "104.18.42.163"
-    port: 443
-    uuid: "6a89a215-22bf-4bd7-9642-b95b2e09583a"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "guanwang.awsno.com"
-    network: "ws"
-    ws-opts:
-      path: "/hls/cctv5phd.m3u8"
-      headers:
-        Host: "guanwang.awsno.com"
-  - name: "🇸🇪 SE · Stockholm · Vmess · 504ms | 233"
-    type: "vmess"
-    server: "62.93.166.184"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇷🇺 RU · Moscow · Shadowsocks · 507ms | 234"
-    type: "ss"
-    server: "46.17.47.58"
-    port: 18443
-    cipher: "aes-256-gcm"
-    password: "cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa"
-    udp: true
-  - name: "🇮🇹 IT · Milan · Vmess · 509ms | 235"
-    type: "vmess"
-    server: "149.50.215.238"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇦🇱 AL · Tirana · Shadowsocks · 517ms | 236"
-    type: "ss"
-    server: "130.49.189.158"
-    port: 43558
-    cipher: "chacha20-ietf-poly1305"
-    password: "yZiPrr484OdSYcivDUv+UIygwvyW+HQYytKsIgTw9tU="
-    udp: true
-  - name: "🇦🇹 AT · Vienna · Vmess · 517ms | 237"
-    type: "vmess"
-    server: "154.47.19.225"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇸🇪 SE · Stockholm · Vless · 520ms | 238"
-    type: "vless"
-    server: "150.241.79.124"
-    port: 443
-    uuid: "1fe01c8a-ab37-4e95-bbfc-95d4a608931e"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    servername: "de1.waspnest.space"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM"
-      short-id: "5212dad2aa9723d7"
-  - name: "🇧🇷 BR · São Paulo · Vmess · 550ms | 240"
-    type: "vmess"
-    server: "103.88.232.55"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 555ms | 241"
-    type: "ss"
-    server: "102.37.156.224"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "aduB9HGxQHjA2SBMRjkHX6"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 557ms | 242"
-    type: "ss"
-    server: "20.164.212.218"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "2tEG6QDaFjEic05o"
-    udp: true
-  - name: "🇿🇦 ZA · Johannesburg · Shadowsocks · 558ms | 243"
-    type: "ss"
-    server: "102.133.165.160"
-    port: 16233
-    cipher: "chacha20-ietf-poly1305"
-    password: "Xsy8Ox4yOV3xLlpxtjzs3X"
-    udp: true
-  - name: "🇽🇽 XX · Shadowsocks · 576ms | 244"
-    type: "ss"
-    server: "20.164.212.218"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "SLFwIpUe79MuuFcq"
-    udp: true
-  - name: "🇨🇦 CA · Montreal · Shadowsocks · 580ms | 245"
-    type: "ss"
-    server: "51.222.141.125"
-    port: 445
-    cipher: "aes-256-gcm"
-    password: "zDNVedRFPQexG9v"
-    udp: true
-  - name: "🇮🇹 IT · Palermo · Vmess · 589ms | 246"
-    type: "vmess"
-    server: "149.22.91.20"
-    port: 1270
-    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    tls: true
-    servername: "xmfhlpy.com"
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 595ms | 247"
-    type: "ss"
-    server: "51.79.85.185"
-    port: 8118
-    cipher: "aes-256-gcm"
-    password: "cdBIDV42DCwnfIN"
-    udp: true
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 608ms | 248"
-    type: "ss"
-    server: "51.222.155.32"
-    port: 5003
-    cipher: "aes-256-gcm"
-    password: "g5MeD6Ft3CWlJId"
-    udp: true
-  - name: "🇭🇰 HK · Hong Kong · Vmess · 717ms | 249"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 1064ms | 242"
     type: "vmess"
     server: "156.245.232.239"
     port: 35043
@@ -1866,14 +1828,7 @@ proxies:
       path: "/"
       headers:
         Host: "156.245.232.239"
-  - name: "🇷🇴 RO · Bucharest · Shadowsocks · 732ms | 250"
-    type: "ss"
-    server: "194.68.44.42"
-    port: 64546
-    cipher: "chacha20-ietf-poly1305"
-    password: "U83u9OGpvSatIUW7LsWffr"
-    udp: true
-  - name: "🇰🇿 KZ · Almaty · Vmess · 867ms | 251"
+  - name: "🇰🇿 KZ · Almaty · Vmess · 1201ms | 243"
     type: "vmess"
     server: "38.107.234.57"
     port: 80
@@ -1886,14 +1841,31 @@ proxies:
       path: "/vmess/"
       headers:
         Host: "38.107.234.57"
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 923ms | 252"
+  - name: "🇮🇹 IT · Milan · Shadowsocks · 1242ms | 244"
     type: "ss"
-    server: "51.222.155.113"
-    port: 5601
+    server: "202.50.253.54"
+    port: 19999
+    cipher: "aes-256-gcm"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+    udp: true
+  - name: "🇧🇷 BR · São Paulo · Vmess · 1303ms | 245"
+    type: "vmess"
+    server: "103.88.232.55"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇩🇪 DE · Düsseldorf · Shadowsocks · 1427ms | 246"
+    type: "ss"
+    server: "213.202.208.199"
+    port: 5000
     cipher: "aes-256-gcm"
     password: "Y6R9pAtvxxzmGC"
     udp: true
-  - name: "🇰🇿 KZ · Almaty · Vmess · 953ms | 253"
+  - name: "🇰🇿 KZ · Almaty · Vmess · 1433ms | 247"
     type: "vmess"
     server: "3h-kazakhstan1.09vpn.com"
     port: 80
@@ -1906,56 +1878,74 @@ proxies:
       path: "/vmess/"
       headers:
         Host: "3h-kazakhstan1.09vpn.com"
-  - name: "🇦🇺 AU · Sydney · Vmess · 962ms | 254"
-    type: "vmess"
-    server: "67.220.95.3"
-    port: 18000
-    uuid: "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-  - name: "🇬🇧 GB · City of London · Shadowsocks · 1116ms | 255"
+  - name: "🇬🇧 GB · City of London · Shadowsocks · 1436ms | 248"
     type: "ss"
     server: "94.156.250.148"
     port: 7001
     cipher: "aes-256-gcm"
     password: "RexnBgU7EV5ADxG"
     udp: true
-  - name: "🇯🇵 JP · Osaka · Vmess · 1343ms | 256"
+  - name: "🇭🇰 HK · Hong Kong · Vmess · 1536ms | 249"
     type: "vmess"
-    server: "168.138.43.75"
-    port: 80
-    uuid: "11c3627f-31e8-4695-dfbd-34076e2f1f5d"
+    server: "47.244.120.197"
+    port: 23026
+    uuid: "b9de1bc9-baa7-41ac-86f7-ccd59695cb21"
     alterId: 0
     cipher: "auto"
     udp: true
     network: "ws"
     ws-opts:
-      path: "/cctv13.m3u8"
+      path: "/arki"
       headers:
-        Host: "None"
-  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 1686ms | 257"
+        Host: "47.244.120.197"
+  - name: "🇷🇴 RO · Voluntari · Shadowsocks · 1698ms | 250"
+    type: "ss"
+    server: "bogging-eyeteeth-fly.freesocks.work"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "QFWzCw2uX9B9i6qAYeFBIE"
+    udp: true
+  - name: "🇨🇭 CH · Zurich · Vless · 1844ms | 251"
+    type: "vless"
+    server: "prvtch.titun.su"
+    port: 443
+    uuid: "90157e25-cee1-4217-921e-91f300bc1a24"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    servername: "perevodchiki.su"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs"
+      short-id: "428ef87fd47a3a32"
+  - name: "🇯🇵 JP · Tokyo · Shadowsocks · 1900ms | 252"
+    type: "ss"
+    server: "154.36.158.197"
+    port: 8388
+    cipher: "aes-256-gcm"
+    password: "BeaUf9c0AEWH40Pu"
+    udp: true
+  - name: "🇫🇷 FR · Wattrelos · Vmess · 2550ms | 253"
+    type: "vmess"
+    server: "79.137.99.183"
+    port: 1270
+    uuid: "5c040f1d-45db-43bd-8d46-e4950e433735"
+    alterId: 0
+    cipher: "auto"
+    udp: true
+    tls: true
+    servername: "xmfhlpy.com"
+  - name: "🇨🇦 CA · Beauharnois · Shadowsocks · 2909ms | 254"
     type: "ss"
     server: "51.222.12.127"
     port: 445
     cipher: "aes-256-gcm"
     password: "zDNVedRFPQexG9v"
     udp: true
-  - name: "🇩🇪 DE · Düsseldorf · Shadowsocks · 1786ms | 258"
+  - name: "🇬🇧 GB · London · Shadowsocks · 2917ms | 255"
     type: "ss"
-    server: "213.202.208.199"
-    port: 5000
+    server: "198.244.202.215"
+    port: 19999
     cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
+    password: "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
     udp: true
-  - name: "🇬🇧 GB · Bexley · Vmess · 1842ms | 259"
-    type: "vmess"
-    server: "57.129.132.223"
-    port: 80
-    uuid: "a25cbf11-2908-4a1b-a3a8-9a571777dca3"
-    alterId: 0
-    cipher: "auto"
-    udp: true
-    network: "ws"
-    ws-opts:
-      path: "/vmess/"
