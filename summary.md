@@ -1,39 +1,40 @@
 ```json
 {
-  "last_updated_utc": "2026-11-19 23:58:15",
-  "total_servers": 289,
-  "avg_latency_ms": 246,
+  "last_updated_utc": "2026-11-20 04:47:45",
+  "total_servers": 291,
+  "avg_latency_ms": 267,
   "protocols": {
-    "shadowsocks": 251,
+    "shadowsocks": 256,
     "vless": 2,
-    "vmess": 36
+    "vmess": 33
   },
   "countries": {
-    "Albania": 1,
-    "Australia": 9,
+    "Albania": 4,
+    "Australia": 11,
     "Austria": 4,
+    "Belarus": 1,
     "Brazil": 2,
     "Canada": 17,
     "Finland": 2,
     "France": 13,
     "Germany": 44,
-    "Hong Kong": 1,
+    "Hong Kong": 3,
     "India": 1,
     "Italy": 14,
-    "Japan": 10,
-    "Kazakhstan": 2,
+    "Japan": 9,
+    "Kazakhstan": 1,
     "Mexico": 1,
-    "Netherlands": 1,
-    "Singapore": 15,
+    "Russia": 1,
+    "Singapore": 14,
     "South Africa": 2,
     "South Korea": 2,
     "Spain": 5,
     "Sweden": 1,
     "Switzerland": 4,
-    "The Netherlands": 59,
-    "United Kingdom": 12,
+    "The Netherlands": 60,
+    "United Kingdom": 13,
     "United States": 60,
-    "Unknown": 7
+    "Unknown": 2
   }
 }
 ```
